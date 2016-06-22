@@ -1742,9 +1742,51 @@
                     "startLine": 242,
                     "startColumn": 4,
                     "startOffset": 17799,
-                    "endLine": 251,
+                    "endLine": 252,
                     "endColumn": 12,
-                    "endOffset": 18307
+                    "endOffset": 18553
+                },
+                "from": {
+                    "file": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.8.6.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 809
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 253,
+                    "startColumn": 4,
+                    "startOffset": 18558,
+                    "endLine": 263,
+                    "endColumn": 12,
+                    "endOffset": 19304
+                },
+                "from": {
+                    "file": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.8.6.0\\res\\values-v21\\values-v21.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 814,
+                        "endLine": 23,
+                        "endColumn": 12,
+                        "endOffset": 1560
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 264,
+                    "startColumn": 4,
+                    "startOffset": 19309,
+                    "endLine": 273,
+                    "endColumn": 12,
+                    "endOffset": 19817
                 },
                 "from": {
                     "file": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
@@ -1760,12 +1802,12 @@
             },
             {
                 "to": {
-                    "startLine": 252,
+                    "startLine": 274,
                     "startColumn": 4,
-                    "startOffset": 18312,
-                    "endLine": 261,
+                    "startOffset": 19822,
+                    "endLine": 283,
                     "endColumn": 12,
-                    "endOffset": 18832
+                    "endOffset": 20342
                 },
                 "from": {
                     "file": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
@@ -1781,12 +1823,12 @@
             },
             {
                 "to": {
-                    "startLine": 262,
+                    "startLine": 284,
                     "startColumn": 4,
-                    "startOffset": 18837,
-                    "endLine": 271,
+                    "startOffset": 20347,
+                    "endLine": 293,
                     "endColumn": 12,
-                    "endOffset": 19512
+                    "endOffset": 21022
                 },
                 "from": {
                     "file": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
@@ -1802,11 +1844,11 @@
             },
             {
                 "to": {
-                    "startLine": 272,
+                    "startLine": 294,
                     "startColumn": 4,
-                    "startOffset": 19517,
+                    "startOffset": 21027,
                     "endColumn": 56,
-                    "endOffset": 19569
+                    "endOffset": 21079
                 },
                 "from": {
                     "file": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
@@ -1821,11 +1863,11 @@
             },
             {
                 "to": {
-                    "startLine": 273,
+                    "startLine": 295,
                     "startColumn": 4,
-                    "startOffset": 19574,
+                    "startOffset": 21084,
                     "endColumn": 57,
-                    "endOffset": 19627
+                    "endOffset": 21137
                 },
                 "from": {
                     "file": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",

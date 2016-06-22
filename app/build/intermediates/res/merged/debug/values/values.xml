@@ -1,14 +1,63 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
+<resources xmlns:ns1="http://schemas.android.com/tools">
     <attr format="reference" name="drawerArrowStyle"/>
     <attr format="dimension" name="height"/>
     <attr format="boolean" name="isLightTheme"/>
+    <attr format="color" name="md_background_color"/>
+    <attr format="reference" name="md_btn_negative_selector"/>
+    <attr format="reference" name="md_btn_neutral_selector"/>
+    <attr format="reference" name="md_btn_positive_selector"/>
+    <attr format="color" name="md_btn_ripple_color"/>
+    <attr format="reference" name="md_btn_stacked_selector"/>
+    <attr format="enum" name="md_btnstacked_gravity">
+        <enum name="start" value="0"/>
+        <enum name="center" value="1"/>
+        <enum name="end" value="2"/>
+    </attr>
+    <attr format="enum" name="md_buttons_gravity">
+        <enum name="start" value="0"/>
+        <enum name="center" value="1"/>
+        <enum name="end" value="2"/>
+    </attr>
+    <attr format="color" name="md_content_color"/>
+    <attr format="enum" name="md_content_gravity">
+        <enum name="start" value="0"/>
+        <enum name="center" value="1"/>
+        <enum name="end" value="2"/>
+    </attr>
+    <attr format="boolean" name="md_dark_theme"/>
+    <attr format="color" name="md_divider"/>
+    <attr format="color" name="md_divider_color"/>
+    <attr format="reference" name="md_icon"/>
+    <attr format="boolean" name="md_icon_limit_icon_to_default_size"/>
+    <attr format="dimension" name="md_icon_max_size"/>
+    <attr format="color" name="md_item_color"/>
+    <attr format="enum" name="md_items_gravity">
+        <enum name="start" value="0"/>
+        <enum name="center" value="1"/>
+        <enum name="end" value="2"/>
+    </attr>
+    <attr format="color" name="md_link_color"/>
+    <attr format="reference" name="md_list_selector"/>
+    <attr format="string" name="md_medium_font"/>
+    <attr format="color" name="md_negative_color"/>
+    <attr format="color" name="md_neutral_color"/>
+    <attr format="color" name="md_positive_color"/>
+    <attr format="string" name="md_regular_font"/>
+    <attr format="color" name="md_title_color"/>
+    <attr format="enum" name="md_title_gravity">
+        <enum name="start" value="0"/>
+        <enum name="center" value="1"/>
+        <enum name="end" value="2"/>
+    </attr>
+    <attr format="color" name="md_widget_color"/>
     <attr format="string" name="title"/>
     <bool name="abc_action_bar_embed_tabs">true</bool>
     <bool name="abc_allow_stacked_button_bar">true</bool>
     <bool name="abc_config_actionMenuItemAllCaps">true</bool>
     <bool name="abc_config_closeDialogWhenTouchOutside">true</bool>
     <bool name="abc_config_showMenuShortcutsWhenKeyboardPresent">false</bool>
+    <bool name="md_is_tablet">false</bool>
     <color name="abc_input_method_navigation_guard">@android:color/black</color>
     <color name="abc_search_url_text_normal">#7fa87f</color>
     <color name="abc_search_url_text_pressed">@android:color/black</color>
@@ -49,6 +98,13 @@
     <color name="material_grey_800">#ff424242</color>
     <color name="material_grey_850">#ff303030</color>
     <color name="material_grey_900">#ff212121</color>
+    <color name="md_btn_selected">#33969696</color>
+    <color name="md_btn_selected_dark">#40CBCBCB</color>
+    <color name="md_divider_black">#10000000</color>
+    <color name="md_divider_white">#10FFFFFF</color>
+    <color name="md_edittext_error">#DD2C00</color>
+    <color name="md_material_blue_600">#1E88E5</color>
+    <color name="md_material_blue_800">#1565C0</color>
     <color name="primary">#FF5722</color>
     <color name="primary_dark">#FF5722</color>
     <color name="primary_dark_material_dark">@android:color/black</color>
@@ -88,11 +144,15 @@
     <declare-styleable name="LinearLayoutCompat"><attr name="android:orientation"/><attr name="android:gravity"/><attr name="android:baselineAligned"/><attr name="android:baselineAlignedChildIndex"/><attr name="android:weightSum"/><attr format="boolean" name="measureWithLargestChild"/><attr name="divider"/><attr name="showDividers"><flag name="none" value="0"/><flag name="beginning" value="1"/><flag name="middle" value="2"/><flag name="end" value="4"/></attr><attr format="dimension" name="dividerPadding"/></declare-styleable>
     <declare-styleable name="LinearLayoutCompat_Layout"><attr name="android:layout_width"/><attr name="android:layout_height"/><attr name="android:layout_weight"/><attr name="android:layout_gravity"/></declare-styleable>
     <declare-styleable name="ListPopupWindow"><attr name="android:dropDownVerticalOffset"/><attr name="android:dropDownHorizontalOffset"/></declare-styleable>
+    <declare-styleable name="MDRootLayout"><attr format="boolean" name="md_reduce_padding_no_title_no_buttons"/></declare-styleable>
+    <declare-styleable name="MaterialProgressBar"><attr format="enum" name="mpb_progressStyle"><enum name="circular" value="0"/><enum name="horizontal" value="1"/></attr><attr format="boolean" name="mpb_setBothDrawables"/><attr format="boolean" name="mpb_useIntrinsicPadding"/><attr format="boolean" name="mpb_showTrack"/><attr name="android:tint"/><attr format="enum" name="mpb_tintMode"><enum name="src_over" value="3"/><enum name="src_in" value="5"/><enum name="src_atop" value="9"/><enum name="multiply" value="14"/><enum name="screen" value="15"/><enum name="add" value="16"/></attr></declare-styleable>
     <declare-styleable name="MenuGroup"><attr name="android:id"/><attr name="android:menuCategory"/><attr name="android:orderInCategory"/><attr name="android:checkableBehavior"/><attr name="android:visible"/><attr name="android:enabled"/></declare-styleable>
     <declare-styleable name="MenuItem"><attr name="android:id"/><attr name="android:menuCategory"/><attr name="android:orderInCategory"/><attr name="android:title"/><attr name="android:titleCondensed"/><attr name="android:icon"/><attr name="android:alphabeticShortcut"/><attr name="android:numericShortcut"/><attr name="android:checkable"/><attr name="android:checked"/><attr name="android:visible"/><attr name="android:enabled"/><attr name="android:onClick"/><attr name="showAsAction"><flag name="never" value="0"/><flag name="ifRoom" value="1"/><flag name="always" value="2"/><flag name="withText" value="4"/><flag name="collapseActionView" value="8"/></attr><attr format="reference" name="actionLayout"/><attr format="string" name="actionViewClass"/><attr format="string" name="actionProviderClass"/></declare-styleable>
     <declare-styleable name="MenuView"><attr name="android:itemTextAppearance"/><attr name="android:horizontalDivider"/><attr name="android:verticalDivider"/><attr name="android:headerBackground"/><attr name="android:itemBackground"/><attr name="android:windowAnimationStyle"/><attr name="android:itemIconDisabledAlpha"/><attr format="boolean" name="preserveIconSpacing"/><attr format="reference" name="subMenuArrow"/></declare-styleable>
     <declare-styleable name="PopupWindow"><attr format="boolean" name="overlapAnchor"/><attr name="android:popupBackground"/><attr name="android:popupAnimationStyle"/></declare-styleable>
     <declare-styleable name="PopupWindowBackgroundState"><attr format="boolean" name="state_above_anchor"/></declare-styleable>
+    <declare-styleable name="Preference"><attr format="boolean" name="useStockLayout"/></declare-styleable>
+    <declare-styleable name="RecyclerView"><attr format="string" name="layoutManager"/><attr name="android:orientation"/><attr name="android:descendantFocusability"/><attr format="integer" name="spanCount"/><attr format="boolean" name="reverseLayout"/><attr format="boolean" name="stackFromEnd"/></declare-styleable>
     <declare-styleable name="SearchView"><attr format="reference" name="layout"/><attr format="boolean" name="iconifiedByDefault"/><attr name="android:maxWidth"/><attr format="string" name="queryHint"/><attr format="string" name="defaultQueryHint"/><attr name="android:imeOptions"/><attr name="android:inputType"/><attr format="reference" name="closeIcon"/><attr format="reference" name="goIcon"/><attr format="reference" name="searchIcon"/><attr format="reference" name="searchHintIcon"/><attr format="reference" name="voiceIcon"/><attr format="reference" name="commitIcon"/><attr format="reference" name="suggestionRowLayout"/><attr format="reference" name="queryBackground"/><attr format="reference" name="submitBackground"/><attr name="android:focusable"/></declare-styleable>
     <declare-styleable name="Spinner"><attr name="android:prompt"/><attr name="popupTheme"/><attr name="android:popupBackground"/><attr name="android:dropDownWidth"/><attr name="android:entries"/></declare-styleable>
     <declare-styleable name="SwitchCompat"><attr name="android:thumb"/><attr format="color" name="thumbTint"/><attr name="thumbTintMode"><enum name="src_over" value="3"/><enum name="src_in" value="5"/><enum name="src_atop" value="9"/><enum name="multiply" value="14"/><enum name="screen" value="15"/><enum name="add" value="16"/></attr><attr format="reference" name="track"/><attr format="color" name="trackTint"/><attr name="trackTintMode"><enum name="src_over" value="3"/><enum name="src_in" value="5"/><enum name="src_atop" value="9"/><enum name="multiply" value="14"/><enum name="screen" value="15"/><enum name="add" value="16"/></attr><attr name="android:textOn"/><attr name="android:textOff"/><attr format="dimension" name="thumbTextPadding"/><attr format="reference" name="switchTextAppearance"/><attr format="dimension" name="switchMinWidth"/><attr format="dimension" name="switchPadding"/><attr format="boolean" name="splitTrack"/><attr format="boolean" name="showText"/></declare-styleable>
@@ -174,11 +234,53 @@
     <dimen name="abc_text_size_title_material_toolbar">20dp</dimen>
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="circular_progress_border">4dp</dimen>
     <item format="float" name="disabled_alpha_material_dark" type="dimen">0.30</item>
     <item format="float" name="disabled_alpha_material_light" type="dimen">0.26</item>
     <item format="float" name="highlight_alpha_material_colored" type="dimen">0.26</item>
     <item format="float" name="highlight_alpha_material_dark" type="dimen">0.20</item>
     <item format="float" name="highlight_alpha_material_light" type="dimen">0.12</item>
+    <dimen name="item_touch_helper_max_drag_scroll_per_frame">20dp</dimen>
+    <dimen name="item_touch_helper_swipe_escape_max_velocity">800dp</dimen>
+    <dimen name="item_touch_helper_swipe_escape_velocity">120dp</dimen>
+    <dimen name="md_action_corner_radius">2dp</dimen>
+    <dimen name="md_bg_corner_radius">2dp</dimen>
+    <dimen name="md_button_frame_vertical_padding">8dp</dimen>
+    <dimen name="md_button_height">48dp</dimen>
+    <dimen name="md_button_inset_horizontal">4dp</dimen>
+    <dimen name="md_button_inset_vertical">6dp</dimen>
+    <dimen name="md_button_min_width">72dp</dimen>
+    <dimen name="md_button_padding_frame_side">12dp</dimen>
+    <dimen name="md_button_padding_horizontal">8dp</dimen>
+    <dimen name="md_button_padding_horizontal_internalexternal">32dp</dimen>
+    <dimen name="md_button_padding_vertical">4dp</dimen>
+    <dimen name="md_button_textpadding_horizontal">1dp</dimen>
+    <dimen name="md_button_textsize">14sp</dimen>
+    <dimen name="md_colorchooser_circlesize">56dp</dimen>
+    <dimen name="md_content_padding_bottom">8dp</dimen>
+    <dimen name="md_content_padding_top">8dp</dimen>
+    <dimen name="md_content_textsize">16sp</dimen>
+    <dimen name="md_dialog_frame_margin">24dp</dimen>
+    <dimen name="md_divider_height">1dp</dimen>
+    <dimen name="md_icon_margin">16dp</dimen>
+    <dimen name="md_icon_max_size">48dp</dimen>
+    <dimen name="md_listitem_control_margin">6dp</dimen>
+    <dimen name="md_listitem_height">48dp</dimen>
+    <dimen name="md_listitem_margin_left">24dp</dimen>
+    <dimen name="md_listitem_textsize">16sp</dimen>
+    <dimen name="md_listitem_vertical_margin">12dp</dimen>
+    <dimen name="md_listitem_vertical_margin_choice">8dp</dimen>
+    <dimen name="md_neutral_button_margin">12dp</dimen>
+    <dimen name="md_notitle_vertical_padding">16dp</dimen>
+    <dimen name="md_preference_content_inset">16dp</dimen>
+    <dimen name="md_simpleitem_height">62dp</dimen>
+    <dimen name="md_simplelist_icon">40dp</dimen>
+    <dimen name="md_simplelist_icon_margin">16dp</dimen>
+    <dimen name="md_simplelist_textsize">18sp</dimen>
+    <dimen name="md_simplelistitem_padding_top">8dp</dimen>
+    <dimen name="md_title_frame_margin_bottom">12dp</dimen>
+    <dimen name="md_title_frame_margin_bottom_less">6dp</dimen>
+    <dimen name="md_title_textsize">20sp</dimen>
     <dimen name="notification_large_icon_height">64dp</dimen>
     <dimen name="notification_large_icon_width">64dp</dimen>
     <dimen name="notification_subtext_size">12dp</dimen>
@@ -189,6 +291,7 @@
     <item name="action_menu_divider" type="id"/>
     <item name="action_menu_presenter" type="id"/>
     <item name="home" type="id"/>
+    <item name="item_touch_helper_previous_elevation" type="id"/>
     <item name="progress_circular" type="id"/>
     <item name="progress_horizontal" type="id"/>
     <item name="split_action_bar" type="id"/>
@@ -232,6 +335,14 @@
     <string name="app_name">Aperture</string>
     <string name="closeDrawer">closeDrawer</string>
     <string name="hello_world">Hello world!</string>
+    <string name="md_back_label">Back</string>
+    <string name="md_cancel_label">Cancel</string>
+    <string name="md_choose_label">Choose</string>
+    <string name="md_custom_label">Custom</string>
+    <string name="md_done_label">Done</string>
+    <string name="md_error_label">Error</string>
+    <string name="md_presets_label">Presets</string>
+    <string name="md_storage_perm_error">Your app has not been granted the READ_EXTERNAL_STORAGE permission.</string>
     <string name="openDrawer">openDrawer</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>
@@ -1255,6 +1366,58 @@
         <item name="android:minWidth">56dp</item>
         <item name="android:scaleType">center</item>
     </style>
+    <style name="MD_ActionButton">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">@dimen/md_button_height</item>
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:focusable">true</item>
+    </style>
+    <style name="MD_ActionButton.Text" ns1:ignore="NewApi">
+        <item name="android:textSize">@dimen/md_button_textsize</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:gravity">center</item>
+        <item name="android:stateListAnimator">@null</item>
+        <item name="android:background">@null</item>
+        <item name="android:minWidth">@dimen/md_button_min_width</item>
+        <item name="android:paddingLeft">@dimen/md_button_textpadding_horizontal</item>
+        <item name="android:paddingRight">@dimen/md_button_textpadding_horizontal</item>
+    </style>
+    <style name="MD_ActionButtonStacked" ns1:ignore="NewApi" parent="@style/MD_ActionButton">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:paddingLeft">@dimen/md_button_padding_horizontal_internalexternal</item>
+        <item name="android:paddingStart">@dimen/md_button_padding_horizontal_internalexternal
+        </item>
+        <item name="android:paddingRight">@dimen/md_button_padding_horizontal_internalexternal
+        </item>
+        <item name="android:paddingEnd">@dimen/md_button_padding_horizontal_internalexternal</item>
+    </style>
+    <style name="MD_Dark" parent="Theme.AppCompat.Dialog.Alert">
+        <item name="md_divider">@color/md_divider_white</item>
+        <item name="md_list_selector">@drawable/md_selector_dark</item>
+        <item name="md_btn_stacked_selector">@drawable/md_selector_dark</item>
+        <item name="md_btn_positive_selector">@drawable/md_btn_selector_dark</item>
+        <item name="md_btn_neutral_selector">@drawable/md_btn_selector_dark</item>
+        <item name="md_btn_negative_selector">@drawable/md_btn_selector_dark</item>
+
+        <item name="android:windowAnimationStyle">@style/MD_WindowAnimation</item>
+        <item name="android:backgroundDimEnabled">true</item>
+    </style>
+    <style name="MD_Light" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <item name="md_divider">@color/md_divider_black</item>
+        <item name="md_list_selector">@drawable/md_selector</item>
+        <item name="md_btn_stacked_selector">@drawable/md_selector</item>
+        <item name="md_btn_positive_selector">@drawable/md_btn_selector</item>
+        <item name="md_btn_neutral_selector">@drawable/md_btn_selector</item>
+        <item name="md_btn_negative_selector">@drawable/md_btn_selector</item>
+
+        <item name="android:windowAnimationStyle">@style/MD_WindowAnimation</item>
+        <item name="android:backgroundDimEnabled">true</item>
+    </style>
+    <style name="MD_WindowAnimation">
+        <item name="android:windowEnterAnimation">@anim/popup_enter</item>
+        <item name="android:windowExitAnimation">@anim/popup_exit</item>
+    </style>
     <style name="Platform.AppCompat" parent="android:Theme">
         <item name="android:windowNoTitle">true</item>
 
@@ -1593,4 +1756,54 @@
     <style name="Widget.AppCompat.TextView.SpinnerItem" parent="Base.Widget.AppCompat.TextView.SpinnerItem"/>
     <style name="Widget.AppCompat.Toolbar" parent="Base.Widget.AppCompat.Toolbar"/>
     <style name="Widget.AppCompat.Toolbar.Button.Navigation" parent="Base.Widget.AppCompat.Toolbar.Button.Navigation"/>
+    <style name="Widget.MaterialProgressBar.ProgressBar" parent="android:Widget.ProgressBar">
+        <item name="android:indeterminateDrawable">@null</item>
+        <item name="android:minWidth">48dp</item>
+        <item name="android:maxWidth">48dp</item>
+        <item name="android:minHeight">48dp</item>
+        <item name="android:maxHeight">48dp</item>
+    </style>
+    <style name="Widget.MaterialProgressBar.ProgressBar.Horizontal" parent="android:Widget.ProgressBar.Horizontal">
+        <!--
+        Disabled for correct behavior on Android 4.x
+        <item name="android:progressDrawable">@null</item>
+        -->
+        <item name="android:indeterminateDrawable">@null</item>
+        <item name="android:minHeight">16dp</item>
+        <item name="android:maxHeight">16dp</item>
+    </style>
+    <style name="Widget.MaterialProgressBar.ProgressBar.Horizontal.NoPadding">
+        <item name="android:minHeight">3.2dp</item>
+        <item name="android:maxHeight">3.2dp</item>
+    </style>
+    <style name="Widget.MaterialProgressBar.ProgressBar.Large">
+        <item name="android:minWidth">76dp</item>
+        <item name="android:maxWidth">76dp</item>
+        <item name="android:minHeight">76dp</item>
+        <item name="android:maxHeight">76dp</item>
+    </style>
+    <style name="Widget.MaterialProgressBar.ProgressBar.Large.NoPadding">
+        <item name="android:minWidth">66.5dp</item>
+        <item name="android:maxWidth">66.5dp</item>
+        <item name="android:minHeight">66.5dp</item>
+        <item name="android:maxHeight">66.5dp</item>
+    </style>
+    <style name="Widget.MaterialProgressBar.ProgressBar.NoPadding">
+        <item name="android:minWidth">42dp</item>
+        <item name="android:maxWidth">42dp</item>
+        <item name="android:minHeight">42dp</item>
+        <item name="android:maxHeight">42dp</item>
+    </style>
+    <style name="Widget.MaterialProgressBar.ProgressBar.Small">
+        <item name="android:minWidth">16dp</item>
+        <item name="android:maxWidth">16dp</item>
+        <item name="android:minHeight">16dp</item>
+        <item name="android:maxHeight">16dp</item>
+    </style>
+    <style name="Widget.MaterialProgressBar.ProgressBar.Small.NoPadding">
+        <item name="android:minWidth">14dp</item>
+        <item name="android:maxWidth">14dp</item>
+        <item name="android:minHeight">14dp</item>
+        <item name="android:maxHeight">14dp</item>
+    </style>
 </resources>
