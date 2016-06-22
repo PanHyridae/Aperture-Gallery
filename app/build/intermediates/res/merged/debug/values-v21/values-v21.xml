@@ -294,4 +294,7 @@
     </style>
     <style name="Platform.ThemeOverlay.AppCompat.Dark"/>
     <style name="Platform.ThemeOverlay.AppCompat.Light"/>
+    <style name="Widget.Design.AppBarLayout" parent="Base.Widget.Design.AppBarLayout">
+        <item name="android:stateListAnimator">@anim/design_appbar_state_list_animator</item>
+    </style>
 </resources>
