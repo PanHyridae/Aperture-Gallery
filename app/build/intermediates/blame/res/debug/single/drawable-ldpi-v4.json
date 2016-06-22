@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_allphotoselect.png",
+        "source": "C:\\Android Projects\\Aperture\\Aperture\\app\\src\\main\\res\\drawable-ldpi\\ic_allphotoselect.png"
+    },
+    {
+        "merged": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_cameradeselect.png",
+        "source": "C:\\Android Projects\\Aperture\\Aperture\\app\\src\\main\\res\\drawable-ldpi\\ic_cameradeselect.png"
+    },
+    {
+        "merged": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_videodeselect.png",
+        "source": "C:\\Android Projects\\Aperture\\Aperture\\app\\src\\main\\res\\drawable-ldpi\\ic_videodeselect.png"
+    },
+    {
+        "merged": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_cameraselect.png",
+        "source": "C:\\Android Projects\\Aperture\\Aperture\\app\\src\\main\\res\\drawable-ldpi\\ic_cameraselect.png"
+    },
+    {
+        "merged": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_videoselect.png",
+        "source": "C:\\Android Projects\\Aperture\\Aperture\\app\\src\\main\\res\\drawable-ldpi\\ic_videoselect.png"
+    },
+    {
+        "merged": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_allphoto.png",
+        "source": "C:\\Android Projects\\Aperture\\Aperture\\app\\src\\main\\res\\drawable-ldpi\\ic_allphoto.png"
+    }
+]

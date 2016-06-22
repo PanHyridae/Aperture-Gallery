@@ -1,0 +1,28 @@
+//Aperture Gallery/Project Evo uses source code from the OwnGallery demo code found on GitHub
+//Aperture gallery itself is under the GPL V3 Open Source license
+
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 24
+    buildToolsVersion "24.0.0"
+
+    defaultConfig {
+        applicationId "com.marlonjones.projectevo"
+        minSdkVersion 14
+        targetSdkVersion 24
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    compile 'com.android.support:support-v4:24.0.0'
+    compile 'com.android.support:appcompat-v7:24.0.0'
+    compile files('libs/universal-image-loader-1.9.2-SNAPSHOT-with-sources.jar')
+}

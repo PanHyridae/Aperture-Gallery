@@ -1,0 +1,95 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Android Projects\Aperture\Aperture\app\src\main\AndroidManifest.xml:2:1-39:12
+	xmlns:android
+		ADDED from C:\Android Projects\Aperture\Aperture\app\src\main\AndroidManifest.xml:2:11-69
+	package
+		ADDED from C:\Android Projects\Aperture\Aperture\app\src\main\AndroidManifest.xml:3:5-41
+		INJECTED from C:\Android Projects\Aperture\Aperture\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Android Projects\Aperture\Aperture\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Android Projects\Aperture\Aperture\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Android Projects\Aperture\Aperture\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Android Projects\Aperture\Aperture\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\Android Projects\Aperture\Aperture\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Android Projects\Aperture\Aperture\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Android Projects\Aperture\Aperture\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Android Projects\Aperture\Aperture\app\src\main\AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from C:\Android Projects\Aperture\Aperture\app\src\main\AndroidManifest.xml:9:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Android Projects\Aperture\Aperture\app\src\main\AndroidManifest.xml:10:5-80
+	android:name
+		ADDED from C:\Android Projects\Aperture\Aperture\app\src\main\AndroidManifest.xml:10:22-77
+application
+ADDED from C:\Android Projects\Aperture\Aperture\app\src\main\AndroidManifest.xml:12:5-37:19
+MERGED from [com.android.support:support-v4:24.0.0] C:\Android Projects\Aperture\Aperture\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:24.0.0] C:\Android Projects\Aperture\Aperture\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.0.0] C:\Android Projects\Aperture\Aperture\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-vector-drawable:24.0.0] C:\Android Projects\Aperture\Aperture\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-v4:24.0.0] C:\Android Projects\Aperture\Aperture\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.0.0] C:\Android Projects\Aperture\Aperture\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.0.0] C:\Android Projects\Aperture\Aperture\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-v4:24.0.0] C:\Android Projects\Aperture\Aperture\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from C:\Android Projects\Aperture\Aperture\app\src\main\AndroidManifest.xml:16:9-41
+	android:allowBackup
+		ADDED from C:\Android Projects\Aperture\Aperture\app\src\main\AndroidManifest.xml:14:9-35
+	android:icon
+		ADDED from C:\Android Projects\Aperture\Aperture\app\src\main\AndroidManifest.xml:15:9-45
+	android:theme
+		ADDED from C:\Android Projects\Aperture\Aperture\app\src\main\AndroidManifest.xml:17:9-40
+	android:name
+		ADDED from C:\Android Projects\Aperture\Aperture\app\src\main\AndroidManifest.xml:13:9-72
+activity#com.marlonjones.projectevo.activity.ActivityHome
+ADDED from C:\Android Projects\Aperture\Aperture\app\src\main\AndroidManifest.xml:18:9-26:20
+	android:label
+		ADDED from C:\Android Projects\Aperture\Aperture\app\src\main\AndroidManifest.xml:20:13-45
+	android:name
+		ADDED from C:\Android Projects\Aperture\Aperture\app\src\main\AndroidManifest.xml:19:13-76
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Android Projects\Aperture\Aperture\app\src\main\AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from C:\Android Projects\Aperture\Aperture\app\src\main\AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from C:\Android Projects\Aperture\Aperture\app\src\main\AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Android Projects\Aperture\Aperture\app\src\main\AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from C:\Android Projects\Aperture\Aperture\app\src\main\AndroidManifest.xml:24:27-74
+activity#com.marlonjones.projectevo.activity.AlbumActivity
+ADDED from C:\Android Projects\Aperture\Aperture\app\src\main\AndroidManifest.xml:27:9-31:20
+	android:label
+		ADDED from C:\Android Projects\Aperture\Aperture\app\src\main\AndroidManifest.xml:29:13-45
+	android:theme
+		ADDED from C:\Android Projects\Aperture\Aperture\app\src\main\AndroidManifest.xml:30:13-47
+	android:name
+		ADDED from C:\Android Projects\Aperture\Aperture\app\src\main\AndroidManifest.xml:28:13-77
+activity#com.marlonjones.projectevo.activity.PhotoPreviewActivity
+ADDED from C:\Android Projects\Aperture\Aperture\app\src\main\AndroidManifest.xml:32:9-36:20
+	android:label
+		ADDED from C:\Android Projects\Aperture\Aperture\app\src\main\AndroidManifest.xml:34:13-45
+	android:theme
+		ADDED from C:\Android Projects\Aperture\Aperture\app\src\main\AndroidManifest.xml:35:13-47
+	android:name
+		ADDED from C:\Android Projects\Aperture\Aperture\app\src\main\AndroidManifest.xml:33:13-84
+uses-sdk
+INJECTED from C:\Android Projects\Aperture\Aperture\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:support-v4:24.0.0] C:\Android Projects\Aperture\Aperture\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:appcompat-v7:24.0.0] C:\Android Projects\Aperture\Aperture\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:24.0.0] C:\Android Projects\Aperture\Aperture\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-vector-drawable:24.0.0] C:\Android Projects\Aperture\Aperture\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-v4:24.0.0] C:\Android Projects\Aperture\Aperture\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:animated-vector-drawable:24.0.0] C:\Android Projects\Aperture\Aperture\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.0.0] C:\Android Projects\Aperture\Aperture\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-v4:24.0.0] C:\Android Projects\Aperture\Aperture\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\AndroidManifest.xml:21:5-23:54
+	android:targetSdkVersion
+		INJECTED from C:\Android Projects\Aperture\Aperture\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Android Projects\Aperture\Aperture\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Android Projects\Aperture\Aperture\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Android Projects\Aperture\Aperture\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:24.0.0] C:\Android Projects\Aperture\Aperture\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\AndroidManifest.xml:23:9-51
