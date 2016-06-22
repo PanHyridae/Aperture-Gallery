@@ -1,5 +1,5 @@
 ##Aperture Gallery
-[![License](https://img.shields.io/badge/license-GPLv3-blue.svg)]
+![License] (https://img.shields.io/badge/license-GPLv3-blue.svg)
 
 Aperture is now under new development. Follow this for more updates, and to contribute to the project. 
 
