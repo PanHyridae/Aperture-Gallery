@@ -12,12 +12,12 @@
         "source": "C:\\Android Projects\\Aperture\\Aperture\\app\\src\\main\\res\\drawable-ldpi\\ic_videodeselect.png"
     },
     {
-        "merged": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_cameraselect.png",
-        "source": "C:\\Android Projects\\Aperture\\Aperture\\app\\src\\main\\res\\drawable-ldpi\\ic_cameraselect.png"
-    },
-    {
         "merged": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\md_nav_back.png",
         "source": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.8.6.0\\res\\drawable-ldpi-v4\\md_nav_back.png"
+    },
+    {
+        "merged": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_cameraselect.png",
+        "source": "C:\\Android Projects\\Aperture\\Aperture\\app\\src\\main\\res\\drawable-ldpi\\ic_cameraselect.png"
     },
     {
         "merged": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_videoselect.png",
