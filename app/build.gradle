@@ -11,6 +11,8 @@ android {
         applicationId "com.marlonjones.projectevo"
         minSdkVersion 14
         targetSdkVersion 24
+        versionCode 1
+        versionName "0.1 Alpha"
     }
 
     buildTypes {
