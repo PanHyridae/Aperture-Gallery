@@ -14,6 +14,7 @@ import android.support.v4.app.FragmentTransaction;
 import android.support.v4.widget.DrawerLayout;
 import android.support.v7.app.ActionBarActivity;
 import android.support.v7.app.ActionBarDrawerToggle;
+import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.Gravity;
 import android.view.Menu;
@@ -21,7 +22,7 @@ import android.view.MenuItem;
 import android.view.View;
 import android.widget.ListView;
 
-public class ActivityHome extends ActionBarActivity implements SlideMenuAdapterInterface{
+public class ActivityHome extends AppCompatActivity implements SlideMenuAdapterInterface{
 
 	private Context mContext;
 	private Toolbar toolbar;
