@@ -752,7 +752,7 @@ int id action_menu_presenter 0x7f0c0003
 int id action_mode_bar 0x7f0c005c
 int id action_mode_bar_stub 0x7f0c005b
 int id action_mode_close_button 0x7f0c0040
-int id action_settings 0x7f0c00c4
+int id action_settings 0x7f0c00c6
 int id activity_chooser_view_content 0x7f0c0041
 int id activity_home_mainView 0x7f0c0071
 int id add 0x7f0c001d
@@ -865,6 +865,8 @@ int id minMax 0x7f0c0093
 int id mini 0x7f0c0032
 int id multiply 0x7f0c001e
 int id navigation_header_container 0x7f0c0084
+int id navigation_item_1 0x7f0c00c4
+int id navigation_item_2 0x7f0c00c5
 int id never 0x7f0c003a
 int id none 0x7f0c0013
 int id normal 0x7f0c000f
@@ -1029,7 +1031,8 @@ int layout support_simple_spinner_dropdown_item 0x7f040056
 int layout toolbar 0x7f040057
 int layout view_photopreview 0x7f040058
 int menu bottombar_menu 0x7f0d0000
-int menu main 0x7f0d0001
+int menu drawer 0x7f0d0001
+int menu main 0x7f0d0002
 int mipmap ic_launcher 0x7f030000
 int string abc_action_bar_home_description 0x7f060000
 int string abc_action_bar_home_description_format 0x7f060001

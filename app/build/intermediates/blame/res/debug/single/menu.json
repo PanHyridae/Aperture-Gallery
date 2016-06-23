@@ -6,5 +6,9 @@
     {
         "merged": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
         "source": "C:\\Android Projects\\Aperture\\Aperture\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\menu\\drawer.xml",
+        "source": "C:\\Android Projects\\Aperture\\Aperture\\app\\src\\main\\res\\menu\\drawer.xml"
     }
 ]

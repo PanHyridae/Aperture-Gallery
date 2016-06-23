@@ -51,8 +51,8 @@ public class ActivityHome extends AppCompatActivity implements SlideMenuAdapterI
 		 initialCalling();
 
 		mBottomBar = BottomBar.attach(this, savedInstanceState);
-		mBottomBar.setItems(R.menu.bottombar_menu);
         mBottomBar.noTabletGoodness();
+		mBottomBar.setItems(R.menu.bottombar_menu);
 		mBottomBar.setOnMenuTabClickListener(new OnMenuTabClickListener() {
 			@Override
 			public void onMenuTabSelected(@IdRes int menuItemId) {
@@ -131,7 +131,7 @@ public class ActivityHome extends AppCompatActivity implements SlideMenuAdapterI
 		toolbar = (Toolbar) findViewById(com.marlonjones.projectevo.R.id.tool_bar);
 		toolbar.setTitle("");
 		setSupportActionBar(toolbar);
-		
+
 		slidingList=(ListView)findViewById(com.marlonjones.projectevo.R.id.sliding_listView);
 		mSlideMenuAdapter=new SlideMenuAdapter(mContext, getSlideList());
 		mSlideMenuAdapter.setSlidemenuadapterinterface(this);
@@ -172,9 +172,9 @@ public class ActivityHome extends AppCompatActivity implements SlideMenuAdapterI
 		getFragment(0);
 		attachedFragment();
 	}
-	
-	
-	
+
+
+
 	private void attachedFragment(){
 		try {
 			if (currentFragment != null) {
@@ -188,17 +188,17 @@ public class ActivityHome extends AppCompatActivity implements SlideMenuAdapterI
 					fragmentTransaction.commit();
 					toolbar.setTitle(title[currentPosition]);
 				}
-				
+
 			}
 			closeDrware();
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
 	}
-	
-	
+
+
 	private void getFragment(int postion){
-		switch (postion) { 
+		switch (postion) {
 		case 0:
 			currentFragment = new GalleryFragment();
 			break;
@@ -213,8 +213,8 @@ public class ActivityHome extends AppCompatActivity implements SlideMenuAdapterI
 			break;
 		}
 	}
-	
-	
+
+
 	/**
 	 * Change to Bottom Bars when possible.
 	 */
