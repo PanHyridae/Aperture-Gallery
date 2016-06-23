@@ -36,12 +36,12 @@
         "source": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable-xxhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
-        "source": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable-xxhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
-    },
-    {
         "merged": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
         "source": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable-xxhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable-xxhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
     },
     {
         "merged": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
@@ -58,6 +58,14 @@
     {
         "merged": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_launcher.png",
         "source": "C:\\Android Projects\\Aperture\\Aperture\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_camera.png",
+        "source": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_camera.png"
+    },
+    {
+        "merged": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_photos.png",
+        "source": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_photos.png"
     },
     {
         "merged": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
@@ -186,6 +194,10 @@
     {
         "merged": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_videoselect.png",
         "source": "C:\\Android Projects\\Aperture\\Aperture\\app\\src\\main\\res\\drawable-xxhdpi\\ic_videoselect.png"
+    },
+    {
+        "merged": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\videos.png",
+        "source": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\videos.png"
     },
     {
         "merged": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",

@@ -2,15 +2,20 @@ package com.marlonjones.projectevo.activity;
 
 import java.util.ArrayList;
 
+import com.marlonjones.projectevo.R;
 import com.marlonjones.projectevo.adapter.SlideMenuAdapter;
 import com.marlonjones.projectevo.adapter.SlideMenuAdapter.SlideMenuAdapterInterface;
 import com.marlonjones.projectevo.model.SlideData;
+import com.roughike.bottombar.BottomBar;
+import com.roughike.bottombar.OnMenuTabClickListener;
 
 import android.content.Context;
 import android.os.Bundle;
+import android.support.annotation.IdRes;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentTransaction;
+import android.support.v4.view.GravityCompat;
 import android.support.v4.widget.DrawerLayout;
 import android.support.v7.app.ActionBarActivity;
 import android.support.v7.app.ActionBarDrawerToggle;
@@ -31,7 +36,7 @@ public class ActivityHome extends AppCompatActivity implements SlideMenuAdapterI
 	private FragmentManager fragmentManager = null;
     private FragmentTransaction fragmentTransaction = null;
 	private Fragment currentFragment=null;
-	
+	private BottomBar mBottomBar;
 	private ListView slidingList;
 	private SlideMenuAdapter mSlideMenuAdapter;
 	private int currentPosition=0;
@@ -44,13 +49,30 @@ public class ActivityHome extends AppCompatActivity implements SlideMenuAdapterI
 		 mContext=ActivityHome.this;
 		 initializeActionBar();
 		 initialCalling();
-		 
+
+		mBottomBar = BottomBar.attach(this, savedInstanceState);
+		mBottomBar.setItems(R.menu.bottombar_menu);
+		mBottomBar.setOnMenuTabClickListener(new OnMenuTabClickListener() {
+			@Override
+			public void onMenuTabSelected(@IdRes int menuItemId) {
+				if (menuItemId == R.id.bottomBarItemOne) {
+					// The user selected item number one.
+				}
+			}
+
+			@Override
+			public void onMenuTabReSelected(@IdRes int menuItemId) {
+				if (menuItemId == R.id.bottomBarItemOne) {
+					// The user reselected item number one, scroll your content to top.
+				}
+			}
+		});
 	}
 
 	@Override
 	public void onBackPressed() {
-		if(Drawer.isDrawerOpen(Gravity.LEFT)){
-			Drawer.closeDrawer(Gravity.LEFT);
+		if(Drawer.isDrawerOpen(GravityCompat.START)){
+			Drawer.closeDrawer(GravityCompat.START);
 	    }else{
 	        super.onBackPressed();
 	    }

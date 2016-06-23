@@ -56,6 +56,10 @@
         "source": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png"
     },
     {
+        "merged": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_photos.png",
+        "source": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_photos.png"
+    },
+    {
         "merged": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
         "source": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
     },
@@ -70,6 +74,10 @@
     {
         "merged": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_focused_holo.9.png",
         "source": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable-hdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\videos.png",
+        "source": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\videos.png"
     },
     {
         "merged": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_videoselect.png",
@@ -126,6 +134,10 @@
     {
         "merged": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
         "source": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_camera.png",
+        "source": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_camera.png"
     },
     {
         "merged": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",

@@ -2837,32 +2837,35 @@ containing a value of this type.
         public static final int gray_circle=0x7f02004f;
         public static final int ic_allphoto=0x7f020050;
         public static final int ic_allphotoselect=0x7f020051;
-        public static final int ic_cameradeselect=0x7f020052;
-        public static final int ic_cameraselect=0x7f020053;
-        public static final int ic_launcher=0x7f020054;
-        public static final int ic_loading_white=0x7f020055;
-        public static final int ic_videodeselect=0x7f020056;
-        public static final int ic_videoselect=0x7f020057;
-        public static final int list_selector=0x7f020058;
-        public static final int md_btn_selected=0x7f020059;
-        public static final int md_btn_selected_dark=0x7f02005a;
-        public static final int md_btn_selector=0x7f02005b;
-        public static final int md_btn_selector_dark=0x7f02005c;
-        public static final int md_btn_selector_ripple=0x7f02005d;
-        public static final int md_btn_selector_ripple_dark=0x7f02005e;
-        public static final int md_btn_shape=0x7f02005f;
-        public static final int md_item_selected=0x7f020060;
-        public static final int md_item_selected_dark=0x7f020061;
-        public static final int md_nav_back=0x7f020062;
-        public static final int md_selector=0x7f020063;
-        public static final int md_selector_dark=0x7f020064;
-        public static final int md_transparent=0x7f020065;
-        public static final int nophotos=0x7f020066;
-        public static final int notification_template_icon_bg=0x7f02006b;
-        public static final int selector_allpic=0x7f020067;
-        public static final int selector_camera=0x7f020068;
-        public static final int selector_video=0x7f020069;
-        public static final int transparent=0x7f02006a;
+        public static final int ic_camera=0x7f020052;
+        public static final int ic_cameradeselect=0x7f020053;
+        public static final int ic_cameraselect=0x7f020054;
+        public static final int ic_launcher=0x7f020055;
+        public static final int ic_loading_white=0x7f020056;
+        public static final int ic_photos=0x7f020057;
+        public static final int ic_videodeselect=0x7f020058;
+        public static final int ic_videoselect=0x7f020059;
+        public static final int list_selector=0x7f02005a;
+        public static final int md_btn_selected=0x7f02005b;
+        public static final int md_btn_selected_dark=0x7f02005c;
+        public static final int md_btn_selector=0x7f02005d;
+        public static final int md_btn_selector_dark=0x7f02005e;
+        public static final int md_btn_selector_ripple=0x7f02005f;
+        public static final int md_btn_selector_ripple_dark=0x7f020060;
+        public static final int md_btn_shape=0x7f020061;
+        public static final int md_item_selected=0x7f020062;
+        public static final int md_item_selected_dark=0x7f020063;
+        public static final int md_nav_back=0x7f020064;
+        public static final int md_selector=0x7f020065;
+        public static final int md_selector_dark=0x7f020066;
+        public static final int md_transparent=0x7f020067;
+        public static final int nophotos=0x7f020068;
+        public static final int notification_template_icon_bg=0x7f02006e;
+        public static final int selector_allpic=0x7f020069;
+        public static final int selector_camera=0x7f02006a;
+        public static final int selector_video=0x7f02006b;
+        public static final int transparent=0x7f02006c;
+        public static final int videos=0x7f02006d;
     }
     public static final class id {
         public static final int DrawerLayout=0x7f0c0070;
@@ -2881,7 +2884,7 @@ containing a value of this type.
         public static final int action_mode_bar=0x7f0c005c;
         public static final int action_mode_bar_stub=0x7f0c005b;
         public static final int action_mode_close_button=0x7f0c0040;
-        public static final int action_settings=0x7f0c00c1;
+        public static final int action_settings=0x7f0c00c4;
         public static final int activity_chooser_view_content=0x7f0c0041;
         public static final int activity_home_mainView=0x7f0c0071;
         public static final int add=0x7f0c001d;
@@ -2902,6 +2905,9 @@ containing a value of this type.
         public static final int bb_user_content_container=0x7f0c0077;
         public static final int beginning=0x7f0c0033;
         public static final int bottom=0x7f0c0024;
+        public static final int bottomBarItemOne=0x7f0c00c1;
+        public static final int bottomBarItemThree=0x7f0c00c3;
+        public static final int bottomBarItemTwo=0x7f0c00c2;
         public static final int bottom_lin=0x7f0c00ba;
         public static final int buttonDefaultNegative=0x7f0c0098;
         public static final int buttonDefaultNeutral=0x7f0c0097;
@@ -3160,7 +3166,8 @@ containing a value of this type.
         public static final int view_photopreview=0x7f040058;
     }
     public static final class menu {
-        public static final int main=0x7f0d0000;
+        public static final int bottombar_menu=0x7f0d0000;
+        public static final int main=0x7f0d0001;
     }
     public static final class mipmap {
         public static final int ic_launcher=0x7f030000;
@@ -3201,18 +3208,21 @@ containing a value of this type.
         public static final int app_name=0x7f060021;
         public static final int appbar_scrolling_view_behavior=0x7f060022;
         public static final int bottom_sheet_behavior=0x7f060023;
-        public static final int character_counter_pattern=0x7f060024;
-        public static final int closeDrawer=0x7f060025;
-        public static final int hello_world=0x7f060026;
-        public static final int md_back_label=0x7f060027;
-        public static final int md_cancel_label=0x7f060028;
-        public static final int md_choose_label=0x7f060029;
-        public static final int md_custom_label=0x7f06002a;
-        public static final int md_done_label=0x7f06002b;
-        public static final int md_error_label=0x7f06002c;
-        public static final int md_presets_label=0x7f06002d;
-        public static final int md_storage_perm_error=0x7f06002e;
-        public static final int openDrawer=0x7f06002f;
+        public static final int bottombarcamera=0x7f060024;
+        public static final int bottombarphoto=0x7f060025;
+        public static final int bottombarvid=0x7f060026;
+        public static final int character_counter_pattern=0x7f060027;
+        public static final int closeDrawer=0x7f060028;
+        public static final int hello_world=0x7f060029;
+        public static final int md_back_label=0x7f06002a;
+        public static final int md_cancel_label=0x7f06002b;
+        public static final int md_choose_label=0x7f06002c;
+        public static final int md_custom_label=0x7f06002d;
+        public static final int md_done_label=0x7f06002e;
+        public static final int md_error_label=0x7f06002f;
+        public static final int md_presets_label=0x7f060030;
+        public static final int md_storage_perm_error=0x7f060031;
+        public static final int openDrawer=0x7f060032;
         public static final int status_bar_notification_info_overflow=0x7f060013;
     }
     public static final class style {

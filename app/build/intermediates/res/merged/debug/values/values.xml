@@ -401,6 +401,9 @@
     <string name="app_name">Aperture</string>
     <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
     <string name="bottom_sheet_behavior" translatable="false">android.support.design.widget.BottomSheetBehavior</string>
+    <string name="bottombarcamera">Camera</string>
+    <string name="bottombarphoto">All</string>
+    <string name="bottombarvid">Videos</string>
     <string name="character_counter_pattern" translatable="false">%1$d / %2$d</string>
     <string name="closeDrawer">closeDrawer</string>
     <string name="hello_world">Hello world!</string>
