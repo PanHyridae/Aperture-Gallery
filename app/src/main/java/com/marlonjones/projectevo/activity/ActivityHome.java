@@ -56,9 +56,31 @@ public class ActivityHome extends AppCompatActivity implements SlideMenuAdapterI
 			@Override
 			public void onMenuTabSelected(@IdRes int menuItemId) {
 				if (menuItemId == R.id.bottomBarItemOne) {
-					// The user selected item number one.
+                    Fragment fragout1 = new GalleryFragment();
+                    FragmentTransaction ft = getSupportFragmentManager().beginTransaction();
+                    ft.replace(R.id.fragment_container, fragout1);
+                    ft.setTransition(FragmentTransaction.TRANSIT_FRAGMENT_FADE);
+                    ft.addToBackStack(null);
+                    ft.commit();
 				}
+                if (menuItemId == R.id.bottomBarItemTwo) {
+                    Fragment fragout2 = new CameraFragment();
+                    FragmentTransaction ft = getSupportFragmentManager().beginTransaction();
+                    ft.replace(R.id.fragment_container, fragout2);
+                    ft.setTransition(FragmentTransaction.TRANSIT_FRAGMENT_FADE);
+                    ft.addToBackStack(null);
+                    ft.commit();
+                }
+                if (menuItemId == R.id.bottomBarItemThree) {
+                    Fragment fragout3 = new VideoFragment();
+                    FragmentTransaction ft = getSupportFragmentManager().beginTransaction();
+                    ft.replace(R.id.fragment_container, fragout3);
+                    ft.setTransition(FragmentTransaction.TRANSIT_FRAGMENT_FADE);
+                    ft.addToBackStack(null);
+                    ft.commit();
+                }
 			}
+
 
 			@Override
 			public void onMenuTabReSelected(@IdRes int menuItemId) {
@@ -137,8 +159,8 @@ public class ActivityHome extends AppCompatActivity implements SlideMenuAdapterI
 	}
 	
 	private void closeDrware(){
-		if(Drawer.isDrawerOpen(Gravity.LEFT)){
-			Drawer.closeDrawer(Gravity.LEFT);
+		if(Drawer.isDrawerOpen(GravityCompat.START)){
+			Drawer.closeDrawer(GravityCompat.START);
 	    }
 	}
 	
