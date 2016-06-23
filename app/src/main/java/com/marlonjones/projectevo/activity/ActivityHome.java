@@ -170,7 +170,7 @@ public class ActivityHome extends ActionBarActivity implements SlideMenuAdapterI
 	
 	
 	/**
-	 * Slide Menu List Array.
+	 * Change to Bottom Bars when possible.
 	 */
 	private String[] title={"All Images","Camera","Video"};
 	private int[] titleLogo={com.marlonjones.projectevo.R.drawable.selector_allpic, com.marlonjones.projectevo.R.drawable.selector_camera, com.marlonjones.projectevo.R.drawable.selector_video};

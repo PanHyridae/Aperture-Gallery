@@ -8,4 +8,7 @@
     <string name="openDrawer">openDrawer</string>
     <string name="closeDrawer">closeDrawer</string>
 
+    <string name="bottombarphoto">All</string>
+    <string name="bottombarvid">Videos</string>
+    <string name="bottombarcamera">Camera</string>
 </resources>

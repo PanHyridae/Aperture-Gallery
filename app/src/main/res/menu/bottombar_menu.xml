@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/bottomBarItemOne"
+        android:icon="@drawable/ic_photos"
+        android:title="@string/bottombarphoto" />
+    <item
+        android:id="@+id/bottomBarItemTwo"
+        android:icon="@drawable/ic_camera"
+        android:title="@string/bottombarcamera" />
+    <item
+        android:id="@+id/bottomBarItemThree"
+        android:icon="@drawable/videos"
+        android:title="@string/bottombarvid" />
+</menu>
