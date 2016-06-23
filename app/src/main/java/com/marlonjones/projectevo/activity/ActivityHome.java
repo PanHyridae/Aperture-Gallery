@@ -52,6 +52,7 @@ public class ActivityHome extends AppCompatActivity implements SlideMenuAdapterI
 
 		mBottomBar = BottomBar.attach(this, savedInstanceState);
 		mBottomBar.setItems(R.menu.bottombar_menu);
+        mBottomBar.noTabletGoodness();
 		mBottomBar.setOnMenuTabClickListener(new OnMenuTabClickListener() {
 			@Override
 			public void onMenuTabSelected(@IdRes int menuItemId) {
