@@ -1,8 +1,6 @@
 -- Merging decision tree log ---
 manifest
 ADDED from C:\Android Projects\Aperture\Aperture\app\src\main\AndroidManifest.xml:2:1-39:12
-	xmlns:android
-		ADDED from C:\Android Projects\Aperture\Aperture\app\src\main\AndroidManifest.xml:2:11-69
 	package
 		ADDED from C:\Android Projects\Aperture\Aperture\app\src\main\AndroidManifest.xml:3:5-41
 		INJECTED from C:\Android Projects\Aperture\Aperture\app\src\main\AndroidManifest.xml
@@ -15,6 +13,8 @@ ADDED from C:\Android Projects\Aperture\Aperture\app\src\main\AndroidManifest.xm
 		ADDED from C:\Android Projects\Aperture\Aperture\app\src\main\AndroidManifest.xml:4:5-28
 		INJECTED from C:\Android Projects\Aperture\Aperture\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Android Projects\Aperture\Aperture\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Android Projects\Aperture\Aperture\app\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
 ADDED from C:\Android Projects\Aperture\Aperture\app\src\main\AndroidManifest.xml:9:5-81
 	android:name
@@ -107,7 +107,7 @@ MERGED from [com.android.support:support-v4:24.0.0] C:\Android Projects\Aperture
 	android:allowBackup
 		ADDED from C:\Android Projects\Aperture\Aperture\app\src\main\AndroidManifest.xml:14:9-35
 	android:icon
-		ADDED from C:\Android Projects\Aperture\Aperture\app\src\main\AndroidManifest.xml:15:9-45
+		ADDED from C:\Android Projects\Aperture\Aperture\app\src\main\AndroidManifest.xml:15:9-43
 	android:theme
 		ADDED from C:\Android Projects\Aperture\Aperture\app\src\main\AndroidManifest.xml:17:9-40
 	android:name
@@ -230,11 +230,11 @@ MERGED from [com.android.support:support-v4:24.0.0] C:\Android Projects\Aperture
 MERGED from [com.android.support:animated-vector-drawable:24.0.0] C:\Android Projects\Aperture\Aperture\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-vector-drawable:24.0.0] C:\Android Projects\Aperture\Aperture\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\AndroidManifest.xml:21:5-43
 MERGED from [com.android.support:support-v4:24.0.0] C:\Android Projects\Aperture\Aperture\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\AndroidManifest.xml:21:5-23:54
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:24.0.0] C:\Android Projects\Aperture\Aperture\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\AndroidManifest.xml:23:9-51
 	android:targetSdkVersion
 		INJECTED from C:\Android Projects\Aperture\Aperture\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Android Projects\Aperture\Aperture\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
 		INJECTED from C:\Android Projects\Aperture\Aperture\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Android Projects\Aperture\Aperture\app\src\main\AndroidManifest.xml
-	tools:overrideLibrary
-		ADDED from [com.android.support:support-v4:24.0.0] C:\Android Projects\Aperture\Aperture\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\AndroidManifest.xml:23:9-51
