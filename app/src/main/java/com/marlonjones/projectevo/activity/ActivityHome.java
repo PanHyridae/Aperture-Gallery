@@ -31,13 +31,13 @@ public class ActivityHome extends AppCompatActivity implements SlideMenuAdapterI
 
 	private Context mContext;
 	private Toolbar toolbar;
-	private DrawerLayout Drawer;
-	private ActionBarDrawerToggle mDrawerToggle;
+	//private DrawerLayout Drawer;
+	//private ActionBarDrawerToggle mDrawerToggle;
 	private FragmentManager fragmentManager = null;
     private FragmentTransaction fragmentTransaction = null;
 	private Fragment currentFragment=null;
 	private BottomBar mBottomBar;
-	private ListView slidingList;
+	//private ListView slidingList;
 	private SlideMenuAdapter mSlideMenuAdapter;
 	private int currentPosition=0;
 	
@@ -92,14 +92,14 @@ public class ActivityHome extends AppCompatActivity implements SlideMenuAdapterI
 		});
 	}
 
-	@Override
-	public void onBackPressed() {
-		if(Drawer.isDrawerOpen(GravityCompat.START)){
-			Drawer.closeDrawer(GravityCompat.START);
-	    }else{
-	        super.onBackPressed();
-	    }
-	}
+	//@Override
+	//public void onBackPressed() {
+	//	if(Drawer.isDrawerOpen(GravityCompat.START)){
+		//	Drawer.closeDrawer(GravityCompat.START);
+	//    }else{
+	//        super.onBackPressed();
+	//    }
+	//}
 	
 	@Override
 	public boolean onCreateOptionsMenu(Menu menu) {
@@ -119,7 +119,7 @@ public class ActivityHome extends AppCompatActivity implements SlideMenuAdapterI
 	@Override
 	public void slideRowClickEvent(int postion) {
 		if (currentPosition== postion) {
-			closeDrware();
+			//closeDrware();
 			return;
 		}
 		currentPosition= postion;
@@ -132,38 +132,38 @@ public class ActivityHome extends AppCompatActivity implements SlideMenuAdapterI
 		toolbar.setTitle("");
 		setSupportActionBar(toolbar);
 
-		slidingList=(ListView)findViewById(com.marlonjones.projectevo.R.id.sliding_listView);
+	//	slidingList=(ListView)findViewById(com.marlonjones.projectevo.R.id.sliding_listView);
 		mSlideMenuAdapter=new SlideMenuAdapter(mContext, getSlideList());
 		mSlideMenuAdapter.setSlidemenuadapterinterface(this);
-		slidingList.setAdapter(mSlideMenuAdapter);
+	//	slidingList.setAdapter(mSlideMenuAdapter);
 
-		Drawer = (DrawerLayout) findViewById(com.marlonjones.projectevo.R.id.DrawerLayout);
-		mDrawerToggle = new ActionBarDrawerToggle(this, Drawer, toolbar,
-				com.marlonjones.projectevo.R.string.openDrawer, com.marlonjones.projectevo.R.string.closeDrawer) {
+	//	Drawer = (DrawerLayout) findViewById(com.marlonjones.projectevo.R.id.DrawerLayout);
+	//	mDrawerToggle = new ActionBarDrawerToggle(this, Drawer, toolbar,
+			//	com.marlonjones.projectevo.R.string.openDrawer, com.marlonjones.projectevo.R.string.closeDrawer) {
 
-			@Override
-			public void onDrawerOpened(View drawerView) {
-				super.onDrawerOpened(drawerView);
+		//	@Override
+		//	public void onDrawerOpened(View drawerView) {
+		//		super.onDrawerOpened(drawerView);
 
 			}
 
-			@Override
-			public void onDrawerClosed(View drawerView) {
-				super.onDrawerClosed(drawerView);
-			}
+		//	@Override
+		//	public void onDrawerClosed(View drawerView) {
+		//		super.onDrawerClosed(drawerView);
+			//}
 
-		};
-		Drawer.setDrawerListener(mDrawerToggle);
-		mDrawerToggle.syncState();
+	//	};
+	//	Drawer.setDrawerListener(mDrawerToggle);
+	//	mDrawerToggle.syncState();
 		
 
-	}
+	//}
 	
-	private void closeDrware(){
-		if(Drawer.isDrawerOpen(GravityCompat.START)){
-			Drawer.closeDrawer(GravityCompat.START);
-	    }
-	}
+	//private void closeDrware(){
+	//	if(Drawer.isDrawerOpen(GravityCompat.START)){
+	//		Drawer.closeDrawer(GravityCompat.START);
+//	    }
+//	}
 	
 	private void initialCalling(){
 		fragmentManager = getSupportFragmentManager();
@@ -190,7 +190,7 @@ public class ActivityHome extends AppCompatActivity implements SlideMenuAdapterI
 				}
 
 			}
-			closeDrware();
+		//	closeDrware();
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
