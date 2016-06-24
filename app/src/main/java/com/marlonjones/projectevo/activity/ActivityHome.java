@@ -15,29 +15,19 @@ import android.support.annotation.IdRes;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentTransaction;
-import android.support.v4.view.GravityCompat;
-import android.support.v4.widget.DrawerLayout;
-import android.support.v7.app.ActionBarActivity;
-import android.support.v7.app.ActionBarDrawerToggle;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
-import android.view.Gravity;
 import android.view.Menu;
 import android.view.MenuItem;
-import android.view.View;
-import android.widget.ListView;
 
 public class ActivityHome extends AppCompatActivity{
 
 	private Context mContext;
 	private Toolbar toolbar;
-	//private DrawerLayout Drawer;
-	//private ActionBarDrawerToggle mDrawerToggle;
 	private FragmentManager fragmentManager = null;
     private FragmentTransaction fragmentTransaction = null;
 	private Fragment currentFragment=null;
 	private BottomBar mBottomBar;
-	//private ListView slidingList;
 	private SlideMenuAdapter mSlideMenuAdapter;
 	private int currentPosition=0;
 	
@@ -81,8 +71,6 @@ public class ActivityHome extends AppCompatActivity{
                     ft.commit();
                 }
 			}
-
-
 			@Override
 			public void onMenuTabReSelected(@IdRes int menuItemId) {
 				if (menuItemId == R.id.bottomBarItemOne) {
@@ -91,22 +79,11 @@ public class ActivityHome extends AppCompatActivity{
 			}
 		});
 	}
-
-	//@Override
-	//public void onBackPressed() {
-	//	if(Drawer.isDrawerOpen(GravityCompat.START)){
-		//	Drawer.closeDrawer(GravityCompat.START);
-	//    }else{
-	//        super.onBackPressed();
-	//    }
-	//}
-	
 	@Override
 	public boolean onCreateOptionsMenu(Menu menu) {
 		getMenuInflater().inflate(com.marlonjones.projectevo.R.menu.main, menu);
 		return super.onCreateOptionsMenu(menu);
 	}
-
 	@Override
 	public boolean onOptionsItemSelected(MenuItem item) {
 		int id = item.getItemId();
@@ -114,28 +91,5 @@ public class ActivityHome extends AppCompatActivity{
 			return true;
 		}
 		return super.onOptionsItemSelected(item);
-	}
-
-
-
-
-
-
-
-	/**
-	 * Change to Bottom Bars when possible.
-	 */
-	private String[] title={"All Images","Camera","Video"};
-	private int[] titleLogo={com.marlonjones.projectevo.R.drawable.selector_allpic, com.marlonjones.projectevo.R.drawable.selector_camera, com.marlonjones.projectevo.R.drawable.selector_video};
-	private ArrayList<SlideData> getSlideList(){
-		ArrayList<SlideData> arrayList=new ArrayList<SlideData>();
-		for (int i = 0; i < title.length; i++) {
-			SlideData mSlideData=new SlideData();
-			mSlideData.setIcon(titleLogo[i]);
-			mSlideData.setName(title[i]);
-			mSlideData.setState((i==0)?1:0);
-			arrayList.add(mSlideData);
-		}
-		return arrayList;
 	}
 }
