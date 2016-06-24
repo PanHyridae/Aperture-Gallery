@@ -25,7 +25,7 @@ import com.nostra13.universalimageloader.core.ImageLoaderConfiguration;
 
 public class GalleryFragment extends Fragment {
 
-	public static final String PACKAGE = "org.ece.owngallery";
+	public static final String PACKAGE = "com.marlonjones.projectevo";
     private TextView emptyView;
 	private GridView mView;
 	private Context mContext;

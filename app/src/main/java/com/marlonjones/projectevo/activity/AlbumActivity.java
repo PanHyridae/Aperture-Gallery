@@ -10,6 +10,7 @@ import android.content.Context;
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.ActionBarActivity;
+import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.LayoutInflater;
 import android.view.MenuItem;
@@ -23,9 +24,9 @@ import com.nostra13.universalimageloader.core.DisplayImageOptions;
 import com.nostra13.universalimageloader.core.ImageLoader;
 import com.nostra13.universalimageloader.core.ImageLoaderConfiguration;
 
-public class AlbumActivity extends ActionBarActivity{
+public class AlbumActivity extends AppCompatActivity{
 
-	public static final String PACKAGE = "org.ece.owngallery";
+	public static final String PACKAGE = "com.marlonjones.projectevo";
 	private Toolbar toolbar;
 	private GridView mView;
 	private Context mContext;

@@ -52,13 +52,6 @@ public class PhoneMediaControl {
 
                             PhotoEntry photoEntry = new PhotoEntry(bucketId, imageId, dateTaken, path, orientation);
 
-                            if (allPhotosAlbum == null) {
-                                allPhotosAlbum = new AlbumEntry(0, "AllPhotos", photoEntry);
-                                albumsSorted.add(0, allPhotosAlbum);
-                            }
-                            if (allPhotosAlbum != null) {
-                                allPhotosAlbum.addPhoto(photoEntry);
-                            }
 
                             AlbumEntry albumEntry = albums.get(bucketId);
                             if (albumEntry == null) {
