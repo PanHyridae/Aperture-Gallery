@@ -3,11 +3,9 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@android:color/black" >
-
     <include
         android:id="@+id/tool_bar"
         layout="@layout/toolbar" />
-
 <!--Fragment Container-->
     <RelativeLayout
         android:id="@+id/fragment_container"
@@ -15,30 +13,4 @@
         android:layout_height="wrap_content"
         android:background="@android:color/black" >
     </RelativeLayout>
-
-   <!-- <android.support.v4.widget.DrawerLayout
-        android:id="@+id/DrawerLayout"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:layout_below="@+id/tool_bar"
-        android:elevation="4dp" >
-
-        <RelativeLayout
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:layout_gravity="left"
-            android:background="@android:color/white" >
-
-            <ListView
-                android:id="@+id/sliding_listView"
-                android:layout_width="match_parent"
-                android:layout_height="match_parent"
-                android:cacheColorHint="@android:color/transparent"
-                android:divider="@null"
-                android:listSelector="@android:color/transparent"
-                android:scrollbars="none" >
-            </ListView>
-        </RelativeLayout>
-    </android.support.v4.widget.DrawerLayout>-->
-
 </RelativeLayout>

@@ -27,7 +27,7 @@ import android.view.MenuItem;
 import android.view.View;
 import android.widget.ListView;
 
-public class ActivityHome extends AppCompatActivity implements SlideMenuAdapterInterface{
+public class ActivityHome extends AppCompatActivity{
 
 	private Context mContext;
 	private Toolbar toolbar;
@@ -45,10 +45,10 @@ public class ActivityHome extends AppCompatActivity implements SlideMenuAdapterI
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(com.marlonjones.projectevo.R.layout.activity_home);
+        toolbar = (Toolbar) findViewById(com.marlonjones.projectevo.R.id.tool_bar);
+        setSupportActionBar(toolbar);
 
-		 mContext=ActivityHome.this;
-		 initializeActionBar();
-		 initialCalling();
+        mContext=ActivityHome.this;
 
 		mBottomBar = BottomBar.attach(this, savedInstanceState);
         mBottomBar.noTabletGoodness();
@@ -115,104 +115,11 @@ public class ActivityHome extends AppCompatActivity implements SlideMenuAdapterI
 		}
 		return super.onOptionsItemSelected(item);
 	}
-	
-	@Override
-	public void slideRowClickEvent(int postion) {
-		if (currentPosition== postion) {
-			//closeDrware();
-			return;
-		}
-		currentPosition= postion;
-		getFragment(postion);
-		attachedFragment();
-	}
-	
-	private void initializeActionBar() {
-		toolbar = (Toolbar) findViewById(com.marlonjones.projectevo.R.id.tool_bar);
-		toolbar.setTitle("");
-		setSupportActionBar(toolbar);
-
-	//	slidingList=(ListView)findViewById(com.marlonjones.projectevo.R.id.sliding_listView);
-		mSlideMenuAdapter=new SlideMenuAdapter(mContext, getSlideList());
-		mSlideMenuAdapter.setSlidemenuadapterinterface(this);
-	//	slidingList.setAdapter(mSlideMenuAdapter);
-
-	//	Drawer = (DrawerLayout) findViewById(com.marlonjones.projectevo.R.id.DrawerLayout);
-	//	mDrawerToggle = new ActionBarDrawerToggle(this, Drawer, toolbar,
-			//	com.marlonjones.projectevo.R.string.openDrawer, com.marlonjones.projectevo.R.string.closeDrawer) {
-
-		//	@Override
-		//	public void onDrawerOpened(View drawerView) {
-		//		super.onDrawerOpened(drawerView);
-
-			}
-
-		//	@Override
-		//	public void onDrawerClosed(View drawerView) {
-		//		super.onDrawerClosed(drawerView);
-			//}
-
-	//	};
-	//	Drawer.setDrawerListener(mDrawerToggle);
-	//	mDrawerToggle.syncState();
-		
-
-	//}
-	
-	//private void closeDrware(){
-	//	if(Drawer.isDrawerOpen(GravityCompat.START)){
-	//		Drawer.closeDrawer(GravityCompat.START);
-//	    }
-//	}
-	
-	private void initialCalling(){
-		fragmentManager = getSupportFragmentManager();
-        fragmentTransaction = fragmentManager.beginTransaction();
-
-		getFragment(0);
-		attachedFragment();
-	}
 
 
 
-	private void attachedFragment(){
-		try {
-			if (currentFragment != null) {
-				if (fragmentTransaction.isEmpty()) {
-					fragmentTransaction.add(com.marlonjones.projectevo.R.id.fragment_container, currentFragment,"" + currentFragment.toString());
-					fragmentTransaction.commit();
-					toolbar.setTitle(title[currentPosition]);
-				}else {
-					fragmentTransaction = fragmentManager.beginTransaction();
-					fragmentTransaction.replace(com.marlonjones.projectevo.R.id.fragment_container, currentFragment,"" + currentFragment.toString());
-					fragmentTransaction.commit();
-					toolbar.setTitle(title[currentPosition]);
-				}
-
-			}
-		//	closeDrware();
-		} catch (Exception e) {
-			e.printStackTrace();
-		}
-	}
 
 
-	private void getFragment(int postion){
-		switch (postion) {
-		case 0:
-			currentFragment = new GalleryFragment();
-			break;
-		case 1:
-			currentFragment = new CameraFragment();
-			break;
-		case 2:
-			currentFragment = new VideoFragment();
-			break;
-
-		default:
-			break;
-		}
-	}
 
 
 	/**
