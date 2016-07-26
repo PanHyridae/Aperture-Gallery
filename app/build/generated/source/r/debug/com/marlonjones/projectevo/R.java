@@ -2888,20 +2888,20 @@ containing a value of this type.
         public static final int activity_home_mainView=0x7f0c0070;
         public static final int add=0x7f0c001d;
         public static final int album_count=0x7f0c00ba;
-        public static final int album_image=0x7f0c0074;
+        public static final int album_image=0x7f0c0073;
         public static final int album_name=0x7f0c00b9;
         public static final int alertTitle=0x7f0c004d;
         public static final int always=0x7f0c0037;
         public static final int auto=0x7f0c0031;
-        public static final int bb_bottom_bar_background_overlay=0x7f0c0079;
-        public static final int bb_bottom_bar_background_view=0x7f0c0078;
-        public static final int bb_bottom_bar_icon=0x7f0c007c;
-        public static final int bb_bottom_bar_item_container=0x7f0c007a;
-        public static final int bb_bottom_bar_outer_container=0x7f0c0076;
-        public static final int bb_bottom_bar_shadow=0x7f0c0077;
-        public static final int bb_bottom_bar_title=0x7f0c007d;
-        public static final int bb_tablet_right_border=0x7f0c007b;
-        public static final int bb_user_content_container=0x7f0c0075;
+        public static final int bb_bottom_bar_background_overlay=0x7f0c0078;
+        public static final int bb_bottom_bar_background_view=0x7f0c0077;
+        public static final int bb_bottom_bar_icon=0x7f0c007b;
+        public static final int bb_bottom_bar_item_container=0x7f0c0079;
+        public static final int bb_bottom_bar_outer_container=0x7f0c0075;
+        public static final int bb_bottom_bar_shadow=0x7f0c0076;
+        public static final int bb_bottom_bar_title=0x7f0c007c;
+        public static final int bb_tablet_right_border=0x7f0c007a;
+        public static final int bb_user_content_container=0x7f0c0074;
         public static final int beginning=0x7f0c0033;
         public static final int bottom=0x7f0c0024;
         public static final int bottomBarItemOne=0x7f0c00bf;
@@ -2948,11 +2948,11 @@ containing a value of this type.
         public static final int decor_content_parent=0x7f0c005d;
         public static final int default_activity_button=0x7f0c0044;
         public static final int description=0x7f0c0089;
-        public static final int design_bottom_sheet=0x7f0c007f;
-        public static final int design_menu_item_action_area=0x7f0c0086;
-        public static final int design_menu_item_action_area_stub=0x7f0c0085;
-        public static final int design_menu_item_text=0x7f0c0084;
-        public static final int design_navigation_view=0x7f0c0083;
+        public static final int design_bottom_sheet=0x7f0c007e;
+        public static final int design_menu_item_action_area=0x7f0c0085;
+        public static final int design_menu_item_action_area_stub=0x7f0c0084;
+        public static final int design_menu_item_text=0x7f0c0083;
+        public static final int design_navigation_view=0x7f0c0082;
         public static final int disableHome=0x7f0c0011;
         public static final int edit_query=0x7f0c0061;
         public static final int end=0x7f0c000c;
@@ -2966,7 +2966,7 @@ containing a value of this type.
         public static final int fill_horizontal=0x7f0c0030;
         public static final int fill_vertical=0x7f0c0027;
         public static final int fixed=0x7f0c003c;
-        public static final int fragment_container=0x7f0c0072;
+        public static final int fragment_container=0x7f0c0071;
         public static final int grid=0x7f0c00a7;
         public static final int grid_view=0x7f0c006f;
         public static final int hexInput=0x7f0c009a;
@@ -2995,7 +2995,7 @@ containing a value of this type.
         public static final int minMax=0x7f0c0091;
         public static final int mini=0x7f0c0032;
         public static final int multiply=0x7f0c001e;
-        public static final int navigation_header_container=0x7f0c0082;
+        public static final int navigation_header_container=0x7f0c0081;
         public static final int navigation_item_1=0x7f0c00c2;
         public static final int navigation_item_2=0x7f0c00c3;
         public static final int never=0x7f0c003a;
@@ -3016,7 +3016,7 @@ containing a value of this type.
         public static final int scrollIndicatorUp=0x7f0c004f;
         public static final int scrollView=0x7f0c0050;
         public static final int scrollable=0x7f0c003d;
-        public static final int searchEmptyView=0x7f0c0071;
+        public static final int searchEmptyView=0x7f0c0086;
         public static final int search_badge=0x7f0c0063;
         public static final int search_bar=0x7f0c0062;
         public static final int search_button=0x7f0c0064;
@@ -3033,8 +3033,8 @@ containing a value of this type.
         public static final int showCustom=0x7f0c0014;
         public static final int showHome=0x7f0c0015;
         public static final int showTitle=0x7f0c0016;
-        public static final int snackbar_action=0x7f0c0081;
-        public static final int snackbar_text=0x7f0c0080;
+        public static final int snackbar_action=0x7f0c0080;
+        public static final int snackbar_text=0x7f0c007f;
         public static final int snap=0x7f0c001c;
         public static final int spacer=0x7f0c0049;
         public static final int split_action_bar=0x7f0c0008;
@@ -3057,12 +3057,12 @@ containing a value of this type.
         public static final int top=0x7f0c002a;
         public static final int topLevelLayout=0x7f0c0087;
         public static final int topPanel=0x7f0c004b;
-        public static final int touch_outside=0x7f0c007e;
+        public static final int touch_outside=0x7f0c007d;
         public static final int up=0x7f0c0009;
         public static final int useLogo=0x7f0c0017;
         public static final int view=0x7f0c00bb;
         public static final int view_offset_helper=0x7f0c000a;
-        public static final int vp_base_app=0x7f0c0073;
+        public static final int vp_base_app=0x7f0c0072;
         public static final int withText=0x7f0c003b;
         public static final int wrap_content=0x7f0c0023;
     }
@@ -4569,6 +4569,74 @@ containing a value of this type.
           @attr name com.marlonjones.projectevo:tickMarkTintMode
         */
         public static final int AppCompatSeekBar_tickMarkTintMode = 3;
+        /** Attributes that can be used with a AppCompatTextHelper.
+           <p>Includes the following attributes:</p>
+           <table>
+           <colgroup align="left" />
+           <colgroup align="left" />
+           <tr><th>Attribute</th><th>Description</th></tr>
+           <tr><td><code>{@link #AppCompatTextHelper_android_drawableBottom android:drawableBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTextHelper_android_drawableEnd android:drawableEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTextHelper_android_drawableLeft android:drawableLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTextHelper_android_drawableRight android:drawableRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTextHelper_android_drawableStart android:drawableStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTextHelper_android_drawableTop android:drawableTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTextHelper_android_textAppearance android:textAppearance}</code></td><td></td></tr>
+           </table>
+           @see #AppCompatTextHelper_android_drawableBottom
+           @see #AppCompatTextHelper_android_drawableEnd
+           @see #AppCompatTextHelper_android_drawableLeft
+           @see #AppCompatTextHelper_android_drawableRight
+           @see #AppCompatTextHelper_android_drawableStart
+           @see #AppCompatTextHelper_android_drawableTop
+           @see #AppCompatTextHelper_android_textAppearance
+         */
+        public static final int[] AppCompatTextHelper = {
+            0x01010034, 0x0101016d, 0x0101016e, 0x0101016f,
+            0x01010170, 0x01010392, 0x01010393
+        };
+        /**
+          <p>This symbol is the offset where the {@link android.R.attr#drawableBottom}
+          attribute's value can be found in the {@link #AppCompatTextHelper} array.
+          @attr name android:drawableBottom
+        */
+        public static final int AppCompatTextHelper_android_drawableBottom = 2;
+        /**
+          <p>This symbol is the offset where the {@link android.R.attr#drawableEnd}
+          attribute's value can be found in the {@link #AppCompatTextHelper} array.
+          @attr name android:drawableEnd
+        */
+        public static final int AppCompatTextHelper_android_drawableEnd = 6;
+        /**
+          <p>This symbol is the offset where the {@link android.R.attr#drawableLeft}
+          attribute's value can be found in the {@link #AppCompatTextHelper} array.
+          @attr name android:drawableLeft
+        */
+        public static final int AppCompatTextHelper_android_drawableLeft = 3;
+        /**
+          <p>This symbol is the offset where the {@link android.R.attr#drawableRight}
+          attribute's value can be found in the {@link #AppCompatTextHelper} array.
+          @attr name android:drawableRight
+        */
+        public static final int AppCompatTextHelper_android_drawableRight = 4;
+        /**
+          <p>This symbol is the offset where the {@link android.R.attr#drawableStart}
+          attribute's value can be found in the {@link #AppCompatTextHelper} array.
+          @attr name android:drawableStart
+        */
+        public static final int AppCompatTextHelper_android_drawableStart = 5;
+        /**
+          <p>This symbol is the offset where the {@link android.R.attr#drawableTop}
+          attribute's value can be found in the {@link #AppCompatTextHelper} array.
+          @attr name android:drawableTop
+        */
+        public static final int AppCompatTextHelper_android_drawableTop = 1;
+        /**
+          <p>This symbol is the offset where the {@link android.R.attr#textAppearance}
+          attribute's value can be found in the {@link #AppCompatTextHelper} array.
+          @attr name android:textAppearance
+        */
+        public static final int AppCompatTextHelper_android_textAppearance = 0;
         /** Attributes that can be used with a AppCompatTextView.
            <p>Includes the following attributes:</p>
            <table>

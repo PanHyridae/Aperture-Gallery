@@ -4,19 +4,20 @@
     android:layout_height="match_parent"
     android:background="@android:color/black" >
 
-    <include
-        android:id="@+id/tool_bar"
-        layout="@layout/toolbar" />
+
         <RelativeLayout
             android:id="@+id/activity_home_mainView"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:background="@android:color/black" >
-
+            <include
+                android:id="@+id/tool_bar"
+                layout="@layout/toolbar" />
             <GridView
                 android:id="@+id/grid_view"
                 android:layout_width="fill_parent"
-                android:layout_height="match_parent"
+                android:layout_height="fill_parent"
+                android:layout_below="@+id/tool_bar"
                 android:layout_gravity="top"
                 android:clipToPadding="false"
                 android:drawSelectorOnTop="true"
@@ -31,16 +32,6 @@
                 android:scrollbars="none"
                 android:stretchMode="columnWidth"
                 android:verticalSpacing="4dp" />
-
-            <TextView
-                android:id="@+id/searchEmptyView"
-                android:layout_width="match_parent"
-                android:layout_height="match_parent"
-                android:layout_marginBottom="48dp"
-                android:gravity="center"
-                android:textColor="#808080"
-                android:textSize="20dp"
-                android:visibility="gone" />
         </RelativeLayout>
 
 
