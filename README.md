@@ -5,6 +5,8 @@ Aperture is now under new development. Follow this for more updates, and to cont
 
 Aperture uses code from OwnGalleryView. A gallery demo project (https://github.com/dibakarece/OwnGalleryView) (Apache 2.0)
 
+For more information, refer to FAQ.txt
+
 ````
     Aperture Gallery (AKA - Project: EVO) - An Open Source Gallery
     Copyright (C) 2016  Marlon Jones
