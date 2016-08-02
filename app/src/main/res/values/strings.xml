@@ -4,6 +4,19 @@
     <string name="app_name">Aperture</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="action_alpha_info">Alpha Info</string>
+    <string name="about">About</string>
+         <string name="about_body"><![CDATA[
+        <b>Aperture (PROJECT: Evo)</b>, a material design gallery replacement developed by <b>Marlon Jones</b>.<br/>
+      <b> <a href=\'https://play.google.com/store/apps/dev?id=8037142226626699695\'>Google Play</a>&nbsp;&nbsp;
+        <a href=\'https://plus.google.com/+MarlonJones\'>Google+</a>&nbsp;&nbsp;
+        <a href=\'https://github.com/MJonesDev\'>GitHub</a>&nbsp;&nbsp;
+        <a href=\'https://github.com/MJonesDev/Aperture\'>Source Code</a></b><br/><br/></b>
+To report any bugs, please email <b>marlonjones234@gmail.com</b>, or <b> <a href=\'https://plus.google.com/u/0/communities/116518857170051710391\'>Join the community</a> :)
+    ]]></string>
+    <string name="alpha_text">This Version of Aperture/PROJECT: Evo is in ALPHA form, and is still in early development.
+    Some things will not work, and many things right now are either very buggy or have not yet been implemented. This is
+    intended only for those that wish to aid in the development of Aperture.</string>
 
     <string name="openDrawer">openDrawer</string>
     <string name="closeDrawer">closeDrawer</string>
