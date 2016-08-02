@@ -17,3 +17,6 @@ Frequently Asked Questions about PROJECT: Evo
 
   A: Basic photo viewing is working. Deleting photos, editing, viewing video, and the App Theme Engine is NOT working as of 8/1/2016.
   I just don't have as much time as I would like :/
+  
+5 - What source code and libraries are being used?
+  A: Proper credits will be given later, but it uses code from or uses OwnGalleryView, Material Dialogs, App Theme Engine, and other libraries. A full list with credits will be given at a later date. 
