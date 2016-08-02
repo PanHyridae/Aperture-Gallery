@@ -398,7 +398,20 @@
     <string name="abc_shareactionprovider_share_with">Share with</string>
     <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
     <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="about">About</string>
+    <string name="about_body">
+        &lt;b>Aperture (PROJECT: Evo)&lt;/b>, a material design gallery replacement developed by &lt;b>Marlon Jones&lt;/b>.&lt;br/>
+      &lt;b> &lt;a href=\'https://play.google.com/store/apps/dev?id=8037142226626699695\'>Google Play&lt;/a>&amp;nbsp;&amp;nbsp;
+        &lt;a href=\'https://plus.google.com/+MarlonJones\'>Google+&lt;/a>&amp;nbsp;&amp;nbsp;
+        &lt;a href=\'https://github.com/MJonesDev\'>GitHub&lt;/a>&amp;nbsp;&amp;nbsp;
+        &lt;a href=\'https://github.com/MJonesDev/Aperture\'>Source Code&lt;/a>&lt;/b>&lt;br/>&lt;br/>&lt;/b>
+To report any bugs, please email &lt;b>marlonjones234@gmail.com&lt;/b>, or &lt;b> &lt;a href=\'https://plus.google.com/u/0/communities/116518857170051710391\'>Join the community&lt;/a> :)
+    </string>
+    <string name="action_alpha_info">Alpha Info</string>
     <string name="action_settings">Settings</string>
+    <string name="alpha_text">This Version of Aperture/PROJECT: Evo is in ALPHA form, and is still in early development.
+    Some things will not work, and many things right now are either very buggy or have not yet been implemented. This is
+    intended only for those that wish to aid in the development of Aperture.</string>
     <string name="app_name">Aperture</string>
     <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
     <string name="bottom_sheet_behavior" translatable="false">android.support.design.widget.BottomSheetBehavior</string>

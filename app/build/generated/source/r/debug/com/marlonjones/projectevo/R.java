@@ -2869,6 +2869,7 @@ containing a value of this type.
     }
     public static final class id {
         public static final int action0=0x7f0c00aa;
+        public static final int action_about=0x7f0c00c6;
         public static final int action_bar=0x7f0c005f;
         public static final int action_bar_activity_content=0x7f0c0000;
         public static final int action_bar_container=0x7f0c005e;
@@ -2878,6 +2879,7 @@ containing a value of this type.
         public static final int action_bar_title=0x7f0c003e;
         public static final int action_context_bar=0x7f0c0060;
         public static final int action_divider=0x7f0c00ae;
+        public static final int action_information=0x7f0c00c5;
         public static final int action_menu_divider=0x7f0c0002;
         public static final int action_menu_presenter=0x7f0c0003;
         public static final int action_mode_bar=0x7f0c005c;
@@ -3205,25 +3207,29 @@ containing a value of this type.
         public static final int abc_shareactionprovider_share_with=0x7f060010;
         public static final int abc_shareactionprovider_share_with_application=0x7f060011;
         public static final int abc_toolbar_collapse_description=0x7f060012;
-        public static final int action_settings=0x7f060020;
-        public static final int app_name=0x7f060021;
-        public static final int appbar_scrolling_view_behavior=0x7f060022;
-        public static final int bottom_sheet_behavior=0x7f060023;
-        public static final int bottombarcamera=0x7f060024;
-        public static final int bottombarphoto=0x7f060025;
-        public static final int bottombarvid=0x7f060026;
-        public static final int character_counter_pattern=0x7f060027;
-        public static final int closeDrawer=0x7f060028;
-        public static final int hello_world=0x7f060029;
-        public static final int md_back_label=0x7f06002a;
-        public static final int md_cancel_label=0x7f06002b;
-        public static final int md_choose_label=0x7f06002c;
-        public static final int md_custom_label=0x7f06002d;
-        public static final int md_done_label=0x7f06002e;
-        public static final int md_error_label=0x7f06002f;
-        public static final int md_presets_label=0x7f060030;
-        public static final int md_storage_perm_error=0x7f060031;
-        public static final int openDrawer=0x7f060032;
+        public static final int about=0x7f060020;
+        public static final int about_body=0x7f060021;
+        public static final int action_alpha_info=0x7f060022;
+        public static final int action_settings=0x7f060023;
+        public static final int alpha_text=0x7f060024;
+        public static final int app_name=0x7f060025;
+        public static final int appbar_scrolling_view_behavior=0x7f060026;
+        public static final int bottom_sheet_behavior=0x7f060027;
+        public static final int bottombarcamera=0x7f060028;
+        public static final int bottombarphoto=0x7f060029;
+        public static final int bottombarvid=0x7f06002a;
+        public static final int character_counter_pattern=0x7f06002b;
+        public static final int closeDrawer=0x7f06002c;
+        public static final int hello_world=0x7f06002d;
+        public static final int md_back_label=0x7f06002e;
+        public static final int md_cancel_label=0x7f06002f;
+        public static final int md_choose_label=0x7f060030;
+        public static final int md_custom_label=0x7f060031;
+        public static final int md_done_label=0x7f060032;
+        public static final int md_error_label=0x7f060033;
+        public static final int md_presets_label=0x7f060034;
+        public static final int md_storage_perm_error=0x7f060035;
+        public static final int openDrawer=0x7f060036;
         public static final int status_bar_notification_info_overflow=0x7f060013;
     }
     public static final class style {

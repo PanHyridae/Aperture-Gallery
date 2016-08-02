@@ -19,6 +19,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.widget.Toast;
 
 public class ActivityHome extends AppCompatActivity{
 
@@ -88,8 +89,17 @@ public class ActivityHome extends AppCompatActivity{
 	public boolean onOptionsItemSelected(MenuItem item) {
 		int id = item.getItemId();
 		if (id == com.marlonjones.projectevo.R.id.action_settings) {
-			return true;
+			Toast.makeText(getApplicationContext(), "Not Yet Developed",
+					Toast.LENGTH_SHORT).show();
 		}
+		if (id==com.marlonjones.projectevo.R.id.action_about){
+            Toast.makeText(getApplicationContext(), "Not Yet Developed",
+                    Toast.LENGTH_SHORT).show();
+        }
+        if (id== R.id.action_information){
+            Toast.makeText(getApplicationContext(), "Not Yet Developed",
+                    Toast.LENGTH_SHORT).show();
+        }
 		return super.onOptionsItemSelected(item);
 	}
 }
