@@ -159,6 +159,7 @@ public class VideoThumbleLoader {
                         String tag=imageViews.get(photoToLoad.imageView);
                         if(tag!=null && tag.equals(photoToLoad.url)){
                             BitmapDisplayer bd=new BitmapDisplayer(bmp, photoToLoad.imageView, photoToLoad.progressBar);
+
                             Activity a=(Activity)photoToLoad.imageView.getContext();
                             a.runOnUiThread(bd);
                         }
