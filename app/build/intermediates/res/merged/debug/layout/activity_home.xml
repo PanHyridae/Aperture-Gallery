@@ -2,7 +2,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@android:color/black" >
+    android:background="@android:color/white" >
     <include
         android:id="@+id/tool_bar"
         layout="@layout/toolbar" />
@@ -12,6 +12,6 @@
         android:id="@+id/fragment_container"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:background="@android:color/black" >
+        android:background="@android:color/white" >
     </RelativeLayout>
 </RelativeLayout>
