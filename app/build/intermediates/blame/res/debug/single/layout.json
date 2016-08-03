@@ -1,11 +1,11 @@
 [
     {
-        "merged": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\md_dialog_colorchooser.xml",
-        "source": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\commons\\0.8.6.0\\res\\layout\\md_dialog_colorchooser.xml"
-    },
-    {
         "merged": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
         "source": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\md_dialog_colorchooser.xml",
+        "source": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\commons\\0.8.6.0\\res\\layout\\md_dialog_colorchooser.xml"
     },
     {
         "merged": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home.xml",
@@ -32,12 +32,12 @@
         "source": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
     },
     {
-        "merged": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_photopreview.xml",
-        "source": "C:\\Android Projects\\Aperture\\Aperture\\app\\src\\main\\res\\layout\\activity_photopreview.xml"
-    },
-    {
         "merged": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
         "source": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_photopreview.xml",
+        "source": "C:\\Android Projects\\Aperture\\Aperture\\app\\src\\main\\res\\layout\\activity_photopreview.xml"
     },
     {
         "merged": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
