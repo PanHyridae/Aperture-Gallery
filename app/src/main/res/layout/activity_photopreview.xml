@@ -5,13 +5,13 @@
     android:background="@android:color/black" >
 
     <include
-        android:id="@+id/tool_bar"
-        layout="@layout/toolbar" />
+        android:id="@+id/tool_bar_trans"
+        layout="@layout/toolbar_trans" />
 
     <android.support.v4.view.ViewPager
         android:id="@+id/vp_base_app"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:layout_below="@+id/tool_bar" />
+        android:layout_below="@+id/tool_bar_trans" />
 
 </RelativeLayout>

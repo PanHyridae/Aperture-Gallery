@@ -224,6 +224,10 @@
         "source": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.roughike\\bottom-bar\\1.3.9\\res\\layout\\bb_bottom_bar_item_fixed.xml"
     },
     {
+        "merged": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\toolbar_trans.xml",
+        "source": "C:\\Android Projects\\Aperture\\Aperture\\app\\src\\main\\res\\layout\\toolbar_trans.xml"
+    },
+    {
         "merged": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
         "source": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\layout\\abc_list_menu_item_icon.xml"
     },

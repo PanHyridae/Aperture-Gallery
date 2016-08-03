@@ -11,12 +11,13 @@ import android.support.v4.view.PagerAdapter;
 import android.support.v4.view.ViewPager;
 import android.support.v4.view.ViewPager.OnPageChangeListener;
 import android.support.v7.app.ActionBarActivity;
+import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.MenuItem;
 import android.view.View;
 import android.view.ViewGroup;
 
-public class PhotoPreviewActivity extends ActionBarActivity implements OnPageChangeListener {
+public class PhotoPreviewActivity extends AppCompatActivity implements OnPageChangeListener {
 
 	private ViewPager mViewPager;
 	protected List<PhotoEntry> photos;
@@ -32,7 +33,7 @@ public class PhotoPreviewActivity extends ActionBarActivity implements OnPageCha
 		
 		
 		context=PhotoPreviewActivity.this;
-		toolbar = (Toolbar) findViewById(com.marlonjones.projectevo.R.id.tool_bar);
+		toolbar = (Toolbar) findViewById(com.marlonjones.projectevo.R.id.tool_bar_trans);
 		toolbar.setTitle("");
 		setSupportActionBar(toolbar);
 		getSupportActionBar().setDisplayHomeAsUpEnabled(true);
