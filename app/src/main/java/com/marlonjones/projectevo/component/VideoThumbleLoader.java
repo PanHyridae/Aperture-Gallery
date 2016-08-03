@@ -158,10 +158,9 @@ public class VideoThumbleLoader {
                         videoBitmap.put(photoToLoad.url,bmp);
                         String tag=imageViews.get(photoToLoad.imageView);
                         if(tag!=null && tag.equals(photoToLoad.url)){
-                            BitmapDisplayer bd=new BitmapDisplayer(bmp, photoToLoad.imageView, photoToLoad.progressBar);
-
-                            Activity a=(Activity)photoToLoad.imageView.getContext();
-                            a.runOnUiThread(bd);
+                            //BitmapDisplayer bd=new BitmapDisplayer(bmp, photoToLoad.imageView, photoToLoad.progressBar);
+                            //Activity a=(Activity)photoToLoad.imageView.getContext();
+                            //a.runOnUiThread(bd);
                         }
                     }
                     if(Thread.interrupted())
