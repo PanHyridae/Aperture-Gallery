@@ -1,4 +1,5 @@
 ##Aperture Gallery
+![Header Image] (https://github.com/MJonesDev/Aperture/blob/master/AFFIX_20160803_004248.png)
 ![License] (https://img.shields.io/badge/license-GPLv3-blue.svg)
 
 Aperture is now under new development. Follow this for more updates, and to contribute to the project. 
