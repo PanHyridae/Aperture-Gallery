@@ -9,32 +9,11 @@
         <dex dex="C:\Android Projects\Aperture\Aperture\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.roughike-bottom-bar-1.3.9_02aa07f3b470fc69a82ba9863c00849db84d9b98\classes.dex" />
     </item>
     <item
-        jar="C:\Android Projects\Aperture\Aperture\app\build\intermediates\exploded-aar\com.roughike\bottom-bar\1.3.9\jars\classes.jar"
-        jumboMode="false"
-        revision="24.0.0"
-        sha1="f74bf45cb3b2a686ca6d17feadbda6868e43e6c1">
-        <dex dex="C:\Android Projects\Aperture\Aperture\app\build\intermediates\pre-dexed\debug\com.roughike-bottom-bar-1.3.9_02aa07f3b470fc69a82ba9863c00849db84d9b98.jar" />
-    </item>
-    <item
-        jar="C:\Android Projects\Aperture\Aperture\app\build\intermediates\exploded-aar\com.android.support\design\24.1.1\jars\classes.jar"
+        jar="C:\Android Projects\Aperture\Aperture\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
         jumboMode="true"
         revision="24.0.0"
-        sha1="e195bd694d5389acfba27ff4fdfa64c4c65b2c05">
-        <dex dex="C:\Android Projects\Aperture\Aperture\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.1.1_9395ced46d088841eedb30285e3b19e44851a1d8\classes.dex" />
-    </item>
-    <item
-        jar="C:\Android Projects\Aperture\Aperture\app\build\intermediates\exploded-aar\me.zhanghai.android.materialprogressbar\library\1.1.6\jars\classes.jar"
-        jumboMode="false"
-        revision="24.0.0"
-        sha1="ab3193b438e37f7b0a634cc2dfebbf92892ea90c">
-        <dex dex="C:\Android Projects\Aperture\Aperture\app\build\intermediates\pre-dexed\debug\me.zhanghai.android.materialprogressbar-library-1.1.6_2327ea81302b002e79c845d856b1ecf8969285e8.jar" />
-    </item>
-    <item
-        jar="C:\Android Projects\Aperture\Aperture\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\libs\internal_impl-24.1.1.jar"
-        jumboMode="true"
-        revision="24.0.0"
-        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
-        <dex dex="C:\Android Projects\Aperture\Aperture\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.1.1_4fd4ac294dfa7f03c6523748eb7ebf1ba5a1fb6e\classes.dex" />
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="C:\Android Projects\Aperture\Aperture\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_2ff8a0ed9d8e247ef647b357f02b077b052529af\classes.dex" />
     </item>
     <item
         jar="C:\Android Projects\Aperture\Aperture\app\libs\universal-image-loader-1.9.2-SNAPSHOT-with-sources.jar"
@@ -51,109 +30,116 @@
         <dex dex="C:\Android Projects\Aperture\Aperture\app\build\intermediates\transforms\dex\debug\folders\1000\10\me.zhanghai.android.materialprogressbar-library-1.1.6_2327ea81302b002e79c845d856b1ecf8969285e8\classes.dex" />
     </item>
     <item
-        jar="C:\Android Projects\Aperture\Aperture\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\libs\internal_impl-24.1.1.jar"
-        jumboMode="false"
-        revision="24.0.0"
-        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
-        <dex dex="C:\Android Projects\Aperture\Aperture\app\build\intermediates\pre-dexed\debug\internal_impl-24.1.1_4fd4ac294dfa7f03c6523748eb7ebf1ba5a1fb6e.jar" />
-    </item>
-    <item
-        jar="C:\Android Projects\Aperture\Aperture\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.1\jars\classes.jar"
+        jar="C:\Android Projects\Aperture\Aperture\app\build\intermediates\exploded-aar\com.android.support\design\24.2.0\jars\classes.jar"
         jumboMode="true"
         revision="24.0.0"
-        sha1="f62e763609f65e47dc6c498760a4accf02776788">
-        <dex dex="C:\Android Projects\Aperture\Aperture\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.1.1_0554e62469aba2b2993b8c89e292e9b42c987d9e\classes.dex" />
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="C:\Android Projects\Aperture\Aperture\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.2.0_8a1d266bbf3cbf778f9cea43522c7c7bd502fcfe\classes.dex" />
     </item>
     <item
-        jar="C:\Android Projects\Aperture\Aperture\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.1\jars\classes.jar"
-        jumboMode="false"
-        revision="24.0.0"
-        sha1="f62e763609f65e47dc6c498760a4accf02776788">
-        <dex dex="C:\Android Projects\Aperture\Aperture\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.1.1_0554e62469aba2b2993b8c89e292e9b42c987d9e.jar" />
-    </item>
-    <item
-        jar="C:\Android Projects\Aperture\Aperture\app\libs\universal-image-loader-1.9.2-SNAPSHOT-with-sources.jar"
-        jumboMode="false"
-        revision="24.0.0"
-        sha1="3526df34297bab9b9cc33d93d6e68f60fc2f94ea">
-        <dex dex="C:\Android Projects\Aperture\Aperture\app\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.2-SNAPSHOT-with-sources_2b9fb89c9178897bf32990ed982ce0822319bd1f.jar" />
-    </item>
-    <item
-        jar="C:\Android Projects\Aperture\Aperture\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.1\jars\classes.jar"
+        jar="C:\Android Projects\Aperture\Aperture\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
         jumboMode="true"
         revision="24.0.0"
-        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
-        <dex dex="C:\Android Projects\Aperture\Aperture\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.1.1_e3cddc4d219df2581bb226335dc0784dfb445005\classes.dex" />
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="C:\Android Projects\Aperture\Aperture\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.0_bfede76cdcba8a2ae24c3feab466e9819180c34c\classes.dex" />
     </item>
     <item
-        jar="C:\Android Projects\Aperture\Aperture\app\build\intermediates\exploded-aar\com.android.support\design\24.1.1\jars\classes.jar"
-        jumboMode="false"
-        revision="24.0.0"
-        sha1="e195bd694d5389acfba27ff4fdfa64c4c65b2c05">
-        <dex dex="C:\Android Projects\Aperture\Aperture\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.1.1_9395ced46d088841eedb30285e3b19e44851a1d8.jar" />
-    </item>
-    <item
-        jar="C:\Android Projects\Aperture\Aperture\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\classes.jar"
+        jar="C:\Android Projects\Aperture\Aperture\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
         jumboMode="true"
         revision="24.0.0"
-        sha1="6d7d803871e3203465f71a163e7af104f807b446">
-        <dex dex="C:\Android Projects\Aperture\Aperture\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.1.1_4a3909ffb9eec31a17d0640a8021a02aa3ecf1ce\classes.dex" />
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="C:\Android Projects\Aperture\Aperture\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.0_62533cc0c58c96898d2fdcb19112f95b9148be2f\classes.dex" />
     </item>
     <item
-        jar="C:\Android Projects\Aperture\Aperture\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.1\jars\classes.jar"
-        jumboMode="false"
+        jar="C:\Android Projects\Aperture\Aperture\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="true"
         revision="24.0.0"
-        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
-        <dex dex="C:\Android Projects\Aperture\Aperture\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.1.1_e3cddc4d219df2581bb226335dc0784dfb445005.jar" />
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="C:\Android Projects\Aperture\Aperture\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.0_4c301724cef05759fa430a0fe7c2a32e9e9710dc\classes.dex" />
     </item>
     <item
-        jar="C:\Android Projects\Aperture\Aperture\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\classes.jar"
-        jumboMode="false"
+        jar="C:\Android Projects\Aperture\Aperture\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
         revision="24.0.0"
-        sha1="6d7d803871e3203465f71a163e7af104f807b446">
-        <dex dex="C:\Android Projects\Aperture\Aperture\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.1.1_4a3909ffb9eec31a17d0640a8021a02aa3ecf1ce.jar" />
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="C:\Android Projects\Aperture\Aperture\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.0_0da1fbd50890578296b024daeb0cb0f074467674\classes.dex" />
     </item>
     <item
-        jar="C:\Android Projects\Aperture\Aperture\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.1\jars\classes.jar"
-        jumboMode="false"
+        jar="C:\Android Projects\Aperture\Aperture\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
         revision="24.0.0"
-        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
-        <dex dex="C:\Android Projects\Aperture\Aperture\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.1.1_ede36172f5a0a19d0f3d4a2425d859523352fd98.jar" />
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="C:\Android Projects\Aperture\Aperture\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.0_c90ebe25bcd4f20a0ebed82bab9b25f4e31ad9ee\classes.dex" />
     </item>
     <item
-        jar="C:\Android Projects\Aperture\Aperture\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.1.1\jars\classes.jar"
-        jumboMode="false"
+        jar="C:\Android Projects\Aperture\Aperture\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
         revision="24.0.0"
-        sha1="787871951412550519b0222aba3c9df4cea49875">
-        <dex dex="C:\Android Projects\Aperture\Aperture\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.1.1_86b368af3a5f9f00234e1224e77f54c292e1615c.jar" />
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="C:\Android Projects\Aperture\Aperture\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.0_c67142badc084bc7d8cf8929a46b1d65dc6bb27b\classes.dex" />
     </item>
     <item
         jar="C:\Android Projects\Aperture\Aperture\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         revision="24.0.0"
-        sha1="0b6dad1534cc8469b44833f2817f27bc15b71c0f">
+        sha1="1064892974db10d87477edbb10fc2108919d5e7f">
         <dex dex="C:\Android Projects\Aperture\Aperture\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_cdc955c804d8c275f16132c71bbe5c9b8a630083\classes.dex" />
+    </item>
+    <item
+        jar="C:\Android Projects\Aperture\Aperture\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="C:\Android Projects\Aperture\Aperture\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_c99bea4ae23fcaab31aee1d1ccc8677707f79ef6\classes.dex" />
+    </item>
+    <item
+        jar="C:\AndroidSDK\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="C:\Android Projects\Aperture\Aperture\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.0_6ebbac7c2a3eb05c368a3f6e8ec248ecdb446105\classes.dex" />
+    </item>
+    <item
+        jar="C:\Android Projects\Aperture\Aperture\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="C:\Android Projects\Aperture\Aperture\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.0_840fc9f02c9f5056246377cbe032cb8855e43630\classes.dex" />
+    </item>
+    <item
+        jar="C:\Android Projects\Aperture\Aperture\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="C:\Android Projects\Aperture\Aperture\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_d1778486753382055f16cb6ab085c687053f15ac\classes.dex" />
+    </item>
+    <item
+        jar="C:\Android Projects\Aperture\Aperture\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="C:\Android Projects\Aperture\Aperture\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.0_47ca4b19461bb0f07b9371e45a74e71e62787402\classes.dex" />
+    </item>
+    <item
+        jar="C:\Android Projects\Aperture\Aperture\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="C:\Android Projects\Aperture\Aperture\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_85f093d8aa26af92649ed032d5cbf631cd70fdea\classes.dex" />
+    </item>
+    <item
+        jar="C:\Android Projects\Aperture\Aperture\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="C:\Android Projects\Aperture\Aperture\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_1bce6ca7c1d94908fe91844c9f0a9b103f7a6f9c\classes.dex" />
     </item>
     <item
         jar="C:\Android Projects\Aperture\Aperture\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         revision="24.0.0"
-        sha1="39fd3c0cd7cac1c23895e0e6a875ea527383b5ac">
+        sha1="f7a5f88f86f0a0d047e3423562f3b5d24354c882">
         <dex dex="C:\Android Projects\Aperture\Aperture\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_fd1faf30b061b405c19f7959d6719ea46df67ca2\classes.dex" />
-    </item>
-    <item
-        jar="C:\AndroidSDK\extras\android\m2repository\com\android\support\support-annotations\24.1.1\support-annotations-24.1.1.jar"
-        jumboMode="false"
-        revision="24.0.0"
-        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
-        <dex dex="C:\Android Projects\Aperture\Aperture\app\build\intermediates\pre-dexed\debug\support-annotations-24.1.1_ea09da2cb4ddf2c5a2c3085b3691c057ff6033dd.jar" />
-    </item>
-    <item
-        jar="C:\AndroidSDK\extras\android\m2repository\com\android\support\support-annotations\24.1.1\support-annotations-24.1.1.jar"
-        jumboMode="true"
-        revision="24.0.0"
-        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
-        <dex dex="C:\Android Projects\Aperture\Aperture\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.1.1_ea09da2cb4ddf2c5a2c3085b3691c057ff6033dd\classes.dex" />
     </item>
     <item
         jar="C:\Android Projects\Aperture\Aperture\app\build\intermediates\exploded-aar\com.afollestad.material-dialogs\commons\0.8.6.0\jars\classes.jar"
@@ -163,18 +149,18 @@
         <dex dex="C:\Android Projects\Aperture\Aperture\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.afollestad.material-dialogs-commons-0.8.6.0_16917a8dc7acd47de089c9624d0bc53c3e7e0ab1\classes.dex" />
     </item>
     <item
-        jar="C:\Android Projects\Aperture\Aperture\app\build\intermediates\exploded-aar\com.afollestad.material-dialogs\commons\0.8.6.0\jars\classes.jar"
-        jumboMode="false"
+        jar="C:\Android Projects\Aperture\Aperture\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
         revision="24.0.0"
-        sha1="f920e2818dcbce0a54dac07222cecfa09cf9559b">
-        <dex dex="C:\Android Projects\Aperture\Aperture\app\build\intermediates\pre-dexed\debug\com.afollestad.material-dialogs-commons-0.8.6.0_16917a8dc7acd47de089c9624d0bc53c3e7e0ab1.jar" />
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="C:\Android Projects\Aperture\Aperture\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.0_b66c75c681b5848e5ddb42236618be07ca25564b\classes.dex" />
     </item>
     <item
-        jar="C:\Android Projects\Aperture\Aperture\app\build\intermediates\exploded-aar\com.afollestad.material-dialogs\core\0.8.6.0\jars\classes.jar"
-        jumboMode="false"
+        jar="C:\Android Projects\Aperture\Aperture\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="true"
         revision="24.0.0"
-        sha1="d3cec13eea6c9b017d968a80a277ab9196df58f6">
-        <dex dex="C:\Android Projects\Aperture\Aperture\app\build\intermediates\pre-dexed\debug\com.afollestad.material-dialogs-core-0.8.6.0_b489f514e6a03bf0702d185ac6fb635c2241756f.jar" />
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="C:\Android Projects\Aperture\Aperture\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.0_05abaa183c3a0707aa42eb1876cfafaeedc10ee1\classes.dex" />
     </item>
     <item
         jar="C:\Android Projects\Aperture\Aperture\app\build\intermediates\exploded-aar\com.afollestad.material-dialogs\core\0.8.6.0\jars\classes.jar"
@@ -182,20 +168,6 @@
         revision="24.0.0"
         sha1="d3cec13eea6c9b017d968a80a277ab9196df58f6">
         <dex dex="C:\Android Projects\Aperture\Aperture\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.afollestad.material-dialogs-core-0.8.6.0_b489f514e6a03bf0702d185ac6fb635c2241756f\classes.dex" />
-    </item>
-    <item
-        jar="C:\Android Projects\Aperture\Aperture\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.1.1\jars\classes.jar"
-        jumboMode="true"
-        revision="24.0.0"
-        sha1="787871951412550519b0222aba3c9df4cea49875">
-        <dex dex="C:\Android Projects\Aperture\Aperture\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.1.1_86b368af3a5f9f00234e1224e77f54c292e1615c\classes.dex" />
-    </item>
-    <item
-        jar="C:\Android Projects\Aperture\Aperture\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.1\jars\classes.jar"
-        jumboMode="true"
-        revision="24.0.0"
-        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
-        <dex dex="C:\Android Projects\Aperture\Aperture\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.1.1_ede36172f5a0a19d0f3d4a2425d859523352fd98\classes.dex" />
     </item>
 
 </items>
