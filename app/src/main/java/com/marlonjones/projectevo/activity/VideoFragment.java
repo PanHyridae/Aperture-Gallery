@@ -22,7 +22,7 @@ import android.widget.TextView;
 
 public class VideoFragment extends Fragment implements PhoneMediaVideoController.loadAllVideoMediaInterface {
 
-	public static final String PACKAGE = "org.ece.owngallery";
+	public static final String PACKAGE = "com.marlonjones.projectevo";
     private TextView emptyView;
 	private GridView mView;
 	private Context mContext;

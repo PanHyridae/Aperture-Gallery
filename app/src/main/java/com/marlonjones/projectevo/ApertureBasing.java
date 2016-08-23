@@ -59,7 +59,7 @@ public class ApertureBasing extends Application{
 	                Display display = manager.getDefaultDisplay();
 	                if (display != null) {
 	                    if(android.os.Build.VERSION.SDK_INT < 13) {
-	                        displaySize.set(display.getWidth(), display.getHeight());
+	                        displaySize.set(display.getWidth(), display.getHeight()); //Change this when able  - getWidth/getHeight is currently depreciated
 	                    } else {
 	                        display.getSize(displaySize);
 	                    }
