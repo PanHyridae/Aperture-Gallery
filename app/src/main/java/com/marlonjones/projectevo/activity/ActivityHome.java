@@ -37,6 +37,7 @@ public class ActivityHome extends AppCompatActivity{
 		super.onCreate(savedInstanceState);
 		setContentView(com.marlonjones.projectevo.R.layout.activity_home);
         toolbar = (Toolbar) findViewById(com.marlonjones.projectevo.R.id.tool_bar);
+		//getSupportActionBar().setTitle("Aperture Gallery"); - FIND WORKAROUND FOR THIS
         setSupportActionBar(toolbar);
 
         mContext=ActivityHome.this;

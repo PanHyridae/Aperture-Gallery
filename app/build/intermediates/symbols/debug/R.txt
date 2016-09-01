@@ -1119,6 +1119,7 @@ int string md_storage_perm_error 0x7f060036
 int string openDrawer 0x7f060037
 int string search_menu_title 0x7f060013
 int string status_bar_notification_info_overflow 0x7f060014
+int string toolbar_name_default 0x7f060038
 int style AlertDialog_AppCompat 0x7f080092
 int style AlertDialog_AppCompat_Light 0x7f080093
 int style Animation_AppCompat_Dialog 0x7f080094

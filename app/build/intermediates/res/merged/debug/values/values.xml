@@ -441,6 +441,7 @@ To report any bugs, please email &lt;b>marlonjones234@gmail.com&lt;/b>, or &lt;b
     <string name="openDrawer">openDrawer</string>
     <string name="search_menu_title">Search</string>
     <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="toolbar_name_default">Aperture Gallery</string>
     <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>
     <style name="AlertDialog.AppCompat.Light" parent="Base.AlertDialog.AppCompat.Light"/>
     <style name="Animation.AppCompat.Dialog" parent="Base.Animation.AppCompat.Dialog"/>
