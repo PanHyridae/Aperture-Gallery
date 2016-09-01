@@ -39,6 +39,7 @@ public class ActivityHome extends AppCompatActivity{
     private FragmentTransaction fragmentTransaction = null;
 	private Fragment currentFragment=null;
 	private BottomBar mBottomBar;
+    private static final int PERMISSION_REQUEST_CODE = 1;
 	private SlideMenuAdapter mSlideMenuAdapter;
 	private int currentPosition=0;
 	
