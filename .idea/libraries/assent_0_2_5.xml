@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="assent-0.2.5">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.afollestad/assent/0.2.5/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.afollestad/assent/0.2.5/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.afollestad/assent/0.2.5/628ffa8e56980dea3949cf73e5dba69cd366a77b/assent-0.2.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
