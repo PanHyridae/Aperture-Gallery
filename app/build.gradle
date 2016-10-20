@@ -19,8 +19,8 @@ android {
         applicationId "com.marlonjones.projectevo"
         minSdkVersion 14
         targetSdkVersion 25
-        versionCode 2
-        versionName "0.0.3 Google Play Pre-Alpha"
+        versionCode 3
+        versionName "0.0.4 Unreleased"
     }
 
     buildTypes {
