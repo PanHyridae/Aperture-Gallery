@@ -1,354 +1,390 @@
 [
     {
-        "merged": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\md_dialog_colorchooser.xml",
-        "source": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\commons\\0.8.6.0\\res\\layout\\md_dialog_colorchooser.xml"
+        "merged": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
     },
     {
-        "merged": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
-        "source": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_screen_simple.xml"
+        "merged": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\layout\\abc_list_menu_item_icon.xml"
     },
     {
-        "merged": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home.xml",
-        "source": "C:\\Android Projects\\Aperture\\Aperture\\app\\src\\main\\res\\layout\\activity_home.xml"
+        "merged": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
+        "source": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.0\\res\\layout\\design_bottom_navigation_item.xml"
     },
     {
-        "merged": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_gallery.xml",
-        "source": "C:\\Android Projects\\Aperture\\Aperture\\app\\src\\main\\res\\layout\\fragment_gallery.xml"
+        "merged": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\layout\\abc_list_menu_item_layout.xml"
     },
     {
-        "merged": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\md_stub_titleframe.xml",
-        "source": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.8.6.0\\res\\layout\\md_stub_titleframe.xml"
+        "merged": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\layout\\abc_expanded_menu_layout.xml"
     },
     {
-        "merged": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
-        "source": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+        "merged": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\notification_template_lines.xml"
     },
     {
-        "merged": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
-        "source": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+        "merged": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\layout\\notification_media_action.xml"
     },
     {
-        "merged": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
-        "source": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+        "merged": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\layout\\abc_alert_dialog_material.xml"
     },
     {
-        "merged": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
-        "source": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_action_menu_item_layout.xml"
+        "merged": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\toolbar.xml",
+        "source": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\src\\main\\res\\layout\\toolbar.xml"
     },
     {
-        "merged": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_photopreview.xml",
-        "source": "C:\\Android Projects\\Aperture\\Aperture\\app\\src\\main\\res\\layout\\activity_photopreview.xml"
+        "merged": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\md_listitem_singlechoice.xml",
+        "source": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.8.6.0\\res\\layout\\md_listitem_singlechoice.xml"
     },
     {
-        "merged": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
-        "source": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\notification_template_part_chronometer.xml"
+        "merged": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
     },
     {
-        "merged": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
-        "source": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.0\\res\\layout\\design_navigation_menu_item.xml"
+        "merged": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\layout\\abc_action_mode_close_item_material.xml"
     },
     {
-        "merged": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\md_stub_actionbuttons.xml",
-        "source": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.8.6.0\\res\\layout\\md_stub_actionbuttons.xml"
+        "merged": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\md_stub_titleframe.xml",
+        "source": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.8.6.0\\res\\layout\\md_stub_titleframe.xml"
     },
     {
-        "merged": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
-        "source": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+        "merged": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\photo_picker_album_layout.xml",
+        "source": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\src\\main\\res\\layout\\photo_picker_album_layout.xml"
     },
     {
-        "merged": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
-        "source": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.0\\res\\layout\\design_layout_tab_text.xml"
+        "merged": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\layout\\abc_search_view.xml"
     },
     {
-        "merged": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
-        "source": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\notification_template_big_media_narrow.xml"
+        "merged": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\md_stub_actionbuttons.xml",
+        "source": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.8.6.0\\res\\layout\\md_stub_actionbuttons.xml"
     },
     {
-        "merged": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
-        "source": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_screen_toolbar.xml"
+        "merged": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_gallery.xml",
+        "source": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\src\\main\\res\\layout\\fragment_gallery.xml"
     },
     {
-        "merged": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
-        "source": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.0\\res\\layout\\design_navigation_menu.xml"
+        "merged": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\layout\\notification_template_part_chronometer.xml"
     },
     {
-        "merged": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\md_dialog_basic.xml",
-        "source": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.8.6.0\\res\\layout\\md_dialog_basic.xml"
+        "merged": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.0\\res\\layout\\design_bottom_sheet_dialog.xml"
     },
     {
-        "merged": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
-        "source": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.0\\res\\layout\\design_text_input_password_icon.xml"
+        "merged": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\layout\\abc_activity_chooser_view.xml"
     },
     {
-        "merged": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\image_details.xml",
-        "source": "C:\\Android Projects\\Aperture\\Aperture\\app\\src\\main\\res\\layout\\image_details.xml"
+        "merged": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\md_simplelist_item.xml",
+        "source": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\commons\\0.8.6.0\\res\\layout\\md_simplelist_item.xml"
     },
     {
-        "merged": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
-        "source": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.0\\res\\layout\\design_layout_snackbar.xml"
+        "merged": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\md_dialog_colorchooser.xml",
+        "source": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\commons\\0.8.6.0\\res\\layout\\md_dialog_colorchooser.xml"
     },
     {
-        "merged": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\picture_info.xml",
-        "source": "C:\\Android Projects\\Aperture\\Aperture\\app\\src\\main\\res\\layout\\picture_info.xml"
+        "merged": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\layout\\notification_template_media_custom.xml"
     },
     {
-        "merged": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
-        "source": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.0\\res\\layout\\design_navigation_item_separator.xml"
+        "merged": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\layout\\abc_popup_menu_item_layout.xml"
     },
     {
-        "merged": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bb_bottom_bar_item_container.xml",
-        "source": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.roughike\\bottom-bar\\1.3.9\\res\\layout\\bb_bottom_bar_item_container.xml"
+        "merged": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\layout\\abc_popup_menu_header_item_layout.xml"
     },
     {
-        "merged": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
-        "source": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\select_dialog_multichoice_material.xml"
+        "merged": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_album.xml",
+        "source": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\src\\main\\res\\layout\\activity_album.xml"
     },
     {
-        "merged": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
-        "source": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.0\\res\\layout\\design_navigation_item_subheader.xml"
+        "merged": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\md_dialog_progress.xml",
+        "source": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.8.6.0\\res\\layout\\md_dialog_progress.xml"
     },
     {
-        "merged": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
-        "source": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_action_mode_bar.xml"
+        "merged": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\layout\\abc_dialog_title_material.xml"
     },
     {
-        "merged": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
-        "source": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_list_menu_item_layout.xml"
+        "merged": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\toolbar_trans.xml",
+        "source": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\src\\main\\res\\layout\\toolbar_trans.xml"
     },
     {
-        "merged": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
-        "source": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_screen_content_include.xml"
+        "merged": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\album_image.xml",
+        "source": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\src\\main\\res\\layout\\album_image.xml"
     },
     {
-        "merged": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_gallery.xml",
-        "source": "C:\\Android Projects\\Aperture\\Aperture\\app\\src\\main\\res\\layout\\activity_gallery.xml"
+        "merged": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\md_stub_inputpref.xml",
+        "source": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\commons\\0.8.6.0\\res\\layout\\md_stub_inputpref.xml"
     },
     {
-        "merged": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_photopreview.xml",
-        "source": "C:\\Android Projects\\Aperture\\Aperture\\app\\src\\main\\res\\layout\\view_photopreview.xml"
+        "merged": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_custom_big.xml",
+        "source": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\layout\\notification_template_custom_big.xml"
     },
     {
-        "merged": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
-        "source": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_action_bar_up_container.xml"
+        "merged": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\md_dialog_basic.xml",
+        "source": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.8.6.0\\res\\layout\\md_dialog_basic.xml"
     },
     {
-        "merged": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
-        "source": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\notification_media_cancel_action.xml"
+        "merged": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\inflate_slidingrow.xml",
+        "source": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\src\\main\\res\\layout\\inflate_slidingrow.xml"
     },
     {
-        "merged": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\md_stub_colorchooser_custom.xml",
-        "source": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\commons\\0.8.6.0\\res\\layout\\md_stub_colorchooser_custom.xml"
+        "merged": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\layout\\abc_screen_content_include.xml"
     },
     {
-        "merged": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
-        "source": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_activity_chooser_view.xml"
+        "merged": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\layout\\abc_select_dialog_material.xml"
     },
     {
-        "merged": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bb_bottom_bar_item_shifting.xml",
-        "source": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.roughike\\bottom-bar\\1.3.9\\res\\layout\\bb_bottom_bar_item_shifting.xml"
+        "merged": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bb_bottom_bar_item_container_tablet.xml",
+        "source": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.roughike\\bottom-bar\\1.3.9\\res\\layout\\bb_bottom_bar_item_container_tablet.xml"
     },
     {
-        "merged": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\md_dialog_custom.xml",
-        "source": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.8.6.0\\res\\layout\\md_dialog_custom.xml"
+        "merged": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.0\\res\\layout\\design_navigation_item_separator.xml"
     },
     {
-        "merged": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
-        "source": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_select_dialog_material.xml"
+        "merged": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\layout\\select_dialog_singlechoice_material.xml"
     },
     {
-        "merged": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
-        "source": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\notification_media_action.xml"
+        "merged": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.0\\res\\layout\\design_navigation_menu_item.xml"
     },
     {
-        "merged": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
-        "source": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+        "merged": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bb_bottom_bar_item_container.xml",
+        "source": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.roughike\\bottom-bar\\1.3.9\\res\\layout\\bb_bottom_bar_item_container.xml"
     },
     {
-        "merged": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
-        "source": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.0\\res\\layout\\design_navigation_item_header.xml"
+        "merged": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.0\\res\\layout\\design_navigation_item_subheader.xml"
     },
     {
-        "merged": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\album_image.xml",
-        "source": "C:\\Android Projects\\Aperture\\Aperture\\app\\src\\main\\res\\layout\\album_image.xml"
+        "merged": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bb_bottom_bar_item_fixed.xml",
+        "source": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.roughike\\bottom-bar\\1.3.9\\res\\layout\\bb_bottom_bar_item_fixed.xml"
     },
     {
-        "merged": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\md_listitem_multichoice.xml",
-        "source": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.8.6.0\\res\\layout\\md_listitem_multichoice.xml"
+        "merged": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\layout\\select_dialog_item_material.xml"
     },
     {
-        "merged": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\md_simplelist_item.xml",
-        "source": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\commons\\0.8.6.0\\res\\layout\\md_simplelist_item.xml"
+        "merged": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\layout\\notification_template_icon_group.xml"
     },
     {
-        "merged": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\photo_picker_album_layout.xml",
-        "source": "C:\\Android Projects\\Aperture\\Aperture\\app\\src\\main\\res\\layout\\photo_picker_album_layout.xml"
+        "merged": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_photopreview.xml",
+        "source": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\src\\main\\res\\layout\\view_photopreview.xml"
     },
     {
-        "merged": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_album.xml",
-        "source": "C:\\Android Projects\\Aperture\\Aperture\\app\\src\\main\\res\\layout\\activity_album.xml"
+        "merged": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.0\\res\\layout\\design_navigation_item.xml"
     },
     {
-        "merged": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
-        "source": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.0\\res\\layout\\design_layout_snackbar_include.xml"
+        "merged": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.0\\res\\layout\\design_layout_snackbar_include.xml"
     },
     {
-        "merged": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\md_dialog_progress_indeterminate_horizontal.xml",
-        "source": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.8.6.0\\res\\layout\\md_dialog_progress_indeterminate_horizontal.xml"
+        "merged": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\layout\\notification_action_tombstone.xml"
     },
     {
-        "merged": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
-        "source": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.0\\res\\layout\\design_menu_item_action_area.xml"
+        "merged": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_gallery.xml",
+        "source": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\src\\main\\res\\layout\\activity_gallery.xml"
     },
     {
-        "merged": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
-        "source": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.0\\res\\layout\\design_navigation_item.xml"
+        "merged": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\layout\\notification_template_media.xml"
     },
     {
-        "merged": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
-        "source": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_action_bar_title_item.xml"
+        "merged": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.0\\res\\layout\\design_layout_tab_text.xml"
     },
     {
-        "merged": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\md_dialog_progress_indeterminate.xml",
-        "source": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.8.6.0\\res\\layout\\md_dialog_progress_indeterminate.xml"
+        "merged": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bb_bottom_bar_item_fixed_tablet.xml",
+        "source": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.roughike\\bottom-bar\\1.3.9\\res\\layout\\bb_bottom_bar_item_fixed_tablet.xml"
     },
     {
-        "merged": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
-        "source": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+        "merged": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\layout\\abc_screen_simple.xml"
     },
     {
-        "merged": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\toolbar.xml",
-        "source": "C:\\Android Projects\\Aperture\\Aperture\\app\\src\\main\\res\\layout\\toolbar.xml"
+        "merged": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bb_bottom_bar_item_shifting.xml",
+        "source": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.roughike\\bottom-bar\\1.3.9\\res\\layout\\bb_bottom_bar_item_shifting.xml"
     },
     {
-        "merged": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
-        "source": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_dialog_title_material.xml"
+        "merged": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\picture_info.xml",
+        "source": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\src\\main\\res\\layout\\picture_info.xml"
     },
     {
-        "merged": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bb_bottom_bar_item_fixed.xml",
-        "source": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.roughike\\bottom-bar\\1.3.9\\res\\layout\\bb_bottom_bar_item_fixed.xml"
+        "merged": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\md_dialog_input.xml",
+        "source": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.8.6.0\\res\\layout\\md_dialog_input.xml"
     },
     {
-        "merged": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\toolbar_trans.xml",
-        "source": "C:\\Android Projects\\Aperture\\Aperture\\app\\src\\main\\res\\layout\\toolbar_trans.xml"
+        "merged": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\md_stub_colorchooser_custom.xml",
+        "source": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\commons\\0.8.6.0\\res\\layout\\md_stub_colorchooser_custom.xml"
     },
     {
-        "merged": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
-        "source": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_list_menu_item_icon.xml"
+        "merged": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\md_listitem.xml",
+        "source": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.8.6.0\\res\\layout\\md_listitem.xml"
     },
     {
-        "merged": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\md_listitem_singlechoice.xml",
-        "source": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.8.6.0\\res\\layout\\md_listitem_singlechoice.xml"
+        "merged": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\layout\\abc_action_mode_bar.xml"
     },
     {
-        "merged": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\md_listitem.xml",
-        "source": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.8.6.0\\res\\layout\\md_listitem.xml"
+        "merged": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\layout\\select_dialog_multichoice_material.xml"
     },
     {
-        "merged": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\md_stub_titleframe_lesspadding.xml",
-        "source": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.8.6.0\\res\\layout\\md_stub_titleframe_lesspadding.xml"
+        "merged": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\md_listitem_multichoice.xml",
+        "source": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.8.6.0\\res\\layout\\md_listitem_multichoice.xml"
     },
     {
-        "merged": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
-        "source": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+        "merged": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
     },
     {
-        "merged": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\md_preference_custom.xml",
-        "source": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\commons\\0.8.6.0\\res\\layout\\md_preference_custom.xml"
+        "merged": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
     },
     {
-        "merged": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
-        "source": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.0\\res\\layout\\design_layout_tab_icon.xml"
+        "merged": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\md_dialog_progress_indeterminate_horizontal.xml",
+        "source": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.8.6.0\\res\\layout\\md_dialog_progress_indeterminate_horizontal.xml"
     },
     {
-        "merged": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
-        "source": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\select_dialog_singlechoice_material.xml"
+        "merged": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home.xml",
+        "source": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\src\\main\\res\\layout\\activity_home.xml"
     },
     {
-        "merged": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\md_stub_inputpref.xml",
-        "source": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\commons\\0.8.6.0\\res\\layout\\md_stub_inputpref.xml"
+        "merged": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_custom.xml",
+        "source": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\layout\\notification_template_big_media_custom.xml"
     },
     {
-        "merged": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\md_dialog_input.xml",
-        "source": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.8.6.0\\res\\layout\\md_dialog_input.xml"
+        "merged": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\layout\\abc_action_menu_item_layout.xml"
     },
     {
-        "merged": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bb_bottom_bar_item_fixed_tablet.xml",
-        "source": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.roughike\\bottom-bar\\1.3.9\\res\\layout\\bb_bottom_bar_item_fixed_tablet.xml"
+        "merged": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.0\\res\\layout\\design_navigation_menu.xml"
     },
     {
-        "merged": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
-        "source": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\notification_template_media.xml"
+        "merged": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\layout\\notification_template_big_media_narrow.xml"
     },
     {
-        "merged": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
-        "source": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+        "merged": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\md_dialog_list.xml",
+        "source": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.8.6.0\\res\\layout\\md_dialog_list.xml"
     },
     {
-        "merged": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\md_stub_colorchooser_grid.xml",
-        "source": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\commons\\0.8.6.0\\res\\layout\\md_stub_colorchooser_grid.xml"
+        "merged": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
     },
     {
-        "merged": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
-        "source": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_search_view.xml"
+        "merged": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\layout\\notification_action.xml"
     },
     {
-        "merged": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\md_dialog_list.xml",
-        "source": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.8.6.0\\res\\layout\\md_dialog_list.xml"
+        "merged": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\md_dialog_custom.xml",
+        "source": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.8.6.0\\res\\layout\\md_dialog_custom.xml"
     },
     {
-        "merged": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bb_bottom_bar_item_container_tablet.xml",
-        "source": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.roughike\\bottom-bar\\1.3.9\\res\\layout\\bb_bottom_bar_item_container_tablet.xml"
+        "merged": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\layout\\notification_template_big_media.xml"
     },
     {
-        "merged": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\inflate_slidingrow.xml",
-        "source": "C:\\Android Projects\\Aperture\\Aperture\\app\\src\\main\\res\\layout\\inflate_slidingrow.xml"
+        "merged": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.0\\res\\layout\\design_layout_tab_icon.xml"
     },
     {
-        "merged": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
-        "source": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\select_dialog_item_material.xml"
+        "merged": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
     },
     {
-        "merged": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
-        "source": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\notification_template_big_media.xml"
+        "merged": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\layout\\notification_media_cancel_action.xml"
     },
     {
-        "merged": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
-        "source": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_expanded_menu_layout.xml"
+        "merged": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
     },
     {
-        "merged": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
-        "source": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\notification_template_part_time.xml"
+        "merged": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.0\\res\\layout\\design_navigation_item_header.xml"
     },
     {
-        "merged": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
-        "source": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.0\\res\\layout\\design_bottom_sheet_dialog.xml"
+        "merged": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\layout\\notification_template_big_media_narrow_custom.xml"
     },
     {
-        "merged": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
-        "source": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_action_menu_layout.xml"
+        "merged": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.0\\res\\layout\\design_menu_item_action_area.xml"
     },
     {
-        "merged": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
-        "source": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_action_mode_close_item_material.xml"
+        "merged": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.0\\res\\layout\\design_layout_snackbar.xml"
     },
     {
-        "merged": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
-        "source": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\notification_template_lines.xml"
+        "merged": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\layout\\abc_action_menu_layout.xml"
     },
     {
-        "merged": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\md_dialog_progress.xml",
-        "source": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.8.6.0\\res\\layout\\md_dialog_progress.xml"
+        "merged": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\md_dialog_progress_indeterminate.xml",
+        "source": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.8.6.0\\res\\layout\\md_dialog_progress_indeterminate.xml"
     },
     {
-        "merged": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
-        "source": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_list_menu_item_radio.xml"
+        "merged": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\layout\\abc_action_bar_up_container.xml"
     },
     {
-        "merged": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
-        "source": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_alert_dialog_material.xml"
+        "merged": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\md_stub_titleframe_lesspadding.xml",
+        "source": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.8.6.0\\res\\layout\\md_stub_titleframe_lesspadding.xml"
     },
     {
-        "merged": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
-        "source": "C:\\Android Projects\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+        "merged": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.0.0\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_photopreview.xml",
+        "source": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\src\\main\\res\\layout\\activity_photopreview.xml"
+    },
+    {
+        "merged": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\md_preference_custom.xml",
+        "source": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\commons\\0.8.6.0\\res\\layout\\md_preference_custom.xml"
+    },
+    {
+        "merged": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\md_stub_colorchooser_grid.xml",
+        "source": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\commons\\0.8.6.0\\res\\layout\\md_stub_colorchooser_grid.xml"
+    },
+    {
+        "merged": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\image_details.xml",
+        "source": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\src\\main\\res\\layout\\image_details.xml"
+    },
+    {
+        "merged": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.0\\res\\layout\\notification_template_lines_media.xml"
     }
 ]

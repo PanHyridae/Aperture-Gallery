@@ -4,8 +4,8 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 24
-    buildToolsVersion "24.0.2"
+    compileSdkVersion 25
+    buildToolsVersion "25.0.0"
     buildTypes {
         release {
             manifestPlaceholders = [appName: "Aperture"]
@@ -18,7 +18,7 @@ android {
     defaultConfig {
         applicationId "com.marlonjones.projectevo"
         minSdkVersion 14
-        targetSdkVersion 24
+        targetSdkVersion 25
         versionCode 2
         versionName "0.0.3 Google Play Pre-Alpha"
     }
@@ -33,9 +33,9 @@ android {
 
 dependencies {
     //Google Dependencies
-    compile 'com.android.support:support-v4:24.2.0'
-    compile 'com.android.support:appcompat-v7:24.2.0'
-    compile 'com.android.support:design:24.2.0'
+    compile 'com.android.support:support-v4:25.0.0'
+    compile 'com.android.support:appcompat-v7:25.0.0'
+    compile 'com.android.support:design:25.0.0'
     //Open Source Dependencies
     compile 'com.afollestad:assent:0.2.5'
     compile 'com.afollestad.material-dialogs:core:0.8.6.0'
