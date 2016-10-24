@@ -41,6 +41,6 @@ dependencies {
     compile 'com.afollestad.material-dialogs:core:0.8.6.0'
     compile 'com.afollestad.material-dialogs:commons:0.8.6.0'
     compile 'com.roughike:bottom-bar:1.3.9'
-    //Internal Library - WARNING: BUGGED
+    //Internal Library
     compile files('libs/universal-image-loader-1.9.2-SNAPSHOT-with-sources.jar')
 }
