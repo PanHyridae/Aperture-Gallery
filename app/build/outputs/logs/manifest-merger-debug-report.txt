@@ -111,6 +111,7 @@ MERGED from [com.android.support:recyclerview-v7:25.0.0] C:\Android Projects\Per
 MERGED from [com.roughike:bottom-bar:1.3.9] C:\Android Projects\Personal\Aperture\Aperture\app\build\intermediates\exploded-aar\com.roughike\bottom-bar\1.3.9\AndroidManifest.xml:8:5-10:41
 MERGED from [com.android.support:design:25.0.0] C:\Android Projects\Personal\Aperture\Aperture\app\build\intermediates\exploded-aar\com.android.support\design\25.0.0\AndroidManifest.xml:21:5-23:62
 MERGED from [com.android.support:transition:25.0.0] C:\Android Projects\Personal\Aperture\Aperture\app\build\intermediates\exploded-aar\com.android.support\transition\25.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.armcha:SpaceNavigationView:1.4.1] C:\Android Projects\Personal\Aperture\Aperture\app\build\intermediates\exploded-aar\com.github.armcha\SpaceNavigationView\1.4.1\AndroidManifest.xml:8:5-10:41
 	tools:overrideLibrary
 		ADDED from [com.android.support:support-v13:24.2.0] C:\Android Projects\Personal\Aperture\Aperture\app\build\intermediates\exploded-aar\com.android.support\support-v13\24.2.0\AndroidManifest.xml:23:9-52
 	android:targetSdkVersion

@@ -69,6 +69,7 @@
     <color name="background_floating_material_light">@android:color/white</color>
     <color name="background_material_dark">@color/material_grey_850</color>
     <color name="background_material_light">@color/material_grey_50</color>
+    <color name="badge_background_color">#f44336</color>
     <color name="bb_darkBackgroundColor">#212121</color>
     <color name="bb_inActiveBottomBarItemColor">#747474</color>
     <color name="bb_tabletRightBorderDark">#505050</color>
@@ -80,6 +81,10 @@
     <color name="bright_foreground_material_light">@android:color/black</color>
     <color name="button_material_dark">#ff5a595b</color>
     <color name="button_material_light">#ffd6d7d7</color>
+    <color name="centre_button_color">#4285F4</color>
+    <color name="colorBackgroundHighlightWhite">#8dffffff</color>
+    <color name="default_active_item_color">#262626</color>
+    <color name="default_inactive_item_color">#9e9e9e</color>
     <color name="design_fab_shadow_end_color">@android:color/transparent</color>
     <color name="design_fab_shadow_mid_color">#14000000</color>
     <color name="design_fab_shadow_start_color">#44000000</color>
@@ -136,12 +141,18 @@
     <color name="secondary_text_default_material_light">#8a000000</color>
     <color name="secondary_text_disabled_material_dark">#36ffffff</color>
     <color name="secondary_text_disabled_material_light">#24000000</color>
+    <color name="selected_item_color">#3fffffff</color>
     <color name="sliddercolor">#1976D2</color>
+    <color name="space_background_color">#757575</color>
+    <color name="space_default_color">#2A3137</color>
+    <color name="space_transparent">#00000000</color>
+    <color name="space_white">#ffffff</color>
     <color name="switch_thumb_disabled_material_dark">#ff616161</color>
     <color name="switch_thumb_disabled_material_light">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_dark">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_light">#fff1f1f1</color>
     <color name="white">#FFFFFF</color>
+    <color name="white_with_alpha">#bfffffff</color>
     <declare-styleable name="ActionBar"><attr name="navigationMode">
             
             <enum name="normal" value="0"/>
@@ -380,6 +391,7 @@
     <declare-styleable name="ScrollingViewBehavior_Layout"><attr format="dimension" name="behavior_overlapTop"/></declare-styleable>
     <declare-styleable name="SearchView"><attr format="reference" name="layout"/><attr format="boolean" name="iconifiedByDefault"/><attr name="android:maxWidth"/><attr format="string" name="queryHint"/><attr format="string" name="defaultQueryHint"/><attr name="android:imeOptions"/><attr name="android:inputType"/><attr format="reference" name="closeIcon"/><attr format="reference" name="goIcon"/><attr format="reference" name="searchIcon"/><attr format="reference" name="searchHintIcon"/><attr format="reference" name="voiceIcon"/><attr format="reference" name="commitIcon"/><attr format="reference" name="suggestionRowLayout"/><attr format="reference" name="queryBackground"/><attr format="reference" name="submitBackground"/><attr name="android:focusable"/></declare-styleable>
     <declare-styleable name="SnackbarLayout"><attr name="android:maxWidth"/><attr name="elevation"/><attr format="dimension" name="maxActionInlineWidth"/></declare-styleable>
+    <declare-styleable name="SpaceNavigationView"><attr format="dimension" name="space_item_icon_size"/><attr format="dimension" name="space_item_icon_only_size"/><attr format="dimension" name="space_item_text_size"/><attr format="color" name="space_background_color"/><attr format="color" name="centre_button_color"/><attr format="color" name="active_item_color"/><attr format="color" name="inactive_item_color"/><attr format="reference" name="centre_button_icon"/><attr format="color" name="centre_button_icon_color"/></declare-styleable>
     <declare-styleable name="Spinner"><attr name="android:prompt"/><attr name="popupTheme"/><attr name="android:popupBackground"/><attr name="android:dropDownWidth"/><attr name="android:entries"/></declare-styleable>
     <declare-styleable name="SwitchCompat"><attr name="android:thumb"/><attr format="color" name="thumbTint"/><attr name="thumbTintMode">
             
@@ -523,7 +535,9 @@
     <dimen name="abc_text_size_title_material_toolbar">20dp</dimen>
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="badge_left_margin">5dp</dimen>
     <dimen name="bb_height">56dp</dimen>
+    <dimen name="centre_content_width">110dp</dimen>
     <dimen name="circular_progress_border">4dp</dimen>
     <dimen name="design_appbar_elevation">4dp</dimen>
     <dimen name="design_bottom_navigation_active_item_max_width">168dp</dimen>
@@ -573,6 +587,7 @@
     <dimen name="item_touch_helper_max_drag_scroll_per_frame">20dp</dimen>
     <dimen name="item_touch_helper_swipe_escape_max_velocity">800dp</dimen>
     <dimen name="item_touch_helper_swipe_escape_velocity">120dp</dimen>
+    <dimen name="main_content_height">50dp</dimen>
     <dimen name="md_action_corner_radius">2dp</dimen>
     <dimen name="md_bg_corner_radius">2dp</dimen>
     <dimen name="md_button_frame_vertical_padding">8dp</dimen>
@@ -626,7 +641,14 @@
     <dimen name="notification_subtext_size">13sp</dimen>
     <dimen name="notification_top_pad">10dp</dimen>
     <dimen name="notification_top_pad_large_text">5dp</dimen>
+    <dimen name="space_centre_button_default_size">56dp</dimen>
+    <dimen name="space_centre_button_margin">6dp</dimen>
+    <dimen name="space_item_icon_default_size">18dp</dimen>
+    <dimen name="space_item_icon_only_size">25dp</dimen>
+    <dimen name="space_item_text_default_size">14sp</dimen>
+    <dimen name="space_navigation_height">72dp</dimen>
     <dimen name="tool_bar_top_padding">0dp</dimen>
+    <dimen name="view_bottom_margin">50dp</dimen>
     <drawable name="notification_template_icon_bg">#3333B5E5</drawable>
     <drawable name="notification_template_icon_low_bg">#0cffffff</drawable>
     <item name="action_bar_activity_content" type="id"/>
