@@ -40,8 +40,7 @@ dependencies {
     compile 'com.afollestad:assent:0.2.5'
     compile 'com.afollestad.material-dialogs:core:0.8.6.0'
     compile 'com.afollestad.material-dialogs:commons:0.8.6.0'
-    compile 'com.roughike:bottom-bar:1.3.9' //REMOVE
-    compile 'com.github.armcha:SpaceNavigationView:1.4.1'
+    compile 'com.roughike:bottom-bar:1.3.9'
     //Internal Library - WARNING: BUGGED
     compile files('libs/universal-image-loader-1.9.2-SNAPSHOT-with-sources.jar')
 }
