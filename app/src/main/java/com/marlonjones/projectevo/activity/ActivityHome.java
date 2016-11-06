@@ -109,7 +109,7 @@ public class ActivityHome extends AppCompatActivity{
 					Toast.LENGTH_SHORT).show();
 		}
 		if (id==com.marlonjones.projectevo.R.id.action_about){
-           MaterialDialog about = new MaterialDialog.Builder(this)
+            new MaterialDialog.Builder(this)
 				   .title(R.string.about)
 				   .content(R.string.about_body)
 				   .positiveText(R.string.OK)
@@ -118,7 +118,7 @@ public class ActivityHome extends AppCompatActivity{
 
         }
         if (id== R.id.action_information){
-            MaterialDialog information = new MaterialDialog.Builder(this)
+             new MaterialDialog.Builder(this)
 					.title(R.string.alphatitle)
 					.content(R.string.alpha_text)
 					.positiveText(R.string.OK)

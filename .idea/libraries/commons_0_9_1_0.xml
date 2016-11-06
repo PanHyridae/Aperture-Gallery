@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="commons-0.9.1.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/commons/0.9.1.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/commons/0.9.1.0/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.afollestad.material-dialogs/commons/0.9.1.0/44474897e873d188d2939a3312cd52eb4c8554c8/commons-0.9.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
