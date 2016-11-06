@@ -124,6 +124,10 @@ public class ActivityHome extends AppCompatActivity{
 					.positiveText(R.string.OK)
 					.show();
         }
+		if (id ==R.id.cardboard_toggle){
+			Toast.makeText(getApplicationContext(), "Coming Soon - Google Cardboard viewing mode",
+					Toast.LENGTH_SHORT).show();
+		}
 		return super.onOptionsItemSelected(item);
 	}
 }
