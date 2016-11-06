@@ -1,9 +1,9 @@
 ##Aperture Gallery
-![Header Image] (https://github.com/MJonesDev/Aperture/blob/master/AFFIX_20160803_004248.png)
+![Logo/Branding] (https://github.com/MJonesDev/ApertureGallery/blob/master/ApertureRebrandShot.png)
 ![License] (https://img.shields.io/badge/license-GPLv3-blue.svg)
 
 Aperture is now under new development. Follow this for more updates, and to contribute to the project. 
-
+![Header Image] (https://github.com/MJonesDev/Aperture/blob/master/AFFIX_20160803_004248.png)
 Aperture uses code from OwnGalleryView. A gallery demo project (https://github.com/dibakarece/OwnGalleryView) (Apache 2.0)
 
 For more information, refer to FAQ.txt
@@ -25,5 +25,5 @@ For more information, refer to FAQ.txt
     You should have received a copy of the GNU General Public License
     along with this program.  If not, see <http://www.gnu.org/licenses/>.
 ````
-![Logo/Branding] (https://github.com/MJonesDev/ApertureGallery/blob/master/ApertureRebrandShot.png)
+
 
