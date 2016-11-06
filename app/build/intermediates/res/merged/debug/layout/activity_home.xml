@@ -2,16 +2,33 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@android:color/white" >
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@android:color/white">
     <include
         android:id="@+id/tool_bar"
         layout="@layout/toolbar" />
-<!--Fragment Container-->
+    <!--Fragment Container-->
     <RelativeLayout
         android:layout_below="@+id/tool_bar"
         android:id="@+id/fragment_container"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:background="@android:color/white" >
+
     </RelativeLayout>
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/fab"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|end"
+        android:src="@drawable/ic_photofab"
+        android:clickable="true"
+        android:background="@color/primary"
+        android:layout_marginRight="12dp"
+        android:layout_marginEnd="12dp"
+        android:layout_marginBottom="11dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
 </RelativeLayout>
