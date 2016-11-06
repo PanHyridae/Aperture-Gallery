@@ -2,6 +2,7 @@ package com.marlonjones.projectevo.activity;
 
 import java.util.ArrayList;
 
+import com.afollestad.materialdialogs.MaterialDialog;
 import com.marlonjones.projectevo.R;
 import com.marlonjones.projectevo.adapter.SlideMenuAdapter;
 import com.marlonjones.projectevo.adapter.SlideMenuAdapter.SlideMenuAdapterInterface;
@@ -104,16 +105,24 @@ public class ActivityHome extends AppCompatActivity{
 	public boolean onOptionsItemSelected(MenuItem item) {
 		int id = item.getItemId();
 		if (id == com.marlonjones.projectevo.R.id.action_settings) {
-			Toast.makeText(getApplicationContext(), "Not Yet Developed",
+			Toast.makeText(getApplicationContext(), "Settings Coming Soon - Personalization, Security, and Backup",
 					Toast.LENGTH_SHORT).show();
 		}
 		if (id==com.marlonjones.projectevo.R.id.action_about){
-            Toast.makeText(getApplicationContext(), "Not Yet Developed",
-                    Toast.LENGTH_SHORT).show();
+           MaterialDialog about = new MaterialDialog.Builder(this)
+				   .title(R.string.about)
+				   .content(R.string.about_body)
+				   .positiveText(R.string.OK)
+				   //.icon(R.mipmap.ic_launcher) - TODO: Replace with Drawable Later
+				   .show();
+
         }
         if (id== R.id.action_information){
-            Toast.makeText(getApplicationContext(), "Not Yet Developed",
-                    Toast.LENGTH_SHORT).show();
+            MaterialDialog information = new MaterialDialog.Builder(this)
+					.title(R.string.alphatitle)
+					.content(R.string.alpha_text)
+					.positiveText(R.string.OK)
+					.show();
         }
 		return super.onOptionsItemSelected(item);
 	}
