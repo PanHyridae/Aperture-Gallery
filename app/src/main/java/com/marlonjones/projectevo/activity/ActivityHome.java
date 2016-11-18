@@ -113,7 +113,6 @@ public class ActivityHome extends AppCompatActivity{
 				   .title(R.string.about)
 				   .content(R.string.about_body)
 				   .positiveText(R.string.OK)
-				   //.icon(R.mipmap.ic_launcher) - TODO: Replace with Drawable Later
 				   .show();
 
         }
