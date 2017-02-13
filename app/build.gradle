@@ -5,7 +5,7 @@ apply plugin: 'com.android.application'
 
 android {
     compileSdkVersion 25
-    buildToolsVersion "25.0.0"
+    buildToolsVersion "25.0.2"
     buildTypes {
         release {
             manifestPlaceholders = [appName: "Aperture"]
@@ -20,7 +20,7 @@ android {
         minSdkVersion 14
         targetSdkVersion 25
         versionCode 3
-        versionName "0.0.6 Unreleased"
+        versionName "0.0.7 Unreleased"
     }
 
     buildTypes {
@@ -33,14 +33,14 @@ android {
 
 dependencies {
     //Google Dependencies
-    compile 'com.android.support:support-v4:25.0.0'
-    compile 'com.android.support:appcompat-v7:25.0.0'
-    compile 'com.android.support:design:25.0.0'
+    compile 'com.android.support:support-v4:25.1.1'
+    compile 'com.android.support:appcompat-v7:25.1.1'
+    compile 'com.android.support:design:25.1.1'
     //Open Source Dependencies
     compile 'com.afollestad:assent:0.2.5'
     compile 'com.afollestad.material-dialogs:core:0.9.1.0'
     compile 'com.afollestad.material-dialogs:commons:0.9.1.0'
     compile 'com.roughike:bottom-bar:1.3.9'
-    //Internal Open Source Library
+    //Internal
     compile files('libs/universal-image-loader-1.9.2-SNAPSHOT-with-sources.jar')
 }

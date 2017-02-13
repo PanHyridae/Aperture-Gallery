@@ -1,22 +1,22 @@
 [
     {
-        "merged": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\selector_video.xml",
-        "source": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\src\\main\\res\\drawable-nodpi\\selector_video.xml"
+        "merged": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\transparent.xml",
+        "source": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\src\\main\\res\\drawable-nodpi\\transparent.xml"
     },
     {
-        "merged": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\selector_allpic.xml",
-        "source": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\src\\main\\res\\drawable-nodpi\\selector_allpic.xml"
+        "merged": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\selector_allpic.xml",
+        "source": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\src\\main\\res\\drawable-nodpi\\selector_allpic.xml"
     },
     {
-        "merged": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\list_selector.xml",
-        "source": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\src\\main\\res\\drawable-nodpi\\list_selector.xml"
+        "merged": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\selector_video.xml",
+        "source": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\src\\main\\res\\drawable-nodpi\\selector_video.xml"
     },
     {
-        "merged": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\selector_camera.xml",
-        "source": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\src\\main\\res\\drawable-nodpi\\selector_camera.xml"
+        "merged": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\list_selector.xml",
+        "source": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\src\\main\\res\\drawable-nodpi\\list_selector.xml"
     },
     {
-        "merged": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\transparent.xml",
-        "source": "C:\\Android Projects\\Personal\\Aperture\\Aperture\\app\\src\\main\\res\\drawable-nodpi\\transparent.xml"
+        "merged": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\selector_camera.xml",
+        "source": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\src\\main\\res\\drawable-nodpi\\selector_camera.xml"
     }
 ]
