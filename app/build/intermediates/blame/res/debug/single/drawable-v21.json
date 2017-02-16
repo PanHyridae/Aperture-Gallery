@@ -12,12 +12,12 @@
         "source": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.1\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
     },
     {
-        "merged": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\md_btn_shape.xml",
-        "source": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.9.3.0\\res\\drawable-v21\\md_btn_shape.xml"
-    },
-    {
         "merged": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_hide_password.xml",
         "source": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.1\\res\\drawable-v21\\avd_hide_password.xml"
+    },
+    {
+        "merged": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\md_btn_shape.xml",
+        "source": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.9.3.0\\res\\drawable-v21\\md_btn_shape.xml"
     },
     {
         "merged": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\md_btn_selector_ripple.xml",
