@@ -33,15 +33,15 @@
     },
     {
         "merged": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\md_dialog_progress.xml",
-        "source": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.9.1.0\\res\\layout\\md_dialog_progress.xml"
+        "source": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.9.3.0\\res\\layout\\md_dialog_progress.xml"
     },
     {
         "merged": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\md_dialog_list.xml",
-        "source": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.9.1.0\\res\\layout\\md_dialog_list.xml"
+        "source": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.9.3.0\\res\\layout\\md_dialog_list.xml"
     },
     {
         "merged": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\md_dialog_colorchooser.xml",
-        "source": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\commons\\0.9.1.0\\res\\layout\\md_dialog_colorchooser.xml"
+        "source": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\commons\\0.9.3.0\\res\\layout\\md_dialog_colorchooser.xml"
     },
     {
         "merged": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
@@ -49,7 +49,7 @@
     },
     {
         "merged": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\md_preference_custom.xml",
-        "source": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\commons\\0.9.1.0\\res\\layout\\md_preference_custom.xml"
+        "source": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\commons\\0.9.3.0\\res\\layout\\md_preference_custom.xml"
     },
     {
         "merged": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_album.xml",
@@ -89,7 +89,7 @@
     },
     {
         "merged": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\md_dialog_input.xml",
-        "source": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.9.1.0\\res\\layout\\md_dialog_input.xml"
+        "source": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.9.3.0\\res\\layout\\md_dialog_input.xml"
     },
     {
         "merged": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
@@ -101,7 +101,7 @@
     },
     {
         "merged": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\md_stub_titleframe_lesspadding.xml",
-        "source": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.9.1.0\\res\\layout\\md_stub_titleframe_lesspadding.xml"
+        "source": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.9.3.0\\res\\layout\\md_stub_titleframe_lesspadding.xml"
     },
     {
         "merged": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\toolbar_trans.xml",
@@ -137,7 +137,7 @@
     },
     {
         "merged": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\md_dialog_input_check.xml",
-        "source": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.9.1.0\\res\\layout\\md_dialog_input_check.xml"
+        "source": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.9.3.0\\res\\layout\\md_dialog_input_check.xml"
     },
     {
         "merged": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\album_image.xml",
@@ -153,7 +153,7 @@
     },
     {
         "merged": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\md_stub_colorchooser_grid.xml",
-        "source": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\commons\\0.9.1.0\\res\\layout\\md_stub_colorchooser_grid.xml"
+        "source": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\commons\\0.9.3.0\\res\\layout\\md_stub_colorchooser_grid.xml"
     },
     {
         "merged": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
@@ -189,19 +189,23 @@
     },
     {
         "merged": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\md_stub_actionbuttons.xml",
-        "source": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.9.1.0\\res\\layout\\md_stub_actionbuttons.xml"
+        "source": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.9.3.0\\res\\layout\\md_stub_actionbuttons.xml"
     },
     {
         "merged": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bb_bottom_bar_item_container_tablet.xml",
         "source": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.roughike\\bottom-bar\\1.3.9\\res\\layout\\bb_bottom_bar_item_container_tablet.xml"
     },
     {
+        "merged": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\text.xml",
+        "source": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.marlonjones.library\\GyroCheck\\1.0.1\\res\\layout\\text.xml"
+    },
+    {
         "merged": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\md_stub_inputpref.xml",
-        "source": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\commons\\0.9.1.0\\res\\layout\\md_stub_inputpref.xml"
+        "source": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\commons\\0.9.3.0\\res\\layout\\md_stub_inputpref.xml"
     },
     {
         "merged": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\md_dialog_basic.xml",
-        "source": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.9.1.0\\res\\layout\\md_dialog_basic.xml"
+        "source": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.9.3.0\\res\\layout\\md_dialog_basic.xml"
     },
     {
         "merged": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\inflate_slidingrow.xml",
@@ -237,7 +241,7 @@
     },
     {
         "merged": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\md_listitem_singlechoice.xml",
-        "source": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.9.1.0\\res\\layout\\md_listitem_singlechoice.xml"
+        "source": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.9.3.0\\res\\layout\\md_listitem_singlechoice.xml"
     },
     {
         "merged": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
@@ -253,15 +257,15 @@
     },
     {
         "merged": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\md_dialog_progress_indeterminate_horizontal.xml",
-        "source": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.9.1.0\\res\\layout\\md_dialog_progress_indeterminate_horizontal.xml"
+        "source": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.9.3.0\\res\\layout\\md_dialog_progress_indeterminate_horizontal.xml"
     },
     {
         "merged": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\md_simplelist_item.xml",
-        "source": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\commons\\0.9.1.0\\res\\layout\\md_simplelist_item.xml"
+        "source": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\commons\\0.9.3.0\\res\\layout\\md_simplelist_item.xml"
     },
     {
         "merged": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\md_dialog_list_check.xml",
-        "source": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.9.1.0\\res\\layout\\md_dialog_list_check.xml"
+        "source": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.9.3.0\\res\\layout\\md_dialog_list_check.xml"
     },
     {
         "merged": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
@@ -313,15 +317,15 @@
     },
     {
         "merged": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\md_dialog_basic_check.xml",
-        "source": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.9.1.0\\res\\layout\\md_dialog_basic_check.xml"
+        "source": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.9.3.0\\res\\layout\\md_dialog_basic_check.xml"
     },
     {
         "merged": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\md_stub_titleframe.xml",
-        "source": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.9.1.0\\res\\layout\\md_stub_titleframe.xml"
+        "source": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.9.3.0\\res\\layout\\md_stub_titleframe.xml"
     },
     {
         "merged": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\md_stub_colorchooser_custom.xml",
-        "source": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\commons\\0.9.1.0\\res\\layout\\md_stub_colorchooser_custom.xml"
+        "source": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\commons\\0.9.3.0\\res\\layout\\md_stub_colorchooser_custom.xml"
     },
     {
         "merged": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
@@ -349,7 +353,7 @@
     },
     {
         "merged": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\md_listitem_multichoice.xml",
-        "source": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.9.1.0\\res\\layout\\md_listitem_multichoice.xml"
+        "source": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.9.3.0\\res\\layout\\md_listitem_multichoice.xml"
     },
     {
         "merged": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
@@ -373,7 +377,7 @@
     },
     {
         "merged": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\md_dialog_custom.xml",
-        "source": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.9.1.0\\res\\layout\\md_dialog_custom.xml"
+        "source": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.9.3.0\\res\\layout\\md_dialog_custom.xml"
     },
     {
         "merged": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
@@ -381,11 +385,11 @@
     },
     {
         "merged": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\md_listitem.xml",
-        "source": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.9.1.0\\res\\layout\\md_listitem.xml"
+        "source": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.9.3.0\\res\\layout\\md_listitem.xml"
     },
     {
         "merged": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\md_dialog_progress_indeterminate.xml",
-        "source": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.9.1.0\\res\\layout\\md_dialog_progress_indeterminate.xml"
+        "source": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.9.3.0\\res\\layout\\md_dialog_progress_indeterminate.xml"
     },
     {
         "merged": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",

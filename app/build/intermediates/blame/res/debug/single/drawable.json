@@ -25,7 +25,7 @@
     },
     {
         "merged": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gray_circle.xml",
-        "source": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\commons\\0.9.1.0\\res\\drawable\\gray_circle.xml"
+        "source": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\commons\\0.9.3.0\\res\\drawable\\gray_circle.xml"
     },
     {
         "merged": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
@@ -49,7 +49,7 @@
     },
     {
         "merged": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\md_selector.xml",
-        "source": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.9.1.0\\res\\drawable\\md_selector.xml"
+        "source": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.9.3.0\\res\\drawable\\md_selector.xml"
     },
     {
         "merged": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
@@ -68,12 +68,12 @@
         "source": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_ic_voice_search_api_material.xml"
     },
     {
-        "merged": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
-        "source": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_cab_background_top_material.xml"
-    },
-    {
         "merged": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
         "source": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_cab_background_top_material.xml"
     },
     {
         "merged": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
@@ -105,11 +105,11 @@
     },
     {
         "merged": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\md_selector_dark.xml",
-        "source": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.9.1.0\\res\\drawable\\md_selector_dark.xml"
+        "source": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.9.3.0\\res\\drawable\\md_selector_dark.xml"
     },
     {
         "merged": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\md_item_selected_dark.xml",
-        "source": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.9.1.0\\res\\drawable\\md_item_selected_dark.xml"
+        "source": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.9.3.0\\res\\drawable\\md_item_selected_dark.xml"
     },
     {
         "merged": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
@@ -129,7 +129,7 @@
     },
     {
         "merged": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\md_item_selected.xml",
-        "source": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.9.1.0\\res\\drawable\\md_item_selected.xml"
+        "source": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.9.3.0\\res\\drawable\\md_item_selected.xml"
     },
     {
         "merged": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
@@ -141,7 +141,7 @@
     },
     {
         "merged": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\md_transparent.xml",
-        "source": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.9.1.0\\res\\drawable\\md_transparent.xml"
+        "source": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.9.3.0\\res\\drawable\\md_transparent.xml"
     },
     {
         "merged": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_ic_visibility.xml",
@@ -157,7 +157,7 @@
     },
     {
         "merged": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\md_btn_selected_dark.xml",
-        "source": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.9.1.0\\res\\drawable\\md_btn_selected_dark.xml"
+        "source": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.9.3.0\\res\\drawable\\md_btn_selected_dark.xml"
     },
     {
         "merged": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
@@ -185,11 +185,11 @@
     },
     {
         "merged": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\md_btn_selected.xml",
-        "source": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.9.1.0\\res\\drawable\\md_btn_selected.xml"
+        "source": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.9.3.0\\res\\drawable\\md_btn_selected.xml"
     },
     {
         "merged": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\md_btn_selector_dark.xml",
-        "source": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.9.1.0\\res\\drawable\\md_btn_selector_dark.xml"
+        "source": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.9.3.0\\res\\drawable\\md_btn_selector_dark.xml"
     },
     {
         "merged": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
@@ -201,7 +201,7 @@
     },
     {
         "merged": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\md_btn_selector.xml",
-        "source": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.9.1.0\\res\\drawable\\md_btn_selector.xml"
+        "source": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.9.3.0\\res\\drawable\\md_btn_selector.xml"
     },
     {
         "merged": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
