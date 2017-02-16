@@ -6,7 +6,11 @@ import com.marlonjones.projectevo.R;
 import com.marlonjones.projectevo.adapter.SlideMenuAdapter;
 import com.roughike.bottombar.BottomBar;
 import com.roughike.bottombar.OnMenuTabClickListener;
+
+import android.Manifest;
 import android.content.Context;
+import android.content.pm.PackageManager;
+import android.os.Build;
 import android.os.Bundle;
 import android.support.annotation.IdRes;
 import android.support.v4.app.Fragment;
@@ -29,6 +33,8 @@ public class ActivityHome extends AppCompatActivity{
     private static final int PERMISSION_REQUEST_CODE = 1;
 	private SlideMenuAdapter mSlideMenuAdapter;
 	private int currentPosition=0;
+    final private int REQUEST_CODE_ASK_PERMISSIONS = 123;
+    int currentapiVersion = android.os.Build.VERSION.SDK_INT;
 	
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
