@@ -16,6 +16,7 @@ import android.support.annotation.IdRes;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentTransaction;
+import android.support.v4.content.ContextCompat;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.Menu;
@@ -44,9 +45,9 @@ public class ActivityHome extends AppCompatActivity{
         toolbar.setTitle("Aperture Gallery");
         setSupportActionBar(toolbar);
 
-        //Permission Check Start
+        /**Permission Check Start**/
 
-        //Permission Check End
+        /**Permission Check End**/
 
         mContext=ActivityHome.this;
 		mBottomBar = BottomBar.attach(this, savedInstanceState);
