@@ -1,22 +1,16 @@
 package com.marlonjones.projectevo.activity;
 
 import com.afollestad.materialdialogs.MaterialDialog;
-import com.marlonjones.gyrochecklib.GyroCheck;
 import com.marlonjones.projectevo.R;
 import com.marlonjones.projectevo.adapter.SlideMenuAdapter;
 import com.roughike.bottombar.BottomBar;
 import com.roughike.bottombar.OnMenuTabClickListener;
-
-import android.Manifest;
 import android.content.Context;
-import android.content.pm.PackageManager;
-import android.os.Build;
 import android.os.Bundle;
 import android.support.annotation.IdRes;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentTransaction;
-import android.support.v4.content.ContextCompat;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.Menu;
