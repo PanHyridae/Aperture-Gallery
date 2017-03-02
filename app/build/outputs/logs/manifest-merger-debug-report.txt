@@ -79,7 +79,7 @@ ADDED from C:\Android Projects\Personal\Released or Beta\Aperture\Aperture\app\s
 	android:name
 		ADDED from C:\Android Projects\Personal\Released or Beta\Aperture\Aperture\app\src\main\AndroidManifest.xml:24:27-74
 activity#com.marlonjones.projectevo.activity.AlbumActivity
-ADDED from C:\Android Projects\Personal\Released or Beta\Aperture\Aperture\app\src\main\AndroidManifest.xml:27:9-30:59
+ADDED from C:\Android Projects\Personal\Released or Beta\Aperture\Aperture\app\src\main\AndroidManifest.xml:27:9-30:50
 	android:label
 		ADDED from C:\Android Projects\Personal\Released or Beta\Aperture\Aperture\app\src\main\AndroidManifest.xml:29:13-45
 	android:theme
@@ -87,7 +87,7 @@ ADDED from C:\Android Projects\Personal\Released or Beta\Aperture\Aperture\app\s
 	android:name
 		ADDED from C:\Android Projects\Personal\Released or Beta\Aperture\Aperture\app\src\main\AndroidManifest.xml:28:13-51
 activity#com.marlonjones.projectevo.activity.PhotoPreviewActivity
-ADDED from C:\Android Projects\Personal\Released or Beta\Aperture\Aperture\app\src\main\AndroidManifest.xml:31:9-34:59
+ADDED from C:\Android Projects\Personal\Released or Beta\Aperture\Aperture\app\src\main\AndroidManifest.xml:31:9-34:50
 	android:label
 		ADDED from C:\Android Projects\Personal\Released or Beta\Aperture\Aperture\app\src\main\AndroidManifest.xml:33:13-45
 	android:theme

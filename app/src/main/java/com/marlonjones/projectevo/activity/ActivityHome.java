@@ -2,10 +2,12 @@ package com.marlonjones.projectevo.activity;
 
 import com.afollestad.materialdialogs.MaterialDialog;
 import com.marlonjones.projectevo.R;
+import com.marlonjones.projectevo.SettingsActivity;
 import com.marlonjones.projectevo.adapter.SlideMenuAdapter;
 import com.roughike.bottombar.BottomBar;
 import com.roughike.bottombar.OnMenuTabClickListener;
 import android.content.Context;
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.annotation.IdRes;
 import android.support.v4.app.Fragment;
@@ -88,13 +90,15 @@ public class ActivityHome extends AppCompatActivity{
 		getMenuInflater().inflate(com.marlonjones.projectevo.R.menu.main, menu);
 		return super.onCreateOptionsMenu(menu);
 	}
+    /**Opens the Settings Activity, which holds the theme settings and other information**/
 	@Override
 	public boolean onOptionsItemSelected(MenuItem item) {
 		int id = item.getItemId();
 		if (id == com.marlonjones.projectevo.R.id.action_settings) {
-			Toast.makeText(getApplicationContext(), "Settings Coming Soon - Personalization, Security, and Backup",
-					Toast.LENGTH_SHORT).show();
+            Intent settingsIntent = new Intent(ActivityHome.this, SettingsActivity.class);
+            startActivity(settingsIntent);
 		}
+        //TODO - Remove these when done with settings, or when settings has Privacy Policy in it.
 		if (id==com.marlonjones.projectevo.R.id.action_about){
             new MaterialDialog.Builder(this)
 				   .title(R.string.about)
@@ -110,6 +114,7 @@ public class ActivityHome extends AppCompatActivity{
 					.positiveText(R.string.OK)
 					.show();
         }
+        //TODO - Add in Google Cardboard SDK and activate this
 		if (id ==R.id.cardboard_toggle){
 			Toast.makeText(getApplicationContext(), "Coming Soon - Google Cardboard viewing mode",
 					Toast.LENGTH_SHORT).show();

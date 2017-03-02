@@ -27,11 +27,14 @@
         <activity
             android:name=".activity.AlbumActivity"
             android:label="@string/app_name"
-            android:theme="@style/AppThemeNew"></activity>
+            android:theme="@style/AppThemeNew" />
         <activity
             android:name=".activity.PhotoPreviewActivity"
             android:label="@string/app_name"
-            android:theme="@style/AppThemeNew"></activity>
+            android:theme="@style/AppThemeNew" />
+        <activity
+            android:name=".SettingsActivity"
+            android:label="@string/title_activity_settings"></activity>
     </application>
 
 </manifest>
