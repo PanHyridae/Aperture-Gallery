@@ -1,47 +1,47 @@
 [
     {
-        "merged": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
-        "source": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.1\\res\\anim\\design_bottom_sheet_slide_out.xml"
+        "merged": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\marlo\\.android\\build-cache\\06fdac6df6e98aedf3fc061f498908bf71b5b1c6\\output\\res\\anim\\abc_slide_out_bottom.xml"
     },
     {
-        "merged": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
-        "source": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\anim\\abc_slide_out_bottom.xml"
+        "merged": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\marlo\\.android\\build-cache\\88741537c8b0adbf739e80971092ad133ce9ec62\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
     },
     {
         "merged": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
-        "source": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\anim\\abc_slide_in_bottom.xml"
+        "source": "C:\\Users\\marlo\\.android\\build-cache\\06fdac6df6e98aedf3fc061f498908bf71b5b1c6\\output\\res\\anim\\abc_slide_in_bottom.xml"
     },
     {
         "merged": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
-        "source": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.1\\res\\anim\\design_bottom_sheet_slide_in.xml"
+        "source": "C:\\Users\\marlo\\.android\\build-cache\\88741537c8b0adbf739e80971092ad133ce9ec62\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
     },
     {
         "merged": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
-        "source": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+        "source": "C:\\Users\\marlo\\.android\\build-cache\\06fdac6df6e98aedf3fc061f498908bf71b5b1c6\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
     },
     {
         "merged": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
-        "source": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.1\\res\\anim\\design_snackbar_out.xml"
+        "source": "C:\\Users\\marlo\\.android\\build-cache\\88741537c8b0adbf739e80971092ad133ce9ec62\\output\\res\\anim\\design_snackbar_out.xml"
     },
     {
         "merged": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
-        "source": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.1\\res\\anim\\design_fab_in.xml"
+        "source": "C:\\Users\\marlo\\.android\\build-cache\\88741537c8b0adbf739e80971092ad133ce9ec62\\output\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\marlo\\.android\\build-cache\\06fdac6df6e98aedf3fc061f498908bf71b5b1c6\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
     },
     {
         "merged": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\anim\\activity_alpha_action_in.xml",
         "source": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\src\\main\\res\\anim\\activity_alpha_action_in.xml"
     },
     {
-        "merged": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
-        "source": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
-    },
-    {
         "merged": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
-        "source": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\anim\\abc_slide_in_top.xml"
+        "source": "C:\\Users\\marlo\\.android\\build-cache\\06fdac6df6e98aedf3fc061f498908bf71b5b1c6\\output\\res\\anim\\abc_slide_in_top.xml"
     },
     {
         "merged": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
-        "source": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\anim\\abc_fade_in.xml"
+        "source": "C:\\Users\\marlo\\.android\\build-cache\\06fdac6df6e98aedf3fc061f498908bf71b5b1c6\\output\\res\\anim\\abc_fade_in.xml"
     },
     {
         "merged": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\anim\\translate_up.xml",
@@ -49,7 +49,7 @@
     },
     {
         "merged": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
-        "source": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\anim\\abc_fade_out.xml"
+        "source": "C:\\Users\\marlo\\.android\\build-cache\\06fdac6df6e98aedf3fc061f498908bf71b5b1c6\\output\\res\\anim\\abc_fade_out.xml"
     },
     {
         "merged": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\anim\\translate_down.xml",
@@ -57,7 +57,7 @@
     },
     {
         "merged": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
-        "source": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.1\\res\\anim\\design_fab_out.xml"
+        "source": "C:\\Users\\marlo\\.android\\build-cache\\88741537c8b0adbf739e80971092ad133ce9ec62\\output\\res\\anim\\design_fab_out.xml"
     },
     {
         "merged": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\anim\\pb_default.xml",
@@ -65,7 +65,7 @@
     },
     {
         "merged": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\anim\\decelerate_cubic.xml",
-        "source": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.9.3.0\\res\\anim\\decelerate_cubic.xml"
+        "source": "C:\\Users\\marlo\\.android\\build-cache\\82127cd1a52fc281d786635cd0930f7751f8af78\\output\\res\\anim\\decelerate_cubic.xml"
     },
     {
         "merged": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\anim\\translate_up_current.xml",
@@ -73,27 +73,27 @@
     },
     {
         "merged": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\anim\\popup_exit.xml",
-        "source": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.9.3.0\\res\\anim\\popup_exit.xml"
+        "source": "C:\\Users\\marlo\\.android\\build-cache\\82127cd1a52fc281d786635cd0930f7751f8af78\\output\\res\\anim\\popup_exit.xml"
     },
     {
         "merged": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
-        "source": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\anim\\abc_popup_exit.xml"
+        "source": "C:\\Users\\marlo\\.android\\build-cache\\06fdac6df6e98aedf3fc061f498908bf71b5b1c6\\output\\res\\anim\\abc_popup_exit.xml"
     },
     {
         "merged": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
-        "source": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.1\\res\\anim\\design_snackbar_in.xml"
+        "source": "C:\\Users\\marlo\\.android\\build-cache\\88741537c8b0adbf739e80971092ad133ce9ec62\\output\\res\\anim\\design_snackbar_in.xml"
     },
     {
         "merged": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\anim\\popup_enter.xml",
-        "source": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.afollestad.material-dialogs\\core\\0.9.3.0\\res\\anim\\popup_enter.xml"
+        "source": "C:\\Users\\marlo\\.android\\build-cache\\82127cd1a52fc281d786635cd0930f7751f8af78\\output\\res\\anim\\popup_enter.xml"
     },
     {
         "merged": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
-        "source": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\anim\\abc_popup_enter.xml"
+        "source": "C:\\Users\\marlo\\.android\\build-cache\\06fdac6df6e98aedf3fc061f498908bf71b5b1c6\\output\\res\\anim\\abc_popup_enter.xml"
     },
     {
         "merged": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
-        "source": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\anim\\abc_slide_out_top.xml"
+        "source": "C:\\Users\\marlo\\.android\\build-cache\\06fdac6df6e98aedf3fc061f498908bf71b5b1c6\\output\\res\\anim\\abc_slide_out_top.xml"
     },
     {
         "merged": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\anim\\translate_down_current.xml",

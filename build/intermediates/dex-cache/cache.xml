@@ -3,21 +3,12 @@
 
     <item
         is-multidex="true"
-        jar="C:\Android Projects\Personal\Released or Beta\Aperture\Aperture\app\build\intermediates\exploded-aar\com.marlonjones.library\GyroCheck\1.0.1\jars\classes.jar"
+        jar="C:\Users\marlo\.android\build-cache\20e92da3fffba62a145337349f4bca1ffa25232c\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="2bcefff8282e7ebcbea45bf4b17ed20cf6ba4ab6">
-        <dex dex="C:\Android Projects\Personal\Released or Beta\Aperture\Aperture\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.marlonjones.library-GyroCheck-1.0.1_92c94a3a2c9e8234848f95a481f859c884b2420e\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Android Projects\Personal\Released or Beta\Aperture\Aperture\app\build\intermediates\exploded-aar\com.android.support\design\25.1.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
-        <dex dex="C:\Android Projects\Personal\Released or Beta\Aperture\Aperture\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.1.1_c010ad122726ce5b7e3fdffa6d65f802ac0866c6\classes.dex" />
+        sha1="4c20c4e1c7201c08a01c30516362e4ba5ff01b19">
+        <dex dex="C:\Android Projects\Personal\Released or Beta\Aperture\Aperture\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1c735d415fc6895c545aeb44bbd4d6ad0eafcebf\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -25,8 +16,8 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="acd87a74a7eb5b886c490c32821eaa5a78f1d150">
-        <dex dex="C:\Android Projects\Personal\Released or Beta\Aperture\Aperture\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_c00ccbd5542781e4d1df0347e81201cbe9dc5793\classes.dex" />
+        sha1="fce77ae2f814bfd6390d2b716897d30785b63314">
+        <dex dex="C:\Android Projects\Personal\Released or Beta\Aperture\Aperture\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_c00ccbd5542781e4d1df0347e81201cbe9dc5793\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -39,138 +30,39 @@
     </item>
     <item
         is-multidex="true"
-        jar="C:\Android Projects\Personal\Released or Beta\Aperture\Aperture\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
-        <dex dex="C:\Android Projects\Personal\Released or Beta\Aperture\Aperture\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.1_dfc6a3f627bec891ab9bc61c22d2283e767cbcf5\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Android Projects\Personal\Released or Beta\Aperture\Aperture\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
-        <dex dex="C:\Android Projects\Personal\Released or Beta\Aperture\Aperture\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.1_a519c0fa4d593a253ce7da9b28955bc2d89e6b46\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Android Projects\Personal\Released or Beta\Aperture\Aperture\app\build\intermediates\exploded-aar\com.afollestad\assent\0.2.5\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="4c20c4e1c7201c08a01c30516362e4ba5ff01b19">
-        <dex dex="C:\Android Projects\Personal\Released or Beta\Aperture\Aperture\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.afollestad-assent-0.2.5_41d28e3d8451485f3c13490008ebbc110fc57058\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Android Projects\Personal\Released or Beta\Aperture\Aperture\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
-        <dex dex="C:\Android Projects\Personal\Released or Beta\Aperture\Aperture\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.1_0f30393fee3d4c0f0ded2006d404edd80302fec9\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Android Projects\Personal\Released or Beta\Aperture\Aperture\app\build\intermediates\exploded-aar\com.android.support\support-v13\25.1.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="058253c7da6cf5cb545922d07fcc2cd19d5d0ce1">
-        <dex dex="C:\Android Projects\Personal\Released or Beta\Aperture\Aperture\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v13-25.1.1_19ce4c4abe5c7b4ed8afbeebae39efc185f70ee4\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Android Projects\Personal\Released or Beta\Aperture\Aperture\app\build\intermediates\exploded-aar\com.afollestad.material-dialogs\core\0.9.3.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="de7a7419adf97a681f96281fdf38be62861047d9">
-        <dex dex="C:\Android Projects\Personal\Released or Beta\Aperture\Aperture\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.afollestad.material-dialogs-core-0.9.3.0_4d7684b16d8dd1d65415b634128ac7eb513874a4\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Android Projects\Personal\Released or Beta\Aperture\Aperture\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
-        <dex dex="C:\Android Projects\Personal\Released or Beta\Aperture\Aperture\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.1_700aa980917728536011aa58341382b02d434018\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Android Projects\Personal\Released or Beta\Aperture\Aperture\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
-        <dex dex="C:\Android Projects\Personal\Released or Beta\Aperture\Aperture\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.1_ab77b0bbb3b62a01c9b58ad77db80251236674f3\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Android Projects\Personal\Released or Beta\Aperture\Aperture\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
-        <dex dex="C:\Android Projects\Personal\Released or Beta\Aperture\Aperture\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.1.1_cbff05d61c662fd86e8751cda1d164c2997d3830\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Android Projects\Personal\Released or Beta\Aperture\Aperture\app\build\intermediates\exploded-aar\com.roughike\bottom-bar\1.3.9\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="f74bf45cb3b2a686ca6d17feadbda6868e43e6c1">
-        <dex dex="C:\Android Projects\Personal\Released or Beta\Aperture\Aperture\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.roughike-bottom-bar-1.3.9_799f428272cb1fde562fb8236a61fedcd79713b2\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Android Projects\Personal\Released or Beta\Aperture\Aperture\app\build\intermediates\exploded-aar\me.zhanghai.android.materialprogressbar\library\1.3.0\jars\classes.jar"
+        jar="C:\Users\marlo\.android\build-cache\86d09b0dd81a75390b727de6e18066e22cdb0950\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="a846ddbf5bf88dee5f89d4dffe22c864f576d9b0">
-        <dex dex="C:\Android Projects\Personal\Released or Beta\Aperture\Aperture\app\build\intermediates\transforms\dex\debug\folders\1000\10\me.zhanghai.android.materialprogressbar-library-1.3.0_3153f9de76b8fb7649d5d3f1568e80df27559e57\classes.dex" />
+        <dex dex="C:\Android Projects\Personal\Released or Beta\Aperture\Aperture\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3f962b0fae0f9150e974012605434c62d935e553\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Android Projects\Personal\Released or Beta\Aperture\Aperture\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\jars\classes.jar"
+        jar="C:\Users\marlo\.android\build-cache\7a0b988f8171bef1c16921acf30fb59134500df1\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
-        <dex dex="C:\Android Projects\Personal\Released or Beta\Aperture\Aperture\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.1_53d190de78a290282d1fab9a983ae9d4a213ba26\classes.dex" />
+        sha1="f74bf45cb3b2a686ca6d17feadbda6868e43e6c1">
+        <dex dex="C:\Android Projects\Personal\Released or Beta\Aperture\Aperture\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_43db24cd72038a7b53103514bcf2bd2508b9ed8d\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Android Projects\Personal\Released or Beta\Aperture\Aperture\app\build\intermediates\exploded-aar\com.android.support\transition\25.1.1\jars\classes.jar"
+        jar="C:\Users\marlo\.android\build-cache\28467bdbf19c2fd567fa162d946f7051d0d28ed7\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
-        <dex dex="C:\Android Projects\Personal\Released or Beta\Aperture\Aperture\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.1.1_2346c018edd4e0bf828bdd3568477b2f4412efc6\classes.dex" />
+        sha1="2bcefff8282e7ebcbea45bf4b17ed20cf6ba4ab6">
+        <dex dex="C:\Android Projects\Personal\Released or Beta\Aperture\Aperture\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_035ac19be571c4a512b4075b0be1dffc1669eb71\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Android Projects\Personal\Released or Beta\Aperture\Aperture\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
-        <dex dex="C:\Android Projects\Personal\Released or Beta\Aperture\Aperture\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.1_2c3ce5d5d939d5a56178e7de6f5e17a0dcaeca23\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Android Projects\Personal\Released or Beta\Aperture\Aperture\app\build\intermediates\exploded-aar\com.afollestad.material-dialogs\commons\0.9.3.0\jars\classes.jar"
+        jar="C:\Users\marlo\.android\build-cache\ba275a8173ae9a0793816626c5a2c173a2a98140\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="49ea385f2bea4c398b0cced1b4f197941c3d06b9">
-        <dex dex="C:\Android Projects\Personal\Released or Beta\Aperture\Aperture\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.afollestad.material-dialogs-commons-0.9.3.0_0ada088a988fb64098ffe56a768a892c467ee69f\classes.dex" />
+        <dex dex="C:\Android Projects\Personal\Released or Beta\Aperture\Aperture\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7631026227b74a963c19d22a2536024c4332d943\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -178,26 +70,26 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="15728edaf23f6e725a3fdd576f8520b66bc0b31b">
-        <dex dex="C:\Android Projects\Personal\Released or Beta\Aperture\Aperture\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_638d3ef9c718d2d932fc6d3d4cf83cfb14ea2a2a\classes.dex" />
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Android Projects\Personal\Released or Beta\Aperture\Aperture\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_638d3ef9c718d2d932fc6d3d4cf83cfb14ea2a2a\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Android Projects\Personal\Released or Beta\Aperture\Aperture\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\jars\classes.jar"
+        jar="C:\Users\marlo\.android\build-cache\82127cd1a52fc281d786635cd0930f7751f8af78\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="C:\Android Projects\Personal\Released or Beta\Aperture\Aperture\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.1_6185747b3dac4a177b28cf628e94a4280a6a79bc\classes.dex" />
+        sha1="de7a7419adf97a681f96281fdf38be62861047d9">
+        <dex dex="C:\Android Projects\Personal\Released or Beta\Aperture\Aperture\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b93c56397b525db74721cdb035c0dd79598bbbdc\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Android Projects\Personal\Released or Beta\Aperture\Aperture\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\jars\classes.jar"
+        jar="C:\Users\marlo\.android\build-cache\f7d5f4b7aa93ec267729ca2ba1715533d2dc8c3f\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
-        <dex dex="C:\Android Projects\Personal\Released or Beta\Aperture\Aperture\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.1_2a700acc361774d1b4254366d8a25c2c48ffbae4\classes.dex" />
+        sha1="058253c7da6cf5cb545922d07fcc2cd19d5d0ce1">
+        <dex dex="C:\Android Projects\Personal\Released or Beta\Aperture\Aperture\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7d1d3e74b2f0176795150c61b8979fc57f457e6f\classes.dex" />
     </item>
     <item
         is-multidex="true"

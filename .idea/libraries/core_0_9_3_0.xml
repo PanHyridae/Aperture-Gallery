@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="core-0.9.3.0">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.9.3.0/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.9.3.0/res" />
+      <root url="file://$USER_HOME$/.android/build-cache/82127cd1a52fc281d786635cd0930f7751f8af78/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/82127cd1a52fc281d786635cd0930f7751f8af78/output/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
