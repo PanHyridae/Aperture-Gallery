@@ -17,10 +17,14 @@ import android.support.v7.app.ActionBar;
 import android.preference.PreferenceFragment;
 import android.preference.PreferenceManager;
 import android.preference.RingtonePreference;
+import android.support.v7.app.AppCompatDelegate;
+import android.support.v7.widget.Toolbar;
 import android.text.TextUtils;
 import android.view.MenuItem;
 
 import java.util.List;
+
+import static com.marlonjones.projectevo.R.layout.toolbar;
 
 /**
  * A {@link PreferenceActivity} that presents a set of application settings. On
@@ -34,6 +38,7 @@ import java.util.List;
  * API Guide</a> for more information on developing a Settings UI.
  */
 public class SettingsActivity extends AppCompatPreferenceActivity {
+    private AppCompatDelegate delegate;
     /**
      * A preference value change listener that updates the preference's summary
      * to reflect its new value.
@@ -119,7 +124,7 @@ public class SettingsActivity extends AppCompatPreferenceActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setupActionBar();
+
     }
 
     /**

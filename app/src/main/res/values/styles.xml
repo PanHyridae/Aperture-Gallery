@@ -23,4 +23,8 @@
         <item name="android:windowBackground">@android:color/transparent</item>
     </style>
 
+    <style name="SettingsTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+    <item name="colorPrimary">@color/primary</item>
+    <item name="colorPrimaryDark">@color/primary_dark</item>
+    </style>
 </resources>
