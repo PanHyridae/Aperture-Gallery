@@ -42,7 +42,9 @@
             android:theme="@style/AppThemeNew" />
         <activity
             android:name="com.marlonjones.projectevo.SettingsActivity"
-            android:label="@string/title_activity_settings" />
+            android:label="@string/title_activity_settings"
+            android:theme="@style/SettingsTheme" >
+        </activity>
     </application>
 
 </manifest>
