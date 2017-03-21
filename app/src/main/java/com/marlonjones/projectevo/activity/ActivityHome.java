@@ -27,10 +27,8 @@ public class ActivityHome extends AppCompatActivity{
     private FragmentTransaction fragmentTransaction = null;
 	private Fragment currentFragment=null;
 	private BottomBar mBottomBar;
-    private static final int PERMISSION_REQUEST_CODE = 1;
 	private SlideMenuAdapter mSlideMenuAdapter;
 	private int currentPosition=0;
-    final private int REQUEST_CODE_ASK_PERMISSIONS = 123;
     int currentapiVersion = android.os.Build.VERSION.SDK_INT;
 	
 	@Override
