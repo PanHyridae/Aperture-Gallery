@@ -1,9 +1,10 @@
-##Aperture Gallery
+ ##Aperture Gallery
+
 ![License] (https://img.shields.io/badge/license-GPLv3-blue.svg)
 ![Header Image] (https://github.com/MJonesDev/Aperture/blob/master/AFFIX_20160803_004248.png)
 Aperture is now under new development. Follow this for more updates, and to contribute to the project. 
 Aperture uses code from <a href ="https://github.com/dibakarece/OwnGalleryView">OwnGalleryView</a>, which is licenesed 
-under Apache 2.0. 
+under Apache 2.0.
 
 For more information, refer to FAQ.txt
 
