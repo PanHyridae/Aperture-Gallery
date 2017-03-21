@@ -1,7 +1,7 @@
 # Aperture Gallery
 Aperture is now under new development. Follow this for more updates, and to contribute to the project. 
 Aperture uses code from <a href ="https://github.com/dibakarece/OwnGalleryView">OwnGalleryView</a>, which is licenesed 
-under Apache 2.0.
+under Apache 2.0. It is planned to be finished some time in late 2017.
 
 For more information, refer to FAQ.txt
 
