@@ -42,8 +42,9 @@ public class ActivityHome extends AppCompatActivity{
         setSupportActionBar(toolbar);
 
         /**Permission Check Start**/
-
+        //TODO: Add permission check code. Use Aidan's library to do this, maybe?
         /**Permission Check End**/
+        //TODO: Consider changing UI to be better, and consider adding Drive/Dropbox support.
 
         mContext=ActivityHome.this;
 		mBottomBar = BottomBar.attach(this, savedInstanceState);
