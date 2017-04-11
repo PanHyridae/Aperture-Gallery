@@ -97,22 +97,6 @@ public class ActivityHome extends AppCompatActivity{
             Intent settingsIntent = new Intent(ActivityHome.this, SettingsActivity.class);
             startActivity(settingsIntent);
 		}
-        //TODO - Remove these when done with settings, or when settings has Privacy Policy in it.
-		if (id==com.marlonjones.projectevo.R.id.action_about){
-            new MaterialDialog.Builder(this)
-				   .title(R.string.about)
-				   .content(R.string.about_body)
-				   .positiveText(R.string.OK)
-				   .show();
-
-        }
-        if (id== R.id.action_information){
-             new MaterialDialog.Builder(this)
-					.title(R.string.alphatitle)
-					.content(R.string.alpha_text)
-					.positiveText(R.string.OK)
-					.show();
-        }
         //TODO - Add in Google Cardboard SDK and activate this
 		if (id ==R.id.cardboard_toggle){
 			Toast.makeText(getApplicationContext(), "Coming Soon - Google Cardboard viewing mode",
