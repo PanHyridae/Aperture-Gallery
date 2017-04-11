@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="askpermission-1.0.3">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/5d006ee529f447106e0c2422779bdf3e07e426c7/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/5d006ee529f447106e0c2422779bdf3e07e426c7/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.kishan.askpermission/askpermission/1.0.3/edcf815fa38d45f3ea10048e12686b553e2e41b/askpermission-1.0.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

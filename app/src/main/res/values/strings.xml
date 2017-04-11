@@ -24,7 +24,8 @@
     intended only for those that wish to aid in the development of Aperture, or wish to have it before most others.</string>
 
 
-    <!--Strings and data for the rest of the app-->
+    <!--Strings and data for the rest of the app-->4
+    <string name="action_settings">Settings</string>
     <string name="openDrawer">openDrawer</string>
     <string name="closeDrawer">closeDrawer</string>
     <string name="bottombarphoto">All</string>

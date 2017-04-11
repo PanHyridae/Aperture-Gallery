@@ -1,5 +1,8 @@
-//Aperture Gallery/Project Evo uses source code from the OwnGallery demo code found on GitHub
-//Aperture gallery itself is under the GPL V3 Open Source license
+/***
+ * Aperture uses source code from the OwnGallery Demo App, found on GitHub as its code basis,
+ * but with modifications. This app is licensed under GPLv3. More information can be found at
+ * github.com/mjonesdev/ApertureGallery
+ * ***/
 
 apply plugin: 'com.android.application'
 
@@ -10,17 +13,14 @@ android {
         release {
             manifestPlaceholders = [appName: "Aperture"]
         }
-        debug {
-            manifestPlaceholders = [appName: "Project: EVO"]
-        }
     }
 
     defaultConfig {
         applicationId "com.marlonjones.projectevo"
-        minSdkVersion 14
+        minSdkVersion 15
         targetSdkVersion 25
-        versionCode 3
-        versionName "0.0.7 Unreleased"
+        versionCode 12
+        versionName "0.0.8-A"
         vectorDrawables.useSupportLibrary = true
     }
 
@@ -33,19 +33,19 @@ android {
 }
 
 dependencies {
-    //Google Dependencies
-    //Open Source Dependencies
-    //Open Source - Mine
-    //For Cardboard Mode Testing
     //Internal
     compile files('libs/universal-image-loader-1.9.2-SNAPSHOT-with-sources.jar')
-    compile 'com.android.support:support-v4:25.1.1'
-    compile 'com.android.support:appcompat-v7:25.1.1'
-    compile 'com.android.support:design:25.1.1'
-    compile 'com.afollestad:assent:0.2.5'
+    //Google
+    compile 'com.android.support:support-v4:25.3.0'
+    compile 'com.android.support:appcompat-v7:25.3.0'
+    compile 'com.android.support:support-v13:25.3.0'
+    compile 'com.android.support:design:25.3.0'
+    compile 'com.android.support:support-vector-drawable:25.3.0'
+    //Open Source (GitHub)
+    compile 'com.kishan.askpermission:askpermission:1.0.3'
+    compile 'com.afollestad:assent:0.2.5' //Switch from Current Permission Library to this
     compile 'com.afollestad.material-dialogs:core:0.9.3.0'
     compile 'com.afollestad.material-dialogs:commons:0.9.3.0'
     compile 'com.roughike:bottom-bar:1.3.9'
     compile 'com.marlonjones.library:GyroCheck:1.0.1'
-    compile 'com.android.support:support-vector-drawable:25.1.1'
 }
