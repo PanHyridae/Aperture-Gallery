@@ -41,12 +41,14 @@ public class ActivityHome extends AppCompatActivity implements PermissionCallbac
     int currentapiVersion = android.os.Build.VERSION.SDK_INT;
 	
 	@Override
+	//TODO - Check if permissions have been granted. If not, request
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(com.marlonjones.projectevo.R.layout.activity_home);
         toolbar = (Toolbar) findViewById(com.marlonjones.projectevo.R.id.tool_bar);
         toolbar.setTitle("Aperture Gallery");
         setSupportActionBar(toolbar);
+		//Asks for permission. Works, sort of. Temporary Solution
         new AskPermission.Builder(this).setPermissions(Manifest.permission.CAMERA, Manifest.permission.READ_EXTERNAL_STORAGE)
 				.setCallback(this)
 				.setErrorCallback(this)
@@ -116,12 +118,14 @@ public class ActivityHome extends AppCompatActivity implements PermissionCallbac
 
 	@Override
 	public void onPermissionsGranted(int requestCode) {
-	Toast.makeText(this, "Permission Granted!", Toast.LENGTH_SHORT).show();
+	//Toast.makeText(this, "Permission Granted!", Toast.LENGTH_SHORT).show();
+		//This will show every time. So this has been removed.
 	}
 
 	@Override
 	public void onPermissionsDenied(int requestCode) {
 		new MaterialDialog.Builder(this)
+				.title(R.string.perm_title)
 				.content(R.string.permission_needed)
 				.positiveText(R.string.OK)
 				.onPositive(new MaterialDialog.SingleButtonCallback() {
