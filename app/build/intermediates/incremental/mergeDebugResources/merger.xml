@@ -2110,7 +2110,8 @@
         <item>3 hours</item>
         <item>6 hours</item>
         <item>Never</item>
-    </string-array><string name="openDrawer">openDrawer</string><string-array name="pref_sync_frequency_values">
+    </string-array><string name="permission_needed">Without granting these permissions, Aperture will not
+    be able to work as intended! Aperture will now close.</string><string name="openDrawer">openDrawer</string><string-array name="pref_sync_frequency_values">
         <item>15</item>
         <item>30</item>
         <item>60</item>

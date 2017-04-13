@@ -24,7 +24,9 @@
     intended only for those that wish to aid in the development of Aperture, or wish to have it before most others.</string>
 
 
-    <!--Strings and data for the rest of the app-->4
+    <!--Strings and data for the rest of the app-->
+    <string name="permission_needed">Without granting these permissions, Aperture will not
+    be able to work as intended! Aperture will now close.</string>
     <string name="action_settings">Settings</string>
     <string name="openDrawer">openDrawer</string>
     <string name="closeDrawer">closeDrawer</string>

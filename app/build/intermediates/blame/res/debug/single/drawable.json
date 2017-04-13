@@ -1,11 +1,11 @@
 [
     {
-        "merged": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_photofab.xml",
-        "source": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\src\\main\\res\\drawable\\ic_photofab.xml"
-    },
-    {
         "merged": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
         "source": "C:\\Users\\marlo\\.android\\build-cache\\27e1f5dd6ad6846a0e5c3b11a7b1b5e6586b1cea\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_photofab.xml",
+        "source": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\src\\main\\res\\drawable\\ic_photofab.xml"
     },
     {
         "merged": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",

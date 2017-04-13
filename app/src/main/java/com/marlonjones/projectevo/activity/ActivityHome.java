@@ -1,15 +1,23 @@
 package com.marlonjones.projectevo.activity;
 
+import com.afollestad.materialdialogs.DialogAction;
 import com.afollestad.materialdialogs.MaterialDialog;
+import com.kishan.askpermission.AskPermission;
+import com.kishan.askpermission.ErrorCallback;
+import com.kishan.askpermission.PermissionCallback;
+import com.kishan.askpermission.PermissionInterface;
 import com.marlonjones.projectevo.R;
 import com.marlonjones.projectevo.SettingsActivity;
 import com.marlonjones.projectevo.adapter.SlideMenuAdapter;
 import com.roughike.bottombar.BottomBar;
 import com.roughike.bottombar.OnMenuTabClickListener;
+
+import android.Manifest;
 import android.content.Context;
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.annotation.IdRes;
+import android.support.annotation.NonNull;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentTransaction;
@@ -19,7 +27,7 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.Toast;
 
-public class ActivityHome extends AppCompatActivity{
+public class ActivityHome extends AppCompatActivity implements PermissionCallback, ErrorCallback {
 
 	private Context mContext;
 	private Toolbar toolbar;
@@ -29,6 +37,7 @@ public class ActivityHome extends AppCompatActivity{
 	private BottomBar mBottomBar;
 	private SlideMenuAdapter mSlideMenuAdapter;
 	private int currentPosition=0;
+	private static final int GET_PERMISSIONS = 20;
     int currentapiVersion = android.os.Build.VERSION.SDK_INT;
 	
 	@Override
@@ -38,12 +47,12 @@ public class ActivityHome extends AppCompatActivity{
         toolbar = (Toolbar) findViewById(com.marlonjones.projectevo.R.id.tool_bar);
         toolbar.setTitle("Aperture Gallery");
         setSupportActionBar(toolbar);
+        new AskPermission.Builder(this).setPermissions(Manifest.permission.CAMERA, Manifest.permission.READ_EXTERNAL_STORAGE)
+				.setCallback(this)
+				.setErrorCallback(this)
+				.request (GET_PERMISSIONS);
 
-        /**Permission Check Start**/
-        //TODO: Add permission check code. Use Aidan's library to do this, maybe?
-        /**Permission Check End**/
         //TODO: Consider changing UI to be better, and consider adding Drive/Dropbox support.
-
         mContext=ActivityHome.this;
 		mBottomBar = BottomBar.attach(this, savedInstanceState);
         mBottomBar.noTabletGoodness();
@@ -103,5 +112,36 @@ public class ActivityHome extends AppCompatActivity{
 					Toast.LENGTH_SHORT).show();
 		}
 		return super.onOptionsItemSelected(item);
+	}
+
+	@Override
+	public void onPermissionsGranted(int requestCode) {
+	Toast.makeText(this, "Permission Granted!", Toast.LENGTH_SHORT).show();
+	}
+
+	@Override
+	public void onPermissionsDenied(int requestCode) {
+		new MaterialDialog.Builder(this)
+				.content(R.string.permission_needed)
+				.positiveText(R.string.OK)
+				.onPositive(new MaterialDialog.SingleButtonCallback() {
+					@Override
+					public void onClick(@NonNull MaterialDialog dialog, @NonNull DialogAction which) {
+						finish();
+					}
+				})
+				.show();
+	}
+
+	@Override
+	public void onShowRationalDialog(PermissionInterface permissionInterface, int requestCode) {
+		//TODO - Add Material Dialog Explanation
+
+	}
+
+	@Override
+	public void onShowSettings(PermissionInterface permissionInterface, int requestCode) {
+		//TODO
+
 	}
 }
