@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-
     <color name="primary">#FF9100</color>
     <color name="primary_dark">#FF6D00</color>
     <color name="sliddercolor">#1976D2</color>
-
+    <!--TODO: Find the perfect colors for Aperture. Both branding minded and UI/UX Minded.-->
 </resources>

@@ -732,6 +732,7 @@
     <integer name="hide_password_duration">320</integer>
     <integer name="show_password_duration">200</integer>
     <integer name="status_bar_notification_info_maxnum">999</integer>
+    <string name="About">About</string>
     <string name="Gyroscope">Gyroscope</string>
     <string name="OK">OK</string>
     <string name="abc_action_bar_home_description">Navigate home</string>
@@ -829,6 +830,7 @@
     <string name="pref_title_sync_frequency">Sync frequency</string>
     <string name="pref_title_system_sync_settings">System sync settings</string>
     <string name="pref_title_vibrate">Vibrate</string>
+    <string name="privacy">Privacy Policy</string>
     <string name="privacy_policy_option">Privacy Policy</string>
     <string name="search_menu_title">Search</string>
     <string name="status_bar_notification_info_overflow">999+</string>

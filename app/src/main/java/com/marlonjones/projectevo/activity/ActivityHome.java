@@ -38,7 +38,6 @@ public class ActivityHome extends AppCompatActivity implements PermissionCallbac
 	private SlideMenuAdapter mSlideMenuAdapter;
 	private int currentPosition=0;
 	private static final int GET_PERMISSIONS = 20;
-    int currentapiVersion = android.os.Build.VERSION.SDK_INT;
 	
 	@Override
 	//TODO - Check if permissions have been granted. If not, request
@@ -97,6 +96,7 @@ public class ActivityHome extends AppCompatActivity implements PermissionCallbac
 			public void onMenuTabReSelected(@IdRes int menuItemId) {
 				if (menuItemId == R.id.bottomBarItemOne) {
 					// The user reselected item number one, scroll your content to top.
+                    //TODO - Add in "Scroll to top" function for better UX.
 				}
 			}
 		});
@@ -114,9 +114,10 @@ public class ActivityHome extends AppCompatActivity implements PermissionCallbac
             Intent settingsIntent = new Intent(ActivityHome.this, SettingsActivity.class);
             startActivity(settingsIntent);
 		}
+		//Menu Item for Google Cardboard VR mode
         //TODO - Add in Google Cardboard SDK and activate this
 		if (id ==R.id.cardboard_toggle){
-			Toast.makeText(getApplicationContext(), "Coming Soon - Google Cardboard viewing mode",
+			Toast.makeText(getApplicationContext(), "Google Cardboard Mode is in development!",
 					Toast.LENGTH_SHORT).show();
 		}
 		return super.onOptionsItemSelected(item);
@@ -124,8 +125,7 @@ public class ActivityHome extends AppCompatActivity implements PermissionCallbac
 
 	@Override
 	public void onPermissionsGranted(int requestCode) {
-	//Toast.makeText(this, "Permission Granted!", Toast.LENGTH_SHORT).show();
-		//This will show every time. So this has been removed.
+	//Toast.makeText(this, "Permission Granted!", Toast.LENGTH_SHORT).show(); -- Bad UX Behavior
 	}
 
 	@Override
@@ -145,13 +145,13 @@ public class ActivityHome extends AppCompatActivity implements PermissionCallbac
 
 	@Override
 	public void onShowRationalDialog(PermissionInterface permissionInterface, int requestCode) {
-		//TODO - Add Material Dialog Explanation
+		//TODO - Add Material Dialog Explanation on why permissions are needed in detail.
 
 	}
 
 	@Override
 	public void onShowSettings(PermissionInterface permissionInterface, int requestCode) {
-		//TODO
+		//TODO -  Add this in. If not, then remove it. This actually might not be needed :/
 
 	}
 }
