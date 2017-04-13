@@ -11,6 +11,8 @@
     <string name ="patch_notes_option">Patch Notes</string>
     <string name="privacy_policy_option">Privacy Policy</string>
     <string name="alpha_option">Alpha/Beta Test Information</string>
+    <string name="About">About</string>
+    <string name="privacy">Privacy Policy</string>
     <string name="alpha_title">Thanks for testing!</string>
     <string name="about_body"><![CDATA[
     <b>Aperture (PROJECT: Evo)</b>, a material design gallery replacement developed by <b>Marlon Jones</b>.<br/>

@@ -6,15 +6,9 @@
         android:fragment="com.marlonjones.projectevo.SettingsActivity$GeneralPreferenceFragment"
         android:icon="@drawable/ic_info_black_24dp"
         android:title="@string/pref_header_general" />
+    <header android:fragment="com.marlonjones.projectevo.SettingsActivity$AboutPreferenceFragment"
+        android:icon="@drawable/ic_info_black_24dp"
+        android:title="@string/About" />
 
-    <header
-        android:fragment="com.marlonjones.projectevo.SettingsActivity$NotificationPreferenceFragment"
-        android:icon="@drawable/ic_notifications_black_24dp"
-        android:title="@string/pref_header_notifications" />
-
-    <header
-        android:fragment="com.marlonjones.projectevo.SettingsActivity$DataSyncPreferenceFragment"
-        android:icon="@drawable/ic_sync_black_24dp"
-        android:title="@string/pref_header_data_sync" />
-
+    <!--TODO: Change icons when possible. Used as placeholders for now-->
 </preference-headers>
