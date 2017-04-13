@@ -11,6 +11,7 @@
     <string name ="patch_notes_option">Patch Notes</string>
     <string name="privacy_policy_option">Privacy Policy</string>
     <string name="alpha_option">Alpha/Beta Test Information</string>
+    <string name="alpha_title">Thanks for testing!</string>
     <string name="about_body"><![CDATA[
     <b>Aperture (PROJECT: Evo)</b>, a material design gallery replacement developed by <b>Marlon Jones</b>.<br/>
     <a href=\'https://play.google.com/store/apps/dev?id=8037142226626699695\'>Google Play</a>&nbsp;&nbsp;
@@ -19,9 +20,12 @@
     <a href=\'https://github.com/MJonesDev/Aperture\'>Source Code</a></b><br/><br/></b>
     <a href=\'https://plus.google.com/u/0/communities/116518857170051710391\'>Join the community</a> :)]]>
     </string>
-    <string name="alpha_text">This Version of Aperture/PROJECT: Evo (0.0.6) is in ALPHA form, and is still in early development.
+    <string name="alpha_text">Thanks for testing
+        Aperture!
+        This version is in ALPHA form,and is still in early development.
     Some things will not work, and many things right now are either very buggy or have not yet been implemented. This is
-    intended only for those that wish to aid in the development of Aperture, or wish to have it before most others.</string>
+    intended only for those that wish to aid in the development of Aperture, or wish to have it before most others.
+    For a list of known bugs, open the settings and select "Known Bugs".</string>
 
 
     <!--Strings and data for the rest of the app-->
