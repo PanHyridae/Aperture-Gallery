@@ -48,6 +48,12 @@ public class ActivityHome extends AppCompatActivity implements PermissionCallbac
         toolbar = (Toolbar) findViewById(com.marlonjones.projectevo.R.id.tool_bar);
         toolbar.setTitle("Aperture Gallery");
         setSupportActionBar(toolbar);
+		//Message at start of app!
+		new MaterialDialog.Builder(this)
+				.title(R.string.alpha_title)
+				.content(R.string.alpha_text)
+				.positiveText(R.string.OK)
+				.show();
 		//Asks for permission. Works, sort of. Temporary Solution
         new AskPermission.Builder(this).setPermissions(Manifest.permission.CAMERA, Manifest.permission.READ_EXTERNAL_STORAGE)
 				.setCallback(this)
