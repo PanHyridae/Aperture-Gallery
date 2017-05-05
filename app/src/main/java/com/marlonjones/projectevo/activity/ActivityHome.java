@@ -30,13 +30,6 @@ import android.widget.Toast;
 public class ActivityHome extends AppCompatActivity implements PermissionCallback, ErrorCallback {
 
 	private Context mContext;
-	private Toolbar toolbar;
-	private FragmentManager fragmentManager = null;
-    private FragmentTransaction fragmentTransaction = null;
-	private Fragment currentFragment=null;
-	private BottomBar mBottomBar;
-	private SlideMenuAdapter mSlideMenuAdapter;
-	private int currentPosition=0;
 	private static final int GET_PERMISSIONS = 20;
 	
 	@Override
@@ -44,7 +37,7 @@ public class ActivityHome extends AppCompatActivity implements PermissionCallbac
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(com.marlonjones.projectevo.R.layout.activity_home);
-        toolbar = (Toolbar) findViewById(com.marlonjones.projectevo.R.id.tool_bar);
+        Toolbar toolbar = (Toolbar) findViewById(R.id.tool_bar);
         toolbar.setTitle("Aperture Gallery");
         setSupportActionBar(toolbar);
 		//Message at start of app!
@@ -60,33 +53,34 @@ public class ActivityHome extends AppCompatActivity implements PermissionCallbac
 				.request (GET_PERMISSIONS);
 
         //TODO: Consider changing UI to be better, and consider adding Drive/Dropbox support.
+        //Fragments are named after explosives seen in COD: MW3
         mContext=ActivityHome.this;
-		mBottomBar = BottomBar.attach(this, savedInstanceState);
-        mBottomBar.noTabletGoodness();
-		mBottomBar.setItems(R.menu.bottombar_menu);
-		mBottomBar.setOnMenuTabClickListener(new OnMenuTabClickListener() {
+        BottomBar BotLane = BottomBar.attach(this, savedInstanceState);
+        BotLane.noTabletGoodness();
+		BotLane.setItems(R.menu.bottombar_menu);
+		BotLane.setOnMenuTabClickListener(new OnMenuTabClickListener() {
 			@Override
 			public void onMenuTabSelected(@IdRes int menuItemId) {
 				if (menuItemId == R.id.bottomBarItemOne) {
-                    Fragment fragout1 = new GalleryFragment();
+                    Fragment semtexFrag = new GalleryFragment();
                     FragmentTransaction ft = getSupportFragmentManager().beginTransaction();
-                    ft.replace(R.id.fragment_container, fragout1);
+                    ft.replace(R.id.fragment_container, semtexFrag);
                     ft.setTransition(FragmentTransaction.TRANSIT_FRAGMENT_FADE);
                     ft.addToBackStack(null);
                     ft.commit();
 				}
                 if (menuItemId == R.id.bottomBarItemTwo) {
-                    Fragment fragout2 = new CameraFragment();
+                    Fragment claymoreFrag = new CameraFragment();
                     FragmentTransaction ft = getSupportFragmentManager().beginTransaction();
-                    ft.replace(R.id.fragment_container, fragout2);
+                    ft.replace(R.id.fragment_container, claymoreFrag);
                     ft.setTransition(FragmentTransaction.TRANSIT_FRAGMENT_FADE);
                     ft.addToBackStack(null);
                     ft.commit();
                 }
                 if (menuItemId == R.id.bottomBarItemThree) {
-                    Fragment fragout3 = new VideoFragment();
+                    Fragment moabFrag = new VideoFragment();
                     FragmentTransaction ft = getSupportFragmentManager().beginTransaction();
-                    ft.replace(R.id.fragment_container, fragout3);
+                    ft.replace(R.id.fragment_container, moabFrag);
                     ft.setTransition(FragmentTransaction.TRANSIT_FRAGMENT_FADE);
                     ft.addToBackStack(null);
                     ft.commit();
