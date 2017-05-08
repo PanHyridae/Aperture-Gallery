@@ -2095,7 +2095,7 @@
         <item>Always</item>
         <item>When possible</item>
         <item>Never</item>
-    </string-array><string name="toolbar_name_default">Aperture Gallery</string><string name="pref_title_social_recommendations">Enable social recommendations</string><string name="bottombarvid">Videos</string><string name="privacy">Privacy Policy</string><string name="pref_header_general">General</string><string-array name="multi_select_list_preference_default_value"/><string name="pref_title_display_name">Display name</string><string name="pref_title_new_message_notifications">New message notifications</string><string name="hello_world">Hello world!</string><string name="alpha_text">Thanks for testing Aperture!
+    </string-array><string name="toolbar_name_default">Project: EVO</string><string name="pref_title_social_recommendations">Enable social recommendations</string><string name="bottombarvid">Videos</string><string name="privacy">Privacy Policy</string><string name="pref_header_general">General</string><string-array name="multi_select_list_preference_default_value"/><string name="pref_title_display_name">Display name</string><string name="pref_title_new_message_notifications">New message notifications</string><string name="hello_world">Hello world!</string><string name="alpha_text">Thanks for testing Aperture!
         This version is in ALPHA form, and is still in early development.
     Some things will not work, and many things right now are either very buggy or have not yet been implemented. This is
     intended only for those that wish to aid in the development of Aperture, or wish to have it before most others.
