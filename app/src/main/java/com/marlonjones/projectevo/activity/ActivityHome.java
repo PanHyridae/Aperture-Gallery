@@ -38,7 +38,7 @@ public class ActivityHome extends AppCompatActivity implements PermissionCallbac
 		super.onCreate(savedInstanceState);
 		setContentView(com.marlonjones.projectevo.R.layout.activity_home);
         Toolbar toolbar = (Toolbar) findViewById(R.id.tool_bar);
-        toolbar.setTitle("Aperture Gallery");
+        toolbar.setTitle("Photos");
         setSupportActionBar(toolbar);
 		//Message at start of app!
 		new MaterialDialog.Builder(this)

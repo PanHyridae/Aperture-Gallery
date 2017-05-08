@@ -2,7 +2,7 @@
 <resources>
     <!--ActivityHome Strings-->
     <string name="app_name">Aperture</string>
-    <string name="toolbar_name_default">Aperture Gallery</string>
+    <string name="toolbar_name_default">Project: EVO</string>
     <string name="hello_world">Hello world!</string>
     <string name="cardtog">Google Cardboard Mode</string>
 

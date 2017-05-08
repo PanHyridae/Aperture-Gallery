@@ -1318,7 +1318,14 @@
                     "endOffset": 8210
                 },
                 "from": {
-                    "file": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\src\\main\\res\\values\\color.xml"
+                    "file": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 41,
+                        "endOffset": 92
+                    }
                 }
             },
             {
@@ -1330,7 +1337,14 @@
                     "endOffset": 8257
                 },
                 "from": {
-                    "file": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\src\\main\\res\\values\\color.xml"
+                    "file": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 112,
+                        "endColumn": 46,
+                        "endOffset": 154
+                    }
                 }
             },
             {
@@ -1510,7 +1524,14 @@
                     "endOffset": 9303
                 },
                 "from": {
-                    "file": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\src\\main\\res\\values\\color.xml"
+                    "file": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 174,
+                        "endColumn": 46,
+                        "endOffset": 216
+                    }
                 }
             },
             {
@@ -4138,14 +4159,7 @@
                     "endOffset": 56088
                 },
                 "from": {
-                    "file": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 13,
-                        "startColumn": 4,
-                        "startOffset": 542,
-                        "endColumn": 39,
-                        "endOffset": 577
-                    }
+                    "file": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
@@ -5133,14 +5147,7 @@
                     "endOffset": 63459
                 },
                 "from": {
-                    "file": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 14,
-                        "startColumn": 4,
-                        "startOffset": 582,
-                        "endColumn": 50,
-                        "endOffset": 628
-                    }
+                    "file": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
