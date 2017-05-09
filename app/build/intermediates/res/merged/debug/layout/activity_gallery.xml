@@ -13,9 +13,7 @@
             <include
                 android:id="@+id/tool_bar"
                 layout="@layout/toolbar" />
-            <GridLayout
-                android:columnCount="1"
-                android:rowCount="1"
+            <GridView
                 android:id="@+id/grid_view"
                 android:layout_width="fill_parent"
                 android:layout_height="fill_parent"

@@ -19,7 +19,7 @@
         android:gravity="center"
         android:horizontalSpacing="4dp"
         android:listSelector="@drawable/list_selector"
-        android:numColumns="auto_fit"
+        android:numColumns="1"
         android:paddingBottom="4dp"
         android:paddingLeft="4dp"
         android:paddingRight="4dp"

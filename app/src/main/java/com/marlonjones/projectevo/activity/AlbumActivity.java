@@ -79,7 +79,7 @@ public class AlbumActivity extends AppCompatActivity{
 		mView.setAdapter(listAdapter = new ListAdapter(AlbumActivity.this));
 
         int position = mView.getFirstVisiblePosition();
-        int columnsCount = 2;
+        int columnsCount = 3;
         mView.setNumColumns(columnsCount);
         itemWidth = (ApertureBasing.displaySize.x - ((columnsCount + 1) * ApertureBasing.dp(4))) / columnsCount;
         mView.setColumnWidth(itemWidth);

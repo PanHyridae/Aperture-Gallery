@@ -67,7 +67,7 @@ public class CameraFragment extends Fragment {
 		photos=GalleryFragment.albumsSorted.get(0).photos;
 		
         int position = mView.getFirstVisiblePosition();
-        int columnsCount = 2;
+        int columnsCount = 3;
         mView.setNumColumns(columnsCount);
         itemWidth = (ApertureBasing.displaySize.x - ((columnsCount + 1) * ApertureBasing.dp(4))) / columnsCount;
         mView.setColumnWidth(itemWidth);
