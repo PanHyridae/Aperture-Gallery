@@ -41,6 +41,7 @@
     <string name="bottombarphoto">All</string>
     <string name="bottombarvid">Videos</string>
     <string name="bottombarcamera">Camera</string>
+    <string name="cameratog">Camera</string>
     <string name="OK">OK</string>
     <string name="alphatitle">Alpha Information</string>
     <string name="title_activity_settings">Settings</string>
