@@ -57,7 +57,7 @@ public class ActivityHome extends AppCompatActivity implements PermissionCallbac
         //Fragments are named after explosives seen in COD: MW3
         mContext=ActivityHome.this;
         BottomBar BotLane = BottomBar.attach(this, savedInstanceState);
-        BotLane.noTabletGoodness();
+        BotLane.noTabletGoodness(); //This is due to not being deved for tablets. No need to.
 		BotLane.setItems(R.menu.bottombar_menu);
 		BotLane.setOnMenuTabClickListener(new OnMenuTabClickListener() {
             //Consider replacing with Google Bottom Bar from Android Design Library

@@ -45,7 +45,7 @@ public class CameraFragment extends Fragment {
 	
 	@Override
 	public View onCreateView(LayoutInflater inflater, ViewGroup container,Bundle savedInstanceState) {
-		/** Inflating the layout for this fragment **/
+		//Inflating the layout for this fragment
 		mContext = this.getActivity();
 		View v = inflater.inflate(R.layout.fragment_gallery, null);
 		initializeView(v);
