@@ -3,4 +3,5 @@
     <color name="primary">#f44336</color> <!--Red 500-->
     <color name="primary_dark">#d32f2f</color> <!--Red 700-->
     <color name="sliddercolor">#ff7961</color> <!---Red Accent A100 P-Light-->
+    <color name="colorwhite">#ffffff</color>
 </resources>

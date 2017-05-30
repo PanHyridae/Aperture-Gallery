@@ -4,11 +4,11 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    android:background="?attr/colorPrimary"
+    android:background="@color/colorwhite"
     android:elevation="4dp"
     android:paddingTop="@dimen/tool_bar_top_padding"
     app:popupTheme="@style/ThemeOverlay.AppCompat.Light"
-    app:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+    app:theme="@style/ThemeOverlay.AppCompat.ActionBar"
     tools:ignore="UnusedAttribute" >
 
 </android.support.v7.widget.Toolbar>
