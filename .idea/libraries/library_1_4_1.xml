@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="library-1.4.1">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/feca74ba6fd2174979f7cba7ee1504599fec9bd7/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/feca74ba6fd2174979f7cba7ee1504599fec9bd7/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/me.zhanghai.android.materialprogressbar/library/1.4.1/29b9a7a8f3952c8ba8d969fa67daf08594df2bd2/library-1.4.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

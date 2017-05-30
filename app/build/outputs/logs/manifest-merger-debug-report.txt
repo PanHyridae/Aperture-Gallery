@@ -33,21 +33,21 @@ application
 ADDED from C:\Android Projects\Personal\Released or Beta\Aperture\Aperture\app\src\main\AndroidManifest.xml:10:5-38:19
 MERGED from [com.kishan.askpermission:askpermission:1.0.3] C:\Users\marlo\.android\build-cache\5d006ee529f447106e0c2422779bdf3e07e426c7\output\AndroidManifest.xml:11:5-15:19
 MERGED from [com.afollestad:assent:0.2.5] C:\Users\marlo\.android\build-cache\20e92da3fffba62a145337349f4bca1ffa25232c\output\AndroidManifest.xml:12:5-20
-MERGED from [com.afollestad.material-dialogs:commons:0.9.3.0] C:\Users\marlo\.android\build-cache\ba275a8173ae9a0793816626c5a2c173a2a98140\output\AndroidManifest.xml:12:5-20
-MERGED from [com.afollestad.material-dialogs:core:0.9.3.0] C:\Users\marlo\.android\build-cache\82127cd1a52fc281d786635cd0930f7751f8af78\output\AndroidManifest.xml:13:5-20
-MERGED from [com.android.support:support-v13:25.3.0] C:\Users\marlo\.android\build-cache\9d045689ebbf02c814906c0fc66b43870a17bbba\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:design:25.3.0] C:\Users\marlo\.android\build-cache\afd3c357cf77bd59abaac49d8c2afa96bbcfc5f1\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:transition:25.3.0] C:\Users\marlo\.android\build-cache\a42178937b7728180dcab22a48e684938c944ae3\output\AndroidManifest.xml:26:5-20
+MERGED from [com.afollestad.material-dialogs:commons:0.9.4.5] C:\Users\marlo\.android\build-cache\01c545f7a0f282f53ee49cce80634800354b6779\output\AndroidManifest.xml:12:5-20
+MERGED from [com.afollestad.material-dialogs:core:0.9.4.5] C:\Users\marlo\.android\build-cache\adcae3a34374a14694cb9cf7968b5dc3d2a58093\output\AndroidManifest.xml:13:5-20
+MERGED from [com.android.support:support-v13:25.3.1] C:\Users\marlo\.android\build-cache\e6c47f805e34ac9534b03c705a7995ffa9c4142f\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:design:25.3.1] C:\Users\marlo\.android\build-cache\c7bdb5d5fdaf330cf1e361f8b65074735502c474\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\marlo\.android\build-cache\0555b99658d20d623729896f8177d65ddd7bb914\output\AndroidManifest.xml:26:5-20
 MERGED from [com.marlonjones.library:GyroCheck:1.0.1] C:\Users\marlo\.android\build-cache\28467bdbf19c2fd567fa162d946f7051d0d28ed7\output\AndroidManifest.xml:14:5-16:38
-MERGED from [com.android.support:appcompat-v7:25.3.0] C:\Users\marlo\.android\build-cache\27e1f5dd6ad6846a0e5c3b11a7b1b5e6586b1cea\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-v4:25.3.0] C:\Users\marlo\.android\build-cache\097c1acfcc6e82ccd06681cfa1e4f7cae297cbf9\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-fragment:25.3.0] C:\Users\marlo\.android\build-cache\57b92dd3753ec973b5877559bfe946d044b1e230\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-media-compat:25.3.0] C:\Users\marlo\.android\build-cache\62039233cf454082574b8adb1860b7532a4f216f\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-ui:25.3.0] C:\Users\marlo\.android\build-cache\2be7131d874359c58eef551107ae110acbd7527d\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-utils:25.3.0] C:\Users\marlo\.android\build-cache\ce6d8306bd569015609ebaafe2acb0be6a6ecaa7\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.3.0] C:\Users\marlo\.android\build-cache\7d34d1a5fed0cae2fe1d39ba9e6b1c15d40b0bc7\output\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-vector-drawable:25.3.0] C:\Users\marlo\.android\build-cache\96af93f51e65ad118b36c247998d3e29d0cc9562\output\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-compat:25.3.0] C:\Users\marlo\.android\build-cache\4dde04610791f13a13f2987a792e1248fcf560d1\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\marlo\.android\build-cache\5bd2f062deb328e047ab67af9572967b7590c54e\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\marlo\.android\build-cache\9ec27e447ab0d6634504077ed3a3f4179c120769\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\marlo\.android\build-cache\2335b17c088c234f77bf2e2231801ca7c52babd1\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\marlo\.android\build-cache\c8cc696da83bc8f7ab1be813432d892ab4bde18d\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\marlo\.android\build-cache\e26ebe50d99fff289bb204127b79cacfcde32081\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\marlo\.android\build-cache\732cc95523c70907e4c22cac507210478a441d77\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\marlo\.android\build-cache\4f52c2cc4cdc6d326f7ea6a597e467a482661776\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\marlo\.android\build-cache\3247f94de43c297262e2e55a1b6d4b97d08f87c6\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\marlo\.android\build-cache\903d3cbe0c48011cbdef9ef481b0d87469097830\output\AndroidManifest.xml:29:5-20
 	android:label
 		ADDED from C:\Android Projects\Personal\Released or Beta\Aperture\Aperture\app\src\main\AndroidManifest.xml:14:9-41
 	android:supportsRtl
@@ -104,26 +104,26 @@ uses-sdk
 INJECTED from C:\Android Projects\Personal\Released or Beta\Aperture\Aperture\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.kishan.askpermission:askpermission:1.0.3] C:\Users\marlo\.android\build-cache\5d006ee529f447106e0c2422779bdf3e07e426c7\output\AndroidManifest.xml:7:5-9:41
 MERGED from [com.afollestad:assent:0.2.5] C:\Users\marlo\.android\build-cache\20e92da3fffba62a145337349f4bca1ffa25232c\output\AndroidManifest.xml:8:5-10:41
-MERGED from [com.afollestad.material-dialogs:commons:0.9.3.0] C:\Users\marlo\.android\build-cache\ba275a8173ae9a0793816626c5a2c173a2a98140\output\AndroidManifest.xml:8:5-10:41
-MERGED from [com.afollestad.material-dialogs:core:0.9.3.0] C:\Users\marlo\.android\build-cache\82127cd1a52fc281d786635cd0930f7751f8af78\output\AndroidManifest.xml:8:5-11:75
-MERGED from [com.android.support:support-v13:25.3.0] C:\Users\marlo\.android\build-cache\9d045689ebbf02c814906c0fc66b43870a17bbba\output\AndroidManifest.xml:21:5-23:55
-MERGED from [me.zhanghai.android.materialprogressbar:library:1.3.0] C:\Users\marlo\.android\build-cache\86d09b0dd81a75390b727de6e18066e22cdb0950\output\AndroidManifest.xml:12:5-14:41
+MERGED from [com.afollestad.material-dialogs:commons:0.9.4.5] C:\Users\marlo\.android\build-cache\01c545f7a0f282f53ee49cce80634800354b6779\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.afollestad.material-dialogs:core:0.9.4.5] C:\Users\marlo\.android\build-cache\adcae3a34374a14694cb9cf7968b5dc3d2a58093\output\AndroidManifest.xml:8:5-11:75
+MERGED from [com.android.support:support-v13:25.3.1] C:\Users\marlo\.android\build-cache\e6c47f805e34ac9534b03c705a7995ffa9c4142f\output\AndroidManifest.xml:21:5-23:55
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.4.1] C:\Users\marlo\.android\build-cache\feca74ba6fd2174979f7cba7ee1504599fec9bd7\output\AndroidManifest.xml:12:5-14:41
 MERGED from [com.roughike:bottom-bar:1.3.9] C:\Users\marlo\.android\build-cache\7a0b988f8171bef1c16921acf30fb59134500df1\output\AndroidManifest.xml:8:5-10:41
-MERGED from [com.android.support:design:25.3.0] C:\Users\marlo\.android\build-cache\afd3c357cf77bd59abaac49d8c2afa96bbcfc5f1\output\AndroidManifest.xml:21:5-23:62
-MERGED from [com.android.support:recyclerview-v7:25.3.0] C:\Users\marlo\.android\build-cache\0db0aa29f69ffec68b323a472007075951f42dee\output\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:transition:25.3.0] C:\Users\marlo\.android\build-cache\a42178937b7728180dcab22a48e684938c944ae3\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:25.3.1] C:\Users\marlo\.android\build-cache\c7bdb5d5fdaf330cf1e361f8b65074735502c474\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\marlo\.android\build-cache\9c57087297d29f72468068d29d548d124bc2aa76\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Users\marlo\.android\build-cache\0555b99658d20d623729896f8177d65ddd7bb914\output\AndroidManifest.xml:20:5-44
 MERGED from [com.marlonjones.library:GyroCheck:1.0.1] C:\Users\marlo\.android\build-cache\28467bdbf19c2fd567fa162d946f7051d0d28ed7\output\AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:appcompat-v7:25.3.0] C:\Users\marlo\.android\build-cache\27e1f5dd6ad6846a0e5c3b11a7b1b5e6586b1cea\output\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:support-v4:25.3.0] C:\Users\marlo\.android\build-cache\097c1acfcc6e82ccd06681cfa1e4f7cae297cbf9\output\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:25.3.0] C:\Users\marlo\.android\build-cache\57b92dd3753ec973b5877559bfe946d044b1e230\output\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:25.3.0] C:\Users\marlo\.android\build-cache\62039233cf454082574b8adb1860b7532a4f216f\output\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-ui:25.3.0] C:\Users\marlo\.android\build-cache\2be7131d874359c58eef551107ae110acbd7527d\output\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-utils:25.3.0] C:\Users\marlo\.android\build-cache\ce6d8306bd569015609ebaafe2acb0be6a6ecaa7\output\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:animated-vector-drawable:25.3.0] C:\Users\marlo\.android\build-cache\7d34d1a5fed0cae2fe1d39ba9e6b1c15d40b0bc7\output\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:25.3.0] C:\Users\marlo\.android\build-cache\96af93f51e65ad118b36c247998d3e29d0cc9562\output\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-compat:25.3.0] C:\Users\marlo\.android\build-cache\4dde04610791f13a13f2987a792e1248fcf560d1\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\marlo\.android\build-cache\5bd2f062deb328e047ab67af9572967b7590c54e\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\marlo\.android\build-cache\9ec27e447ab0d6634504077ed3a3f4179c120769\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\marlo\.android\build-cache\2335b17c088c234f77bf2e2231801ca7c52babd1\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\marlo\.android\build-cache\c8cc696da83bc8f7ab1be813432d892ab4bde18d\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\marlo\.android\build-cache\e26ebe50d99fff289bb204127b79cacfcde32081\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\marlo\.android\build-cache\732cc95523c70907e4c22cac507210478a441d77\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\marlo\.android\build-cache\4f52c2cc4cdc6d326f7ea6a597e467a482661776\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\marlo\.android\build-cache\3247f94de43c297262e2e55a1b6d4b97d08f87c6\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\marlo\.android\build-cache\903d3cbe0c48011cbdef9ef481b0d87469097830\output\AndroidManifest.xml:21:5-23:58
 	tools:overrideLibrary
-		ADDED from [com.afollestad.material-dialogs:core:0.9.3.0] C:\Users\marlo\.android\build-cache\82127cd1a52fc281d786635cd0930f7751f8af78\output\AndroidManifest.xml:11:9-72
+		ADDED from [com.afollestad.material-dialogs:core:0.9.4.5] C:\Users\marlo\.android\build-cache\adcae3a34374a14694cb9cf7968b5dc3d2a58093\output\AndroidManifest.xml:11:9-72
 	android:targetSdkVersion
 		INJECTED from C:\Android Projects\Personal\Released or Beta\Aperture\Aperture\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Android Projects\Personal\Released or Beta\Aperture\Aperture\app\src\main\AndroidManifest.xml
@@ -131,23 +131,23 @@ MERGED from [com.android.support:support-compat:25.3.0] C:\Users\marlo\.android\
 		INJECTED from C:\Android Projects\Personal\Released or Beta\Aperture\Aperture\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Android Projects\Personal\Released or Beta\Aperture\Aperture\app\src\main\AndroidManifest.xml
 meta-data#android.support.VERSION
-ADDED from [com.android.support:support-v13:25.3.0] C:\Users\marlo\.android\build-cache\9d045689ebbf02c814906c0fc66b43870a17bbba\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:design:25.3.0] C:\Users\marlo\.android\build-cache\afd3c357cf77bd59abaac49d8c2afa96bbcfc5f1\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:recyclerview-v7:25.3.0] C:\Users\marlo\.android\build-cache\0db0aa29f69ffec68b323a472007075951f42dee\output\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:transition:25.3.0] C:\Users\marlo\.android\build-cache\a42178937b7728180dcab22a48e684938c944ae3\output\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:appcompat-v7:25.3.0] C:\Users\marlo\.android\build-cache\27e1f5dd6ad6846a0e5c3b11a7b1b5e6586b1cea\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-v4:25.3.0] C:\Users\marlo\.android\build-cache\097c1acfcc6e82ccd06681cfa1e4f7cae297cbf9\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-fragment:25.3.0] C:\Users\marlo\.android\build-cache\57b92dd3753ec973b5877559bfe946d044b1e230\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-media-compat:25.3.0] C:\Users\marlo\.android\build-cache\62039233cf454082574b8adb1860b7532a4f216f\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-ui:25.3.0] C:\Users\marlo\.android\build-cache\2be7131d874359c58eef551107ae110acbd7527d\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-utils:25.3.0] C:\Users\marlo\.android\build-cache\ce6d8306bd569015609ebaafe2acb0be6a6ecaa7\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:animated-vector-drawable:25.3.0] C:\Users\marlo\.android\build-cache\7d34d1a5fed0cae2fe1d39ba9e6b1c15d40b0bc7\output\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-vector-drawable:25.3.0] C:\Users\marlo\.android\build-cache\96af93f51e65ad118b36c247998d3e29d0cc9562\output\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-compat:25.3.0] C:\Users\marlo\.android\build-cache\4dde04610791f13a13f2987a792e1248fcf560d1\output\AndroidManifest.xml:25:5-27:34
+ADDED from [com.android.support:support-v13:25.3.1] C:\Users\marlo\.android\build-cache\e6c47f805e34ac9534b03c705a7995ffa9c4142f\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:design:25.3.1] C:\Users\marlo\.android\build-cache\c7bdb5d5fdaf330cf1e361f8b65074735502c474\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\marlo\.android\build-cache\9c57087297d29f72468068d29d548d124bc2aa76\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\marlo\.android\build-cache\0555b99658d20d623729896f8177d65ddd7bb914\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\marlo\.android\build-cache\5bd2f062deb328e047ab67af9572967b7590c54e\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\marlo\.android\build-cache\9ec27e447ab0d6634504077ed3a3f4179c120769\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\marlo\.android\build-cache\2335b17c088c234f77bf2e2231801ca7c52babd1\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\marlo\.android\build-cache\c8cc696da83bc8f7ab1be813432d892ab4bde18d\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\marlo\.android\build-cache\e26ebe50d99fff289bb204127b79cacfcde32081\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\marlo\.android\build-cache\732cc95523c70907e4c22cac507210478a441d77\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\marlo\.android\build-cache\4f52c2cc4cdc6d326f7ea6a597e467a482661776\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\marlo\.android\build-cache\3247f94de43c297262e2e55a1b6d4b97d08f87c6\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\marlo\.android\build-cache\903d3cbe0c48011cbdef9ef481b0d87469097830\output\AndroidManifest.xml:25:5-27:34
 	android:value
-		ADDED from [com.android.support:support-v13:25.3.0] C:\Users\marlo\.android\build-cache\9d045689ebbf02c814906c0fc66b43870a17bbba\output\AndroidManifest.xml:27:9-31
+		ADDED from [com.android.support:support-v13:25.3.1] C:\Users\marlo\.android\build-cache\e6c47f805e34ac9534b03c705a7995ffa9c4142f\output\AndroidManifest.xml:27:9-31
 	android:name
-		ADDED from [com.android.support:support-v13:25.3.0] C:\Users\marlo\.android\build-cache\9d045689ebbf02c814906c0fc66b43870a17bbba\output\AndroidManifest.xml:26:9-47
+		ADDED from [com.android.support:support-v13:25.3.1] C:\Users\marlo\.android\build-cache\e6c47f805e34ac9534b03c705a7995ffa9c4142f\output\AndroidManifest.xml:26:9-47
 uses-feature#android.hardware.sensor.gyroscope
 ADDED from [com.marlonjones.library:GyroCheck:1.0.1] C:\Users\marlo\.android\build-cache\28467bdbf19c2fd567fa162d946f7051d0d28ed7\output\AndroidManifest.xml:11:5-70
 	android:name
