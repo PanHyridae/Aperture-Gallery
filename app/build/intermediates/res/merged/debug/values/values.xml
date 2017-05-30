@@ -831,6 +831,7 @@
     <string name="bottombarcamera">Camera</string>
     <string name="bottombarphoto">All</string>
     <string name="bottombarvid">Videos</string>
+    <string name="cameratog">Camera</string>
     <string name="cardtog">Google Cardboard Mode</string>
     <string name="character_counter_pattern" translatable="false">%1$d / %2$d</string>
     <string name="closeDrawer">closeDrawer</string>

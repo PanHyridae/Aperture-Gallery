@@ -3,7 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     tools:context="com.marlonjones.projectevo.MainActivity" >
     <item
-        android:id="@+id/cardboard_toggle"
+        android:id="@+id/cam_toggle"
         android:orderInCategory="100"
         android:title="@string/cameratog"
         android:icon="@drawable/ic_camera_24dp"

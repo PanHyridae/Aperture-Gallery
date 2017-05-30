@@ -108,12 +108,11 @@ public class ActivityHome extends AppCompatActivity implements PermissionCallbac
             Intent settingsIntent = new Intent(ActivityHome.this, SettingsActivity.class);
             startActivity(settingsIntent);
 		}
-		//Menu Item for Google Cardboard VR mode
-        //TODO - Add in Google Cardboard SDK and activate this
-		if (id ==R.id.cardboard_toggle){
-			Toast.makeText(getApplicationContext(), "Google Cardboard Mode is in development!",
-					Toast.LENGTH_SHORT).show();
+		if (id == R.id.cam_toggle){
+			Intent intent = new Intent("android.media.action.IMAGE_CAPTURE"); //Temporary Concept - Change to open entire app instead
+			startActivity(intent);
 		}
+		//TODO - Add Cardboard mode back in at some time
 		return super.onOptionsItemSelected(item);
 	}
 
