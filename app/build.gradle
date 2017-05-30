@@ -47,6 +47,7 @@ dependencies {
     compile 'com.afollestad:assent:0.2.5' //Replace Current Permission Library with this
     compile 'com.afollestad.material-dialogs:core:0.9.4.5'
     compile 'com.afollestad.material-dialogs:commons:0.9.4.5'
+    compile 'com.afollestad:aesthetic:0.4.6'
     compile 'com.roughike:bottom-bar:1.3.9'
     compile 'com.marlonjones.library:GyroCheck:1.0.1' //My Library - To test Gyro for Cardboard Mode
 }

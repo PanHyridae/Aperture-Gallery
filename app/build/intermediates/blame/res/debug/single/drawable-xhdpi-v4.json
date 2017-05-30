@@ -28,12 +28,12 @@
         "source": "C:\\Users\\marlo\\.android\\build-cache\\5bd2f062deb328e047ab67af9572967b7590c54e\\output\\res\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
     },
     {
-        "merged": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
-        "source": "C:\\Users\\marlo\\.android\\build-cache\\5bd2f062deb328e047ab67af9572967b7590c54e\\output\\res\\drawable-xhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
-    },
-    {
         "merged": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
         "source": "C:\\Users\\marlo\\.android\\build-cache\\5bd2f062deb328e047ab67af9572967b7590c54e\\output\\res\\drawable-xhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\marlo\\.android\\build-cache\\5bd2f062deb328e047ab67af9572967b7590c54e\\output\\res\\drawable-xhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
     },
     {
         "merged": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png",

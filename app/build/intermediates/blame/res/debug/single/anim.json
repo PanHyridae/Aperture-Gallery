@@ -1,11 +1,11 @@
 [
     {
-        "merged": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
-        "source": "C:\\Users\\marlo\\.android\\build-cache\\5bd2f062deb328e047ab67af9572967b7590c54e\\output\\res\\anim\\abc_slide_out_bottom.xml"
-    },
-    {
         "merged": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
         "source": "C:\\Users\\marlo\\.android\\build-cache\\c7bdb5d5fdaf330cf1e361f8b65074735502c474\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\marlo\\.android\\build-cache\\5bd2f062deb328e047ab67af9572967b7590c54e\\output\\res\\anim\\abc_slide_out_bottom.xml"
     },
     {
         "merged": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
@@ -28,12 +28,12 @@
         "source": "C:\\Users\\marlo\\.android\\build-cache\\c7bdb5d5fdaf330cf1e361f8b65074735502c474\\output\\res\\anim\\design_fab_in.xml"
     },
     {
-        "merged": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
-        "source": "C:\\Users\\marlo\\.android\\build-cache\\5bd2f062deb328e047ab67af9572967b7590c54e\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
-    },
-    {
         "merged": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\anim\\activity_alpha_action_in.xml",
         "source": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\src\\main\\res\\anim\\activity_alpha_action_in.xml"
+    },
+    {
+        "merged": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\marlo\\.android\\build-cache\\5bd2f062deb328e047ab67af9572967b7590c54e\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
     },
     {
         "merged": "C:\\Android Projects\\Personal\\Released or Beta\\Aperture\\Aperture\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",

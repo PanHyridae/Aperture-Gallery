@@ -102,6 +102,36 @@
     <color name="abc_search_url_text_selected">@android:color/black</color>
     <color name="accent_material_dark">@color/material_deep_teal_200</color>
     <color name="accent_material_light">@color/material_deep_teal_500</color>
+    <color name="ate_bottom_nav_default_dark_bg">#424242</color>
+    <color name="ate_bottom_nav_default_light_bg">#F5F5F5</color>
+    <color name="ate_button_disabled_dark">#1F000000</color>
+    <color name="ate_button_disabled_light">#1F000000</color>
+    <color name="ate_button_text_disabled_dark">#4DFFFFFF</color>
+    <color name="ate_button_text_disabled_light">#43000000</color>
+    <color name="ate_cardview_bg_dark">#424242</color>
+    <color name="ate_cardview_bg_light">#FFFFFF</color>
+    <color name="ate_control_disabled_dark">#4DFFFFFF</color>
+    <color name="ate_control_disabled_light">#43000000</color>
+    <color name="ate_control_normal_dark">#B3FFFFFF</color>
+    <color name="ate_control_normal_light">#8A000000</color>
+    <color name="ate_icon_dark">#ffffffff</color>
+    <color name="ate_icon_dark_inactive">#80FFFFFF</color>
+    <color name="ate_icon_light">#8A000000</color>
+    <color name="ate_icon_light_inactive">#61000000</color>
+    <color name="ate_navigation_drawer_selected_dark">#202020</color>
+    <color name="ate_navigation_drawer_selected_light">#E8E8E8</color>
+    <color name="ate_primary_text_dark">#FFFFFFFF</color>
+    <color name="ate_primary_text_light">#DE000000</color>
+    <color name="ate_switch_thumb_disabled_dark">#FF424242</color>
+    <color name="ate_switch_thumb_disabled_light">#FFBDBDBD</color>
+    <color name="ate_switch_thumb_normal_dark">#FFBDBDBD</color>
+    <color name="ate_switch_thumb_normal_light">#FFFAFAFA</color>
+    <color name="ate_switch_track_disabled_dark">#1AFFFFFF</color>
+    <color name="ate_switch_track_disabled_light">#1F000000</color>
+    <color name="ate_switch_track_normal_dark">#4DFFFFFF</color>
+    <color name="ate_switch_track_normal_light">#43000000</color>
+    <color name="ate_text_disabled_dark">#4DFFFFFF</color>
+    <color name="ate_text_disabled_light">#61000000</color>
     <color name="background_floating_material_dark">@color/material_grey_800</color>
     <color name="background_floating_material_light">@android:color/white</color>
     <color name="background_material_dark">@color/material_grey_850</color>
@@ -117,6 +147,10 @@
     <color name="bright_foreground_material_light">@android:color/black</color>
     <color name="button_material_dark">#ff5a595b</color>
     <color name="button_material_light">#ffd6d7d7</color>
+    <color name="cardview_dark_background">#FF424242</color>
+    <color name="cardview_light_background">#FFFFFFFF</color>
+    <color name="cardview_shadow_end_color">#03000000</color>
+    <color name="cardview_shadow_start_color">#37000000</color>
     <color name="design_bottom_navigation_shadow_color">#14000000</color>
     <color name="design_fab_shadow_end_color">@android:color/transparent</color>
     <color name="design_fab_shadow_mid_color">#14000000</color>
@@ -246,6 +280,7 @@
             <enum name="auto" value="-1"/>
         </attr><attr format="boolean" name="behavior_hideable"/><attr format="boolean" name="behavior_skipCollapsed"/></declare-styleable>
     <declare-styleable name="ButtonBarLayout"><attr format="boolean" name="allowStacking"/></declare-styleable>
+    <declare-styleable name="CardView"><attr format="color" name="cardBackgroundColor"/><attr format="dimension" name="cardCornerRadius"/><attr format="dimension" name="cardElevation"/><attr format="dimension" name="cardMaxElevation"/><attr format="boolean" name="cardUseCompatPadding"/><attr format="boolean" name="cardPreventCornerOverlap"/><attr format="dimension" name="contentPadding"/><attr format="dimension" name="contentPaddingLeft"/><attr format="dimension" name="contentPaddingRight"/><attr format="dimension" name="contentPaddingTop"/><attr format="dimension" name="contentPaddingBottom"/><attr name="android:minWidth"/><attr name="android:minHeight"/></declare-styleable>
     <declare-styleable name="CollapsingToolbarLayout"><attr format="dimension" name="expandedTitleMargin"/><attr format="dimension" name="expandedTitleMarginStart"/><attr format="dimension" name="expandedTitleMarginTop"/><attr format="dimension" name="expandedTitleMarginEnd"/><attr format="dimension" name="expandedTitleMarginBottom"/><attr format="reference" name="expandedTitleTextAppearance"/><attr format="reference" name="collapsedTitleTextAppearance"/><attr format="color" name="contentScrim"/><attr format="color" name="statusBarScrim"/><attr format="reference" name="toolbarId"/><attr format="dimension" name="scrimVisibleHeightTrigger"/><attr format="integer" name="scrimAnimationDuration"/><attr name="collapsedTitleGravity">
             
             <flag name="top" value="0x30"/>
@@ -599,6 +634,9 @@
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
     <dimen name="bb_height">56dp</dimen>
+    <dimen name="cardview_compat_inset_shadow">1dp</dimen>
+    <dimen name="cardview_default_elevation">2dp</dimen>
+    <dimen name="cardview_default_radius">2dp</dimen>
     <dimen name="circular_progress_border">4dp</dimen>
     <dimen name="design_appbar_elevation">4dp</dimen>
     <dimen name="design_bottom_navigation_active_item_max_width">168dp</dimen>
@@ -917,6 +955,13 @@
     <style name="Base.Animation.AppCompat.DropDownUp" parent="android:Animation">
         <item name="android:windowEnterAnimation">@anim/abc_grow_fade_in_from_bottom</item>
         <item name="android:windowExitAnimation">@anim/abc_shrink_fade_out_from_bottom</item>
+    </style>
+    <style name="Base.CardView" parent="android:Widget">
+        <item name="cardCornerRadius">@dimen/cardview_default_radius</item>
+        <item name="cardElevation">@dimen/cardview_default_elevation</item>
+        <item name="cardMaxElevation">@dimen/cardview_default_elevation</item>
+        <item name="cardUseCompatPadding">false</item>
+        <item name="cardPreventCornerOverlap">true</item>
     </style>
     <style name="Base.DialogWindowTitle.AppCompat" parent="android:Widget">
         <item name="android:maxLines">1</item>
@@ -1924,6 +1969,14 @@
         <item name="tabBackground">?attr/selectableItemBackground</item>
         <item name="tabTextAppearance">@style/TextAppearance.Design.Tab</item>
         <item name="tabSelectedTextColor">?android:textColorPrimary</item>
+    </style>
+    <style name="CardView" parent="Base.CardView">
+    </style>
+    <style name="CardView.Dark">
+        <item name="cardBackgroundColor">@color/cardview_dark_background</item>
+    </style>
+    <style name="CardView.Light">
+        <item name="cardBackgroundColor">@color/cardview_light_background</item>
     </style>
     <style name="MD_ActionButton">
     <item name="android:layout_width">wrap_content</item>
