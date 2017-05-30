@@ -2,8 +2,8 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
     <item
         android:id="@+id/bottomBarItemOne"
-        android:icon="@drawable/ic_photos"
-        android:title="@string/bottombarphoto" />
+        android:icon="@drawable/ic_photo_library_24dp"
+        android:title="@string/Albums" />
     <item
         android:id="@+id/bottomBarItemTwo"
         android:icon="@drawable/ic_camera"

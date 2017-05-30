@@ -37,8 +37,8 @@ public class ActivityHome extends AppCompatActivity implements PermissionCallbac
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(com.marlonjones.projectevo.R.layout.activity_home);
-        Toolbar toolbar = (Toolbar) findViewById(R.id.tool_bar);
-        toolbar.setTitle("Photos");
+        final Toolbar toolbar = (Toolbar) findViewById(R.id.tool_bar);
+        toolbar.setTitle("Albums"); //This may be changed once the app's name is changed
         setSupportActionBar(toolbar);
 		//Message at start of app!
 		new MaterialDialog.Builder(this)
@@ -59,9 +59,11 @@ public class ActivityHome extends AppCompatActivity implements PermissionCallbac
         BotLane.noTabletGoodness();
 		BotLane.setItems(R.menu.bottombar_menu);
 		BotLane.setOnMenuTabClickListener(new OnMenuTabClickListener() {
+            //Consider replacing with Google Bottom Bar from Android Design Library
 			@Override
 			public void onMenuTabSelected(@IdRes int menuItemId) {
 				if (menuItemId == R.id.bottomBarItemOne) {
+                    toolbar.setTitle("Albums");
                     Fragment semtexFrag = new GalleryFragment();
                     FragmentTransaction ft = getSupportFragmentManager().beginTransaction();
                     ft.replace(R.id.fragment_container, semtexFrag);
@@ -70,6 +72,7 @@ public class ActivityHome extends AppCompatActivity implements PermissionCallbac
                     ft.commit();
 				}
                 if (menuItemId == R.id.bottomBarItemTwo) {
+                    toolbar.setTitle("Camera");
                     Fragment claymoreFrag = new CameraFragment();
                     FragmentTransaction ft = getSupportFragmentManager().beginTransaction();
                     ft.replace(R.id.fragment_container, claymoreFrag);
@@ -78,6 +81,7 @@ public class ActivityHome extends AppCompatActivity implements PermissionCallbac
                     ft.commit();
                 }
                 if (menuItemId == R.id.bottomBarItemThree) {
+                    toolbar.setTitle("Videos");
                     Fragment moabFrag = new VideoFragment();
                     FragmentTransaction ft = getSupportFragmentManager().beginTransaction();
                     ft.replace(R.id.fragment_container, moabFrag);
@@ -109,8 +113,10 @@ public class ActivityHome extends AppCompatActivity implements PermissionCallbac
             startActivity(settingsIntent);
 		}
 		if (id == R.id.cam_toggle){
-			Intent intent = new Intent("android.media.action.IMAGE_CAPTURE"); //Temporary Concept - Change to open entire app instead
+			Intent intent = new Intent("android.media.action.IMAGE_CAPTURE");
 			startActivity(intent);
+            //Temporary Concept - Change to open entire app instead. This will only show the
+            //Selector of the photos and not the entire app
 		}
 		//TODO - Add Cardboard mode back in at some time
 		return super.onOptionsItemSelected(item);

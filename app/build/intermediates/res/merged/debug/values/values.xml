@@ -775,6 +775,7 @@
     <integer name="show_password_duration">200</integer>
     <integer name="status_bar_notification_info_maxnum">999</integer>
     <string name="About">About</string>
+    <string name="Albums">Albums</string>
     <string name="Gyroscope">Gyroscope</string>
     <string name="OK">OK</string>
     <string name="abc_action_bar_home_description">Navigate home</string>
