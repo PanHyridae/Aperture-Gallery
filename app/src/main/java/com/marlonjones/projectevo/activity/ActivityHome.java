@@ -47,7 +47,8 @@ public class ActivityHome extends AppCompatActivity implements PermissionCallbac
 				.positiveText(R.string.OK)
 				.show();
 		//Asks for permission. Works, sort of. Temporary Solution
-        new AskPermission.Builder(this).setPermissions(Manifest.permission.CAMERA, Manifest.permission.READ_EXTERNAL_STORAGE)
+        new AskPermission.Builder(this).setPermissions(Manifest.permission.CAMERA,
+                Manifest.permission.READ_EXTERNAL_STORAGE)
 				.setCallback(this)
 				.setErrorCallback(this)
 				.request (GET_PERMISSIONS);
