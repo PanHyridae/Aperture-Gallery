@@ -112,9 +112,10 @@ public class GalleryFragment extends Fragment {
 		public ListAdapter(Context context) {
 			mContext = context;
 			options = new DisplayImageOptions.Builder()
-					.showImageOnLoading(com.marlonjones.projectevo.R.drawable.nophotos)
+                    .showImageOnLoading(com.marlonjones.projectevo.R.drawable.nophotos)
 					.showImageForEmptyUri(com.marlonjones.projectevo.R.drawable.nophotos)
-					.showImageOnFail(com.marlonjones.projectevo.R.drawable.nophotos).cacheInMemory(true)
+					.showImageOnFail(com.marlonjones.projectevo.R.drawable.nophotos)
+                    .cacheInMemory(true)
 					.cacheOnDisc(true).considerExifParams(true).build();
 			imageLoader.init(ImageLoaderConfiguration.createDefault(context));
 		}
