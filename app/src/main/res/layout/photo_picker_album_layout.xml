@@ -2,7 +2,7 @@
     android:layout_width="100dp"
     android:layout_height="100dp"
     android:layout_gravity="top"
-    android:background="#ff000000" >
+    android:background="@android:color/white" >
 
     <ImageView
         android:id="@+id/media_photo_image"
@@ -15,7 +15,7 @@
         android:layout_width="fill_parent"
         android:layout_height="28dp"
         android:layout_gravity="bottom"
-        android:background="#7f000000"
+        android:background="@android:color/white"
         android:orientation="horizontal" >
 
         <TextView
@@ -28,8 +28,10 @@
             android:gravity="center_vertical"
             android:maxLines="1"
             android:singleLine="true"
-            android:textColor="#ffffffff"
-            android:textSize="13dp" />
+            android:textColor="#212121"
+            android:textStyle="bold"
+            android:fontFamily="sans-serif-light"
+            android:textSize="14sp" />
 
         <TextView
             android:id="@+id/album_count"
@@ -37,11 +39,11 @@
             android:layout_height="fill_parent"
             android:layout_marginLeft="4dp"
             android:layout_marginRight="4dp"
-            android:gravity="center_vertical"
+            android:gravity="center"
             android:maxLines="1"
             android:singleLine="true"
-            android:textColor="#ffaaaaaa"
-            android:textSize="13dp" />
+            android:textColor="#bdbdbd"
+            android:textSize="12sp" />
     </LinearLayout>
 
 </FrameLayout>

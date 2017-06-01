@@ -63,7 +63,7 @@ public class GalleryFragment extends Fragment {
         int position = mView.getFirstVisiblePosition();
         int columnsCount = 2;
         mView.setNumColumns(columnsCount);
-        itemWidth = (ApertureBasing.displaySize.x - ((columnsCount + 1) * ApertureBasing.dp(4))) / columnsCount;
+        itemWidth = (ApertureBasing.displaySize.x - ((columnsCount + 1) * ApertureBasing.dp(13))) / columnsCount;
         mView.setColumnWidth(itemWidth);
 
         listAdapter.notifyDataSetChanged();
