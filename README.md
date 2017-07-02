@@ -1,7 +1,7 @@
-# Aperture Gallery
-Aperture is now under new development. Follow this for more updates, and to contribute to the project. 
-Aperture uses code from <a href ="https://github.com/dibakarece/OwnGalleryView">OwnGalleryView</a>, which is licenesed 
-under Apache 2.0. It is planned to be finished some time in late 2017.
+# Aperture Gallery - Abandoned 2.0 Code
+This version of Aperture is incomplete, and was written when the original version of Aperture was abandoned due to bugs, and a corrupted
+keystore. Now since the old version of Aperture has been updated to work much better than its original version, and better than this 
+version, this code is now abandoned and used as reference code. Anyone is free to use this, but remember that it does not work as well. 
 
 For more information, refer to FAQ.txt
 
