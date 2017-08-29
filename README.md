@@ -1,7 +1,5 @@
 # Aperture Gallery - Abandoned 2.0 Code
-This version of Aperture is incomplete, and was written when the original version of Aperture was abandoned due to bugs, and a corrupted
-keystore. Now since the old version of Aperture has been updated to work much better than its original version, and better than this 
-version, this code is now abandoned and used as reference code. Anyone is free to use this, but remember that it does not work as well. 
+This project has been abandoned due to other porjects and classes that I must focus on. This code is open source for all to use. 
 
 For more information, refer to FAQ.txt
 
